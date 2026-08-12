@@ -1,0 +1,20 @@
+{
+  "atualizado_em": "12 de agosto de 2026",
+  "pilares": [
+    {
+      "nome": "Profissional",
+      "cor": "var(--pilar-profissional)",
+      "materias": []
+    },
+    {
+      "nome": "Trabalho",
+      "cor": "var(--pilar-trabalho)",
+      "materias": []
+    },
+    {
+      "nome": "Lazer",
+      "cor": "var(--pilar-lazer)",
+      "materias": []
+    }
+  ]
+}
