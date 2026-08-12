@@ -1,1 +1,44 @@
+name: Atualizar Dados
 
+on:
+  schedule:
+    # 09:00 UTC = 06:00 (horário de Brasília) toda segunda-feira
+    - cron: '0 9 * * 1'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualizar-dados
+  cancel-in-progress: false
+
+jobs:
+  buscar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Instalar dependências
+        run: pip install -r scripts/requirements.txt
+
+      - name: Buscar matérias da semana
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/buscar_materias.py
+
+      - name: Commitar data.json atualizado
+        run: |
+          git config user.name "radar-semanal-bot"
+          git config user.email "actions@github.com"
+          git add site/data.json
+          if git diff --cached --quiet; then
+            echo "Nenhuma mudança em data.json — nada para commitar."
+          else
+            git commit -m "Atualiza matérias da semana ($(date -u +%Y-%m-%d))"
+            git push
+          fi
