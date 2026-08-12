@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Radar Semanal</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:wght@500;600;700&family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --color-primary: #18181B;
+    --color-background: #FAFAFA;
+    --color-card: #FFFFFF;
+    --color-muted: #E8ECF0;
+    --color-muted-foreground: #64748B;
+    --color-border: #E4E4E7;
+    --color-accent: #2563EB;
+
+    --pilar-profissional: #2563EB;
+    --pilar-trabalho: #D97706;
+    --pilar-lazer: #059669;
+
+    --font-heading: 'Newsreader', Georgia, serif;
+    --font-body: 'Roboto', -apple-system, BlinkMacSystemFont, sans-serif;
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--color-background);
+    color: var(--color-primary);
+    font-family: var(--font-body);
+    font-size: 16px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  header {
+    padding: 32px 24px 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+    border-bottom: 1px solid var(--color-border);
+  }
+
+  header h1 {
+    font-family: var(--font-heading);
+    font-size: clamp(28px, 4vw, 38px);
+    font-weight: 700;
+    margin: 0 0 4px;
+    letter-spacing: -0.02em;
+  }
+
+  header p {
+    margin: 0;
+    color: var(--color-muted-foreground);
+    font-size: 14px;
+  }
+
+  main {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 32px 24px 64px;
+  }
+
+  section.pilar {
+    margin-bottom: 48px;
+  }
+
+  .pilar-header {
+    display: flex;
+    align-items: baseline;
+    gap: 10px;
+    margin-bottom: 18px;
+  }
+
+  .pilar-header .dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex: none;
+  }
+
+  .pilar-header h2 {
+    font-family: var(--font-heading);
+    font-size: 22px;
+    font-weight: 600;
+    margin: 0;
+  }
+
+  .pilar-header .count {
+    color: var(--color-muted-foreground);
+    font-size: 13px;
+  }
+
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 16px;
+  }
+
+  .card {
+    background: var(--color-card);
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+    padding: 18px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    transition: box-shadow 200ms ease, transform 200ms ease;
+  }
+
+  .card:hover {
+    box-shadow: 0 4px 16px rgba(0,0,0,0.06);
+    transform: translateY(-2px);
+  }
+
+  .card .tema-tag {
+    font-size: 11px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--color-muted-foreground);
+  }
+
+  .card h3 {
+    font-family: var(--font-heading);
+    font-size: 17px;
+    font-weight: 600;
+    margin: 0;
+    line-height: 1.3;
+  }
+
+  .card p.resumo {
+    font-size: 14px;
+    color: #3F3F46;
+    margin: 0;
+    flex-grow: 1;
+  }
+
+  .card .meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    color: var(--color-muted-foreground);
+    padding-top: 8px;
+    border-top: 1px solid var(--color-border);
+  }
+
+  .card a.ler-materia {
+    color: var(--color-accent);
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 13px;
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    cursor: pointer;
+  }
+
+  .card a.ler-materia:hover {
+    text-decoration: underline;
+  }
+
+  .card a.ler-materia svg {
+    width: 13px;
+    height: 13px;
+  }
+
+  footer {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 24px;
+    color: var(--color-muted-foreground);
+    font-size: 12px;
+    border-top: 1px solid var(--color-border);
+  }
+
+  @media (max-width: 640px) {
+    .cards-grid { grid-template-columns: 1fr; }
+    header { padding: 24px 16px 16px; }
+    main { padding: 24px 16px 48px; }
+  }
+
+  a:focus-visible, .card:focus-visible {
+    outline: 2px solid var(--color-accent);
+    outline-offset: 2px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Radar Semanal</h1>
+  <p id="atualizado">Atualizado em -- (exemplo de layout, sem dados reais ainda)</p>
+</header>
+
+<main id="main"></main>
+
+<footer>
+  Radar Semanal — gerado automaticamente toda semana via Claude API.
+</footer>
+
+<script>
+// DADOS DE EXEMPLO — serão substituídos por fetch('data.json') gerado pelo job semanal.
+const DADOS_EXEMPLO = {
+  atualizado_em: "12 de agosto de 2026",
+  pilares: [
+    {
+      nome: "Profissional",
+      cor: "var(--pilar-profissional)",
+      materias: [
+        {
+          tema: "AI para Gestão de Pessoas",
+          titulo: "Como empresas estão usando IA generativa para redesenhar avaliações de performance",
+          resumo: "Levantamento mostra empresas substituindo ciclos anuais de avaliação por feedback contínuo assistido por IA, com foco em reduzir viés e tempo de gestores.",
+          fonte: "Harvard Business Review",
+          data: "10 ago 2026",
+          link: "#"
+        },
+        {
+          tema: "Automação de Processos",
+          titulo: "Redesenho de processos operacionais: o que separa projetos que geram ROI dos que travam em piloto",
+          resumo: "Análise de casos aponta governança clara e métricas de baseline como principais diferenciais entre automações que escalam e as que ficam presas em POC.",
+          fonte: "McKinsey",
+          data: "08 ago 2026",
+          link: "#"
+        },
+        {
+          tema: "Gestão Operacional",
+          titulo: "CEOs de mídia priorizam eficiência operacional em 2026, aponta pesquisa setorial",
+          resumo: "Pesquisa com executivos de mídia e conteúdo revela foco em consolidação de processos e redução de camadas de aprovação como prioridade do ano.",
+          fonte: "MIT Sloan Management Review",
+          data: "05 ago 2026",
+          link: "#"
+        }
+      ]
+    },
+    {
+      nome: "Trabalho",
+      cor: "var(--pilar-trabalho)",
+      materias: [
+        {
+          tema: "Upfront",
+          titulo: "Upfronts 2026: anunciantes pressionam por métricas unificadas entre TV linear e streaming",
+          resumo: "Grandes grupos de mídia relatam maior exigência por medição cross-plataforma nas negociações de upfront deste ano, acelerando adoção de currency alternativa ao painel tradicional.",
+          fonte: "AdExchanger",
+          data: "11 ago 2026",
+          link: "#"
+        },
+        {
+          tema: "Novas Entregas Publicitárias",
+          titulo: "Formatos shoppable ganham espaço em CTV à medida que publishers buscam nova fonte de receita",
+          resumo: "Publishers testam anúncios com checkout embutido em conteúdo de vídeo conectado, com resultados iniciais de engajamento acima da média de display tradicional.",
+          fonte: "Digiday",
+          data: "09 ago 2026",
+          link: "#"
+        },
+        {
+          tema: "Receita com Publicidade",
+          titulo: "Receita programática de publishers brasileiros cresce apesar de pressão sobre CPMs",
+          resumo: "Dados do setor mostram volume compensando queda de preço médio, com header bidding respondendo por parcela crescente do inventário vendido.",
+          fonte: "Meio & Mensagem",
+          data: "07 ago 2026",
+          link: "#"
+        }
+      ]
+    },
+    {
+      nome: "Lazer",
+      cor: "var(--pilar-lazer)",
+      materias: [
+        {
+          tema: "Curso de Vela Oceânica",
+          titulo: "O que esperar de um curso de vela oceânica para quem já navega em regatas costeiras",
+          resumo: "Guia compara cargas horárias e pré-requisitos de cursos de vela oceânica no Brasil, com foco em navegação noturna e previsão meteorológica.",
+          fonte: "Revista Náutica",
+          data: "06 ago 2026",
+          link: "#"
+        },
+        {
+          tema: "Cafés",
+          titulo: "Torrefadores independentes ganham espaço no circuito de cafés especiais do Rio",
+          resumo: "Mapeamento de novas torrefações cariocas destaca métodos de torra clara e origem única como tendência entre casas especializadas.",
+          fonte: "Sprudge",
+          data: "04 ago 2026",
+          link: "#"
+        },
+        {
+          tema: "Turismo no Rio de Janeiro",
+          titulo: "Roteiros de fim de semana perto do Rio para quem quer fugir do óbvio",
+          resumo: "Seleção de destinos a até duas horas da capital combina trilha, praia e gastronomia fora dos pontos mais turísticos.",
+          fonte: "O Globo",
+          data: "02 ago 2026",
+          link: "#"
+        }
+      ]
+    }
+  ]
+};
+
+function iconeLink() {
+  return '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path><polyline points="15 3 21 3 21 9"></polyline><line x1="10" y1="14" x2="21" y2="3"></line></svg>';
+}
+
+function render(dados) {
+  document.getElementById('atualizado').textContent = 'Atualizado em ' + dados.atualizado_em;
+
+  const main = document.getElementById('main');
+  main.innerHTML = '';
+
+  dados.pilares.forEach(pilar => {
+    const section = document.createElement('section');
+    section.className = 'pilar';
+
+    const header = document.createElement('div');
+    header.className = 'pilar-header';
+    header.innerHTML = `
+      <span class="dot" style="background:${pilar.cor}"></span>
+      <h2>${pilar.nome}</h2>
+      <span class="count">${pilar.materias.length} matérias</span>
+    `;
+    section.appendChild(header);
+
+    const grid = document.createElement('div');
+    grid.className = 'cards-grid';
+
+    pilar.materias.forEach(m => {
+      const card = document.createElement('article');
+      card.className = 'card';
+      card.innerHTML = `
+        <span class="tema-tag">${m.tema}</span>
+        <h3>${m.titulo}</h3>
+        <p class="resumo">${m.resumo}</p>
+        <div class="meta">
+          <span>${m.fonte} · ${m.data}</span>
+          <a class="ler-materia" href="${m.link}" target="_blank" rel="noopener">Ler matéria ${iconeLink()}</a>
+        </div>
+      `;
+      grid.appendChild(card);
+    });
+
+    section.appendChild(grid);
+    main.appendChild(section);
+  });
+}
+
+// Tenta buscar data.json real (gerado pelo job semanal); se não existir ainda, usa o exemplo.
+fetch('data.json')
+  .then(r => { if (!r.ok) throw new Error('sem data.json ainda'); return r.json(); })
+  .then(render)
+  .catch(() => render(DADOS_EXEMPLO));
+</script>
+
+</body>
+</html>

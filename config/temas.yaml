@@ -1,0 +1,101 @@
+# Configuração de temas do Radar Semanal
+# Pilares: Profissional / Trabalho / Lazer
+# Edite keywords e fontes_confiaveis livremente — o job semanal lê este arquivo.
+
+pilares:
+  - nome: Profissional
+    temas:
+      - id: ai_geral
+        titulo: "Inteligência Artificial"
+        keywords: ["inteligência artificial", "AI", "IA generativa"]
+      - id: ai_gestao_pessoas
+        titulo: "AI para Gestão de Pessoas"
+        keywords: ["AI para gestão de pessoas", "IA em RH", "AI people management"]
+      - id: gestao_pessoas
+        titulo: "Gestão de Pessoas"
+        keywords: ["gestão de pessoas", "liderança", "people management"]
+      - id: ceo
+        titulo: "CEO"
+        keywords: ["CEO", "liderança executiva", "C-level insights"]
+      - id: automacao_processos
+        titulo: "Automação de Processos"
+        keywords: ["automação de processos", "RPA", "process automation"]
+      - id: redesenho_processos
+        titulo: "Redesenho de Processos"
+        keywords: ["redesenho de processos", "process redesign", "reengenharia de processos"]
+      - id: gestao_operacional
+        titulo: "Gestão Operacional"
+        keywords: ["gestão operacional", "operations management"]
+    fontes_confiaveis:
+      - hbr.org
+      - sloanreview.mit.edu
+      - mckinsey.com
+      - exame.com
+      - valor.globo.com
+      - strategy-business.com
+      - gartner.com
+
+  - nome: Trabalho
+    temas:
+      - id: publicidade_geral
+        titulo: "Publicidade"
+        keywords: ["publicidade", "advertising", "mercado publicitário"]
+      - id: novas_publicidades
+        titulo: "Novas Publicidades"
+        keywords: ["novos formatos de publicidade", "inovação em publicidade", "ad innovation"]
+      - id: receita_publicidade
+        titulo: "Receita com Publicidade"
+        keywords: ["receita publicitária", "ad revenue", "monetização de mídia"]
+      - id: upfront
+        titulo: "Upfront"
+        keywords: ["upfront", "TV upfront", "upfronts 2026"]
+      - id: publisher
+        titulo: "Publisher"
+        keywords: ["publisher", "editoras digitais", "publisher revenue"]
+      - id: canais_tv
+        titulo: "Canais de TV"
+        keywords: ["canais de TV", "broadcast", "TV linear vs streaming"]
+      - id: revolucoes_publicidade
+        titulo: "Revoluções na Publicidade"
+        keywords: ["disrupção publicitária", "ad tech innovation", "future of advertising"]
+      - id: entregas_publicitarias
+        titulo: "Novas Entregas Publicitárias"
+        keywords: ["novos formatos de entrega", "programmatic advertising", "ad delivery innovation"]
+    fontes_confiaveis:
+      - adexchanger.com
+      - digiday.com
+      - adweek.com
+      - meioemensagem.com.br
+      - propmark.com.br
+      - mediapost.com
+      - iabbrasil.com.br
+      - valor.globo.com
+
+  - nome: Lazer
+    temas:
+      - id: vela_esportiva
+        titulo: "Vela Esportiva"
+        keywords: ["vela esportiva", "regata", "competitive sailing"]
+      - id: navegacao_costeira
+        titulo: "Navegação Costeira"
+        keywords: ["navegação costeira", "coastal navigation", "cruzeiro costeiro"]
+      - id: vela_oceanica
+        titulo: "Curso de Vela Oceânica"
+        keywords: ["vela oceânica", "curso de vela oceânica", "ocean sailing course"]
+      - id: vinhos
+        titulo: "Vinhos"
+        keywords: ["vinhos", "harmonização de vinhos", "wine reviews"]
+      - id: cafes
+        titulo: "Cafés"
+        keywords: ["café especial", "specialty coffee", "torrefação"]
+      - id: turismo_rio
+        titulo: "Turismo no Rio de Janeiro"
+        keywords: ["turismo no Rio de Janeiro", "o que fazer no Rio", "Rio de Janeiro travel"]
+    fontes_confiaveis:
+      - revistanautica.com.br
+      - worldsailing.org
+      - marinha.mil.br
+      - adegaonline.com.br
+      - sprudge.com
+      - oglobo.globo.com
+      - visit.rio
