@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "12 de agosto de 2026",
+  "atualizado_em": "17 de agosto de 2026",
   "pilares": [
     {
       "nome": "Profissional",
@@ -7,59 +7,59 @@
       "materias": [
         {
           "tema": "Inteligência Artificial",
-          "titulo": "Parceira da Anthropic, empresa brasileira corta mais de 50% do esforço com agentes de IA",
-          "resumo": "A brasileira Triggo.ai, parceira estratégica da Anthropic, implementou um agente de IA que reduziu em mais de 50% o esforço operacional num projeto para a CS Frotas, automatizando manutenção e ordens de serviço. A empresa defende que o futuro corporativo está em agentes autônomos integrados aos sistemas, não em chatbots isolados.",
+          "titulo": "IA no escritório: quais tarefas devem deixar de existir nos próximos cinco anos",
+          "resumo": "A matéria projeta como a IA generativa vai automatizar tarefas administrativas repetitivas — gestão de e-mails, atas de reunião, consolidação de dados — sem necessariamente extinguir profissões inteiras. O argumento central é que o tempo liberado deve ser redirecionado para análise, criatividade e tomada de decisão, um ponto de atenção direto para quem planeja redistribuição de carga de trabalho em equipes operacionais.",
           "fonte": "Exame",
-          "data": "12 ago 2026",
-          "link": "https://exame.com/inteligencia-artificial/parceira-da-anthropic-empresa-brasileira-corta-mais-de-50-do-esforco-com-agentes-de-ia/"
+          "data": "4 ago 2026",
+          "link": "https://exame.com/inteligencia-artificial/ia-no-escritorio-quais-tarefas-devem-deixar-de-existir-nos-proximos-cinco-anos/"
         },
         {
           "tema": "AI para Gestão de Pessoas",
-          "titulo": "Líder executiva da Anthropic revela como usa inteligência artificial para gerir sua equipe",
-          "resumo": "Dianne Penn, executiva da Anthropic, mostra como usa IA para apoiar tarefas de gestão de pessoas, como organizar informações de reuniões e preparar conversas com colaboradores. Ela reforça que a IA funciona como assistente na estruturação do trabalho, mas não substitui o julgamento humano em decisões críticas sobre pessoas.",
+          "titulo": "Amazon lança IA que entrevista candidatos e acelera contratações em massa",
+          "resumo": "A Amazon lançou o Amazon Connect Talent, ferramenta que conduz entrevistas de voz automatizadas, adapta perguntas em tempo real e entrega transcrições e pontuação para recrutadores, mantendo a decisão final com humanos. É voltada para contratação em massa em varejo, operações e atendimento — um case direto para quem lida com volume alto de seleção em times operacionais.",
           "fonte": "Exame",
-          "data": "29 jul 2026",
-          "link": "https://exame.com/inteligencia-artificial/lider-executiva-da-anthropic-revela-como-usa-inteligencia-artificial-para-gerir-sua-equipe/"
+          "data": "6 ago 2026",
+          "link": "https://exame.com/carreira/amazon-lanca-ia-que-entrevista-candidatos-e-acelera-contratacoes-em-massa/"
         },
         {
           "tema": "Gestão de Pessoas",
-          "titulo": "9 tendências que moldarão o trabalho em 2026 e além",
-          "resumo": "Apesar do otimismo dos líderes com o crescimento impulsionado por IA, pesquisas mostram que a maioria dos investimentos na tecnologia ainda não gera retorno significativo. O artigo mapeia riscos emergentes — demissões precipitadas, conflitos culturais, perda de competências — que exigem mudanças coordenadas em força de trabalho, processos e governança.",
+          "titulo": "Não deixe que a IA enfraqueça seu estilo de liderança",
+          "resumo": "O artigo alerta para o risco de líderes delegarem em excesso à IA e perderem discernimento e presença autêntica nas decisões. Propõe um framework de quatro modos de colaboração com IA — do trabalho que permanece inteiramente nas mãos do líder até tarefas totalmente automatizadas — para preservar autonomia e autenticidade na gestão de equipes.",
           "fonte": "Harvard Business Review",
-          "data": "2 fev 2026",
-          "link": "https://hbr.org/2026/02/9-trends-shaping-work-in-2026-and-beyond?language=pt"
+          "data": "3 ago 2026",
+          "link": "https://hbr.org/2026/08/dont-let-ai-flatten-your-leadership-style?language=pt"
         },
         {
           "tema": "CEO",
-          "titulo": "O novo \"poder\" do CEO: como a IA saiu da TI para a palma da mão",
-          "resumo": "Ferramentas de IA generativa estão mudando como CEOs acessam informação estratégica, permitindo decisões direto do celular. Empresas como Databricks e Cielo investem em plataformas de governança e agentes que sintetizam dados em tempo real, eliminando intermediários entre pergunta e resposta.",
-          "fonte": "Exame",
-          "data": "6 jul 2026",
-          "link": "https://exame.com/tecnologia/o-novo-poder-do-ceo-como-a-ia-saiu-da-ti-para-a-palma-da-mao/"
+          "titulo": "Por que executivos contratados externamente raramente chegam a CEO",
+          "resumo": "A análise mostra que candidatos internos são avaliados principalmente pela capacidade de liderança, enquanto executivos externos enfrentam um duplo critério: competência gerencial e legitimidade organizacional — esta última, segundo o artigo, frequentemente deixada ao acaso pelos sistemas de sucessão. Reflexão relevante para quem acompanha planos de sucessão em C-level.",
+          "fonte": "Harvard Business Review",
+          "data": "5 ago 2026",
+          "link": "https://hbr.org/2026/08/why-lateral-hires-rarely-become-ceo?language=es"
         },
         {
           "tema": "Automação de Processos",
-          "titulo": "Por que empresas brasileiras têm mais a ganhar com automação do que imaginam",
-          "resumo": "A IA generativa removeu barreiras técnicas que antes impediam PMEs de automatizar processos. Modelagem de processos em linguagem natural, análise inteligente de documentos e agentes autônomos tornaram a automação mais acessível e economicamente viável para empresas que antes não justificavam o investimento.",
+          "titulo": "MCP: o protocolo que pode conectar a IA aos sistemas da empresa e mudar a automação corporativa",
+          "resumo": "O artigo explica o Model Context Protocol (MCP), padrão proposto pela Anthropic e já adotado por outras empresas de IA, que permite conectar modelos de IA diretamente a sistemas corporativos (CRM, bancos de dados, repositórios) via interface única, sem integrações customizadas. Tem potencial para simplificar automação em atendimento, RH e finanças, reduzindo a complexidade técnica que hoje trava projetos de automação.",
           "fonte": "Exame",
-          "data": "29 jul 2026",
-          "link": "https://exame.com/lideres-extraordinarios/por-que-empresas-brasileiras-tem-mais-a-ganhar-com-automacao-do-que-imaginam/"
+          "data": "6 ago 2026",
+          "link": "https://exame.com/inteligencia-artificial/mcp-o-protocolo-que-pode-conectar-a-ia-aos-sistemas-da-empresa-e-mudar-a-automacao-corporativa/"
         },
         {
           "tema": "Redesenho de Processos",
-          "titulo": "Processos de design para evoluir com a tecnologia emergente",
-          "resumo": "A IA permite que organizações troquem transformações pontuais por evolução contínua, reduzindo custos de coordenação. Três pilares sustentam a mudança: visibilidade em tempo real do trabalho, gêmeos digitais para experimentação rápida, e sistemas autônomos que adaptam fluxos mantendo humanos como guardiões da ética e estratégia.",
-          "fonte": "Harvard Business Review",
-          "data": "30 jan 2026",
-          "link": "https://hbr.org/2026/01/design-processes-to-evolve-with-emerging-technology?language=pt"
+          "titulo": "Agentic AI change management: Closing the adoption gap",
+          "resumo": "A McKinsey defende que transformações bem-sucedidas com IA agêntica seguem a proporção 1:3:5 — um dólar em tecnologia, três em redesenho de processos e cinco em capacitação — e que a maioria das organizações inverte essa fórmula, investindo pesado em tecnologia e pouco em redesenhar o trabalho. O ponto central é que gestão de mudança tradicional não basta; é preciso uma abordagem contínua e integrada ao dia a dia operacional.",
+          "fonte": "McKinsey & Company",
+          "data": "7 ago 2026",
+          "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-close-the-agentic-adoption-gap"
         },
         {
           "tema": "Gestão Operacional",
-          "titulo": "Eficiência operacional e valorização das pessoas: como equilibrar esses pilares indispensáveis",
-          "resumo": "O artigo defende que empresas precisam equilibrar eficiência operacional com bem-estar dos colaboradores, já que ganhos de curto prazo podem comprometer a sustentabilidade futura. Cerca de 73% dos funcionários relatam satisfação quando há clima positivo e equilíbrio vida-trabalho.",
+          "titulo": "Inteligência artificial já ajuda companhias aéreas a reduzir atrasos e melhorar voos — entenda como",
+          "resumo": "Grandes companhias aéreas já usam modelos de IA para prever atrasos, otimizar operações em solo, personalizar compensações a passageiros e antecipar manutenção de aeronaves. O case ilustra como IA aplicada a operações de alta complexidade reduz atrasos em cascata e melhora eficiência ponta a ponta — um paralelo direto para gestão operacional em qualquer setor de alto volume.",
           "fonte": "Exame",
-          "data": "4 abr 2025 (fonte não publicou nada mais recente sobre o tema nesta janela)",
-          "link": "https://exame.com/colunistas/sua-carreira-sua-gestao/eficiencia-operacional-e-valorizacao-das-pessoas-como-equilibrar-esses-pilares-indispensaveis/"
+          "data": "7 ago 2026",
+          "link": "https://exame.com/inteligencia-artificial/inteligencia-artificial-ja-ajuda-companhias-aereas-a-reduzir-atrasos-e-melhorar-voos-entenda-como/"
         }
       ]
     },
@@ -69,67 +69,67 @@
       "materias": [
         {
           "tema": "Publicidade",
-          "titulo": "Observatório Abap apresenta tese sobre o futuro da publicidade até 2029",
-          "resumo": "White paper do Observatório Abap diagnostica transformação estrutural no mercado até 2029, puxada por IA agentic, fragmentação geopolítica e pressão sobre margens. Aponta dados próprios, resiliência adaptativa e confiança do consumidor como capacidades estratégicas essenciais.",
-          "fonte": "propmark",
-          "data": "12 ago 2026",
-          "link": "https://propmark.com.br/mercado/observatorio-abap-apresenta-tese-sobre-o-futuro-da-publicidade-ate-2029/"
+          "titulo": "Nielsen vai comprar a DoubleVerify por US$ 2,15 bilhões",
+          "resumo": "A Nielsen anunciou a aquisição da DoubleVerify por US$ 2,15 bilhões em dinheiro, unindo duas gigantes de mensuração e verificação publicitária em negócio que deve fechar até o primeiro trimestre de 2027. A combinação reflete a dificuldade de empresas de infraestrutura de verificação em sustentar crescimento como negócios independentes na bolsa. A Nielsen promete manter a nova entidade \"independente\", mas o movimento acende debate sobre concentração no setor de mensuração.",
+          "fonte": "AdExchanger",
+          "data": "6 ago 2026",
+          "link": "https://www.adexchanger.com/measurement/nielsen-is-acquiring-doubleverify-for-2-15-billion/"
         },
         {
           "tema": "Novas Publicidades",
-          "titulo": "A nova busca da publicidade",
-          "resumo": "A competição no setor migrou da disputa por clientes para a busca por profissionais qualificados em mídia programática. Com IA e automação avançando nas plataformas, cresceu o descompasso entre a velocidade da tecnologia e a capacitação do mercado.",
-          "fonte": "Meio & Mensagem",
+          "titulo": "Time começa a veicular anúncios voltados para agentes de IA",
+          "resumo": "A revista Time passou a exibir anúncios formatados especificamente para agentes de IA em suas páginas em markdown, em parceria com a ad tech Mobian, com marcas como Ally Bank já testando o formato. Os anúncios aparecem como conteúdo tipo FAQ, sinalizado como patrocinado. Iniciativa busca monetizar o volume crescente de tráfego de bots enquanto o publisher aposta que páginas otimizadas para IA também ajudam na visibilidade em buscas generativas.",
+          "fonte": "Digiday",
           "data": "30 jul 2026",
-          "link": "https://www.meioemensagem.com.br/proxxima/a-nova-busca-da-publicidade"
+          "link": "https://digiday.com/media/time-has-started-serving-ads-to-ai-agents/"
         },
         {
           "tema": "Receita com Publicidade",
-          "titulo": "Ad Revenue Stands To Grow By 8.9% This Year – And AI Might Be Why",
-          "resumo": "Previsão de meio de ano da WPP Media aponta crescimento de 8,9% na receita publicitária global em 2026, puxado principalmente pelo avanço da IA. Alphabet, Meta e Amazon já respondem por 57,6% da receita e investem pesado em tecnologia para otimizar suas plataformas.",
-          "fonte": "AdExchanger",
-          "data": "15 jun 2026",
-          "link": "https://www.adexchanger.com/advertiser/ad-revenue-stands-to-grow-by-8-9-this-year-and-ai-might-be-the-reason-why/"
+          "titulo": "Investimento em vídeo streaming chega a US$ 582,6 milhões desde janeiro",
+          "resumo": "Levantamento da MediaPost mostra que plataformas de streaming somaram US$ 582,6 milhões em investimento publicitário direto e valor de mídia entre janeiro e agosto de 2026, alta discreta ante o ano anterior. Paramount+ e Disney+ lideram em share de impressões, enquanto a Amazon Prime Video teve o maior investimento direto isolado (US$ 38,3 milhões). O dado confirma migração gradual de verba de TV linear para CTV, ainda em ritmo mais lento que o projetado pelo mercado.",
+          "fonte": "MediaPost",
+          "data": "14 ago 2026",
+          "link": "https://www.mediapost.com/publications/article/417249/streaming-video-ad-spend-hits-586m-since-january.html"
         },
         {
           "tema": "Upfront",
-          "titulo": "Future of TV Briefing: How AI agents will figure into this year's upfront negotiations",
-          "resumo": "Disney, Paramount e Warner Bros. Discovery estão incorporando agentes de IA nas negociações de upfront com anunciantes. As ferramentas prometem automatizar compras complexas e formatos personalizados que hoje não passam por sistemas convencionais de programação.",
-          "fonte": "Digiday",
-          "data": "27 mai 2026",
-          "link": "https://digiday.com/future-of-tv/future-of-tv-briefing-how-ai-agents-will-figure-into-this-years-upfront-negotiations/"
+          "titulo": "Upfront de TV 2026-27 fecha em US$ 33,7 bi, alta de 9%, mas CPMs caem",
+          "resumo": "As vendas de upfront de TV para a temporada 2026-27 somaram US$ 33,7 bilhões, alta de 9% ano a ano, puxadas por um salto de 30% no streaming (US$ 17,2 bilhões), enquanto cabo e broadcast recuaram 7% e 5%, respectivamente. Apesar do volume maior, os CPMs caíram em todos os segmentos, com compradores usando a força do streaming com anúncios como alavanca de negociação. O resultado confirma a virada estrutural de verba para o ambiente streaming dentro do próprio ciclo de upfront.",
+          "fonte": "MediaPost",
+          "data": "11 ago 2026",
+          "link": "https://www.mediapost.com/publications/article/417166/prime-time-upfront-ad-sales-rise-9-to-337b-cpm.html"
         },
         {
           "tema": "Publisher",
-          "titulo": "Digiday's comprehensive guide to what's in and out for publishers in 2026",
-          "resumo": "Guia sobre as transformações esperadas no setor editorial em 2026: dos desafios de 2025 (scraping de IA, erosão de tráfego de referência) a uma transição da economia de \"blue-link\" para um modelo centrado em busca por IA, exigindo reinvenção de monetização e parcerias comerciais.",
+          "titulo": "Publishers substituem o Google por um pouco de tudo",
+          "resumo": "Editoras como New York Times, News Corp, USA Today e People Inc. estão diversificando fontes de tráfego para reduzir a dependência da busca do Google, apostando em vídeo, assinaturas, newsletters e redes sociais. Em vez de buscar um substituto único, o movimento do setor é construir múltiplos canais de audiência e receita em paralelo. Reflete a pressão contínua da IA generativa e das AI Overviews sobre o tráfego orgânico dos publishers.",
           "fonte": "Digiday",
-          "data": "29 dez 2025",
-          "link": "https://digiday.com/media/digidays-comprehensive-guide-to-whats-in-and-out-for-publishers-in-2026/"
+          "data": "13 ago 2026",
+          "link": "https://digiday.com/media/media-briefing-publishers-are-replacing-google-with-a-little-bit-of-everything/"
         },
         {
           "tema": "Canais de TV",
-          "titulo": "The Year CTV Goes Full Funnel",
-          "resumo": "Em 2026, a CTV converge métricas de branding com objetivos de performance via APIs de conversão, como o digital já faz. O texto cobre a migração de direitos esportivos ao vivo para streaming (Thursday Night Football na Amazon) e a consolidação do mercado após a fusão Warner Bros. Discovery-Paramount.",
-          "fonte": "AdExchanger",
-          "data": "12 mar 2026",
-          "link": "https://www.adexchanger.com/the-big-story/the-year-ctv-goes-full-funnel/"
+          "titulo": "Gray Television supera expectativas no Q2 com alta de 8,7% na receita",
+          "resumo": "A emissora americana Gray Television reportou crescimento de receita de 8,7% no segundo trimestre, superando as expectativas do mercado, impulsionado por publicidade política, integração de emissoras recém-adquiridas e avanço da publicidade digital. A margem operacional saltou para 16,2%, ante 10,6% no mesmo período do ano anterior. O resultado mostra que o broadcast local ainda sustenta receita relevante mesmo com a migração de audiência para o streaming.",
+          "fonte": "MediaPost",
+          "data": "12 ago 2026",
+          "link": "https://www.mediapost.com/publications/article/417190/gray-television-exceeds-q2-expectations-with-87.html"
         },
         {
           "tema": "Revoluções na Publicidade",
-          "titulo": "'Brazil Media Landscape 2026', da Omnicom Media, aponta seis transformações que devem redefinir o mercado de publicidade",
-          "resumo": "Estudo anual da Omnicom identifica seis tendências: IA como ferramenta de descoberta de produtos, redes sociais como plataformas comerciais, coexistência de TV aberta com streaming, expansão do DOOH, crescimento do retail media, e o Brasil como 9º maior mercado publicitário global (R$ 104,8 bi em 2025).",
-          "fonte": "propmark",
-          "data": "6 jul 2026",
-          "link": "https://propmark.com.br/mercado/brazil-media-landscape-2026-da-omnicom-media-aponta-seis-transformacoes-que-devem-redefinir-o-mercado-de-publicidade/"
+          "titulo": "O último ator neutro do ad tech escolheu um lado",
+          "resumo": "A compra da LiveRamp pela Publicis por US$ 2,167 bilhões encerrou a neutralidade da principal infraestrutura de identidade do setor, levando Omnicom e WPP a acelerar a saída da plataforma e construir stacks proprietários próprios. A consolidação cria um mercado dominado por sistemas de identidade controlados por poucos grandes grupos, em vez dos antigos \"canos\" neutros compartilhados. Agências independentes e anunciantes de médio porte ficam mais expostos à dependência de infraestrutura controlada por concorrentes diretos.",
+          "fonte": "AdExchanger",
+          "data": "10 ago 2026",
+          "link": "https://www.adexchanger.com/data-driven-thinking/ad-techs-last-neutral-party-just-picked-a-side/"
         },
         {
           "tema": "Novas Entregas Publicitárias",
-          "titulo": "You're Not Imagining It – There Are More Shoppable CTV Ads On YouTube Now",
-          "resumo": "YouTube oficializou anúncios comercializáveis em Connected TV, convertendo dados de produto em carrosséis clicáveis com QR code. A expansão para campanhas Performance Max e Demand Gen deve elevar as impressões de TV disponíveis de menos de 0,5% para cerca de 1,5% do volume total.",
+          "titulo": "Agentes de IA dão a publishers uma nova forma de monetizar dados",
+          "resumo": "PubMatic e Optable integraram suas tecnologias para permitir que agentes de IA empacotem automaticamente dados primários de publishers em pacotes de audiência customizados, negociáveis em tempo real por agentes de compra do lado do anunciante. Um processo antes manual e trabalhoso passa a ser automatizado de ponta a ponta dentro do fluxo programático. O movimento ajuda SSPs a se diferenciarem num mercado comoditizado e destrava novos ativos de dados para publishers.",
           "fonte": "AdExchanger",
-          "data": "22 jan 2026",
-          "link": "https://www.adexchanger.com/tv/youre-not-imagining-it-there-are-more-shoppable-ctv-ads-on-youtube-now/"
+          "data": "3 ago 2026",
+          "link": "https://www.adexchanger.com/ai/ai-agents-are-giving-publishers-a-new-way-to-monetize-their-data/"
         }
       ]
     },
@@ -138,36 +138,36 @@
       "cor": "var(--pilar-lazer)",
       "materias": [
         {
-          "tema": "Navegação Costeira",
-          "titulo": "Dicas essenciais para quem quer velejar pelo litoral brasileiro",
-          "resumo": "Um velejador experiente traz orientações práticas para navegar com segurança pela costa brasileira: manter um barco confiável e bem abastecido, checar condições climáticas, usar equipamentos de navegação modernos e nunca dispensar equipamento de salva-vidas.",
-          "fonte": "Bombarco",
-          "data": "data não informada pela fonte",
-          "link": "https://www.bombarco.com.br/editorial/noticias/dicas-essenciais-para-quem-quer-velejar-pelo-litoral-brasileiro/"
+          "tema": "Vela Esportiva",
+          "titulo": "Veleiros Schaefer conquistam pódios na Semana de Vela de Ilhabela pela BRA RGS",
+          "resumo": "Dois veleiros Schaefer 31, o Plâncton e o Homo Erectus, subiram ao pódio na 53ª Semana Internacional de Vela de Ilhabela (SIVI), vencendo as classes RGS C e RGS B, respectivamente. A matéria destaca como o projeto do Schaefer 31, criado há cerca de 40 anos por Márcio Schaefer, continua competitivo mesmo diante de embarcações mais modernas.",
+          "fonte": "Revista Náutica",
+          "data": "10 ago 2026",
+          "link": "https://nautica.com.br/podios-veleiros-schaefer-semana-vela-ilhabela-bra-rgs-2026/"
         },
         {
           "tema": "Vinhos",
-          "titulo": "Restaurantes cariocas inovam nos vinhos e investem em novas harmonizações",
-          "resumo": "Casas do Rio como Nimbus, Elena, Eleninha e Casa 201 estão transformando suas cartas de vinho com rótulos raros e menus degustação que colocam o vinho no centro da experiência, refletindo a sofisticação crescente do público carioca.",
+          "titulo": "Festival de Vinhos Princesa oferece degustação gratuita em sua quarta edição",
+          "resumo": "A quarta edição do Festival de Vinhos Princesa aconteceu no dia 8 de agosto no Clube Monte Líbano, na Lagoa (Zona Sul do Rio), em dois turnos. O evento reuniu vinícolas como Concha y Toro, Terraustral, Doña Paula e Trivento, com degustação livre harmonizada com queijos e embutidos, além de palestras opcionais com especialistas.",
           "fonte": "Informa Rio",
-          "data": "25 mai 2026",
-          "link": "https://informa-rio.com/2026/05/25/restaurantes-do-rio-renovam-cartas-de-vinhos-e-apostam-em-harmonizacoes"
+          "data": "04 ago 2026",
+          "link": "https://informa-rio.com/2026/08/04/quarta-edicao-do-festival-de-vinhos-princesa-tem-degustacao-livre"
         },
         {
           "tema": "Cafés",
-          "titulo": "O Despertar dos Sentidos no São Paulo Coffee Festival 2026: Terroir, Inovação e Coquetelaria",
-          "resumo": "O São Paulo Coffee Festival 2026, na Fundação Bienal do Ibirapuera, reuniu pequenos produtores brasileiros e marcas internacionais. Destaque para a consolidação do Carajillo (Licor 43 + espresso) como tendência e a presença forte de marcas internacionais no evento.",
-          "fonte": "Revista Degusta",
-          "data": "23 jul 2026",
-          "link": "https://revistadegusta.com/o-despertar-dos-sentidos-no-sao-paulo-coffee-festival-2026-terroir-inovacao-e-coquetelaria/"
+          "titulo": "Lojas de cafés especiais apresentam lançamentos e tendências",
+          "resumo": "A matéria destaca a expansão de cafeterias especializadas no Rio: a Street Me Coffee (de Florianópolis) abriu sua primeira unidade na Zona Sul, em Botafogo, com grãos da Fazenda São Benedito (MG), e a torrefadora Madura Coffee inaugurou um espaço fixo em Tijuca após anos operando em ponto de rua. Ambas apostam em ambientes modernos e cardápios como o trufaccino, com trufa artesanal.",
+          "fonte": "Informa Rio",
+          "data": "15 ago 2026",
+          "link": "https://informa-rio.com/2026/08/15/lojas-cafes-especiais-novidades"
         },
         {
           "tema": "Turismo no Rio de Janeiro",
-          "titulo": "Rio de Janeiro em alta: prefeitura prevê turismo aquecido no verão de 2026",
-          "resumo": "A Prefeitura do Rio projeta 5,7 milhões de turistas na temporada de verão 2026, após receber 5 milhões de visitantes em 2025 — recorde de turistas estrangeiros. Praias, gastronomia estrelada pelo Guia Michelin e eventos como o \"Todo Mundo no Rio\" puxam a demanda.",
-          "fonte": "CNN Brasil",
-          "data": "15 nov 2025",
-          "link": "https://www.cnnbrasil.com.br/viagemegastronomia/viagem/rio-de-janeiro-em-alta-prefeitura-preve-turismo-aquecido-no-verao-de-2026/"
+          "titulo": "Prefeitura do Rio anuncia programação especial para Semana do Patrimônio Cultural 2026",
+          "resumo": "O Rio sedia entre 17 e 19 de agosto a Semana do Patrimônio Cultural 2026, organizada pelo Instituto Rio Patrimônio da Humanidade, com participação gratuita mediante inscrição. A programação inclui conferência do arquiteto Washington Fajardo, painéis técnicos sobre conservação e arqueologia urbana, e roteiros guiados pelo Corredor Cultural e por bairros de arquitetura modernista e art déco.",
+          "fonte": "Informa Rio",
+          "data": "13 ago 2026",
+          "link": "https://informa-rio.com/2026/08/13/prefeitura-do-rio-promove-semana-do-patrimonio-cultural-2026"
         }
       ]
     }
