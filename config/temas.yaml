@@ -117,6 +117,9 @@ pilares:
       - id: fiis_sparta
         titulo: "FIIs Sparta"
         keywords: ["DIVS11", "CDII11", "Sparta Infra Inflação Longa", "Sparta CDII", "FII Sparta"]
+      - id: acoes_inter_nu
+        titulo: "Ações Inter & Nubank"
+        keywords: ["INBR32", "ROXO34", "Inter & Co ação", "Nu Holdings ação", "Nubank ação", "BDR Inter", "BDR Nubank"]
     fontes_confiaveis:
       - infomoney.com.br
       - valorinveste.globo.com
