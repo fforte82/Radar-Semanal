@@ -4,178 +4,22 @@
     {
       "nome": "Profissional",
       "cor": "var(--pilar-profissional)",
-      "materias": [
-        {
-          "tema": "Inteligência Artificial",
-          "titulo": "45 novos bilionários em um ano: como a inteligência artificial criou uma nova elite bilionária",
-          "resumo": "A lista Forbes de bilionários 2026 ganhou 45 novos nomes ligados à inteligência artificial, com fortunas somadas superiores a US$ 2,9 trilhões. O grupo vai de donos de infraestrutura de chips, como Jensen Huang (Nvidia), a fundadores de laboratórios de IA, como Dario Amodei (Anthropic), além de startups de nicho aplicadas a setores específicos. O dado ilustra a velocidade com que a corrida da IA está concentrando valor na economia global.",
-          "fonte": "Exame",
-          "data": "12 ago 2026",
-          "link": "https://exame.com/inteligencia-artificial/45-novos-bilionarios-em-um-ano-como-a-inteligencia-artificial-criou-uma-nova-elite-bilionaria/"
-        },
-        {
-          "tema": "AI para Gestão de Pessoas",
-          "titulo": "Workslop: o novo problema da IA no trabalho que pode consumir horas a mais e desperdiçar dinheiro",
-          "resumo": "Estudo da BetterUp Labs e do Stanford Social Media Lab batizou de 'workslop' o conteúdo gerado por IA entregue sem revisão adequada, que obriga colegas a retrabalhar o material. Segundo a pesquisa, 41% dos profissionais já foram afetados pelo problema, com cerca de duas horas gastas para corrigir cada ocorrência. Para gestores, o achado reforça a necessidade de estabelecer padrões de qualidade e responsabilização no uso de IA pelas equipes.",
-          "fonte": "Exame",
-          "data": "14 ago 2026",
-          "link": "https://exame.com/inteligencia-artificial/workslop-o-novo-problema-da-ia-no-trabalho-que-pode-consumir-horas-a-mais-e-desperdicar-dinheiro/"
-        },
-        {
-          "tema": "Gestão de Pessoas",
-          "titulo": "Cultura da FARM: como a marca brasileira está levando seu jeito de trabalhar para o mundo",
-          "resumo": "A FARM Rio, com mais de 3 mil funcionários e receita de R$ 3,4 bilhões em 2025, expande internacionalmente sem perder sua cultura criativa. O CEO Fabio Barreto explica que a estratégia passa por formar líderes dentro da cultura da marca para conduzir a operação global, mantendo a criação centralizada no Rio de Janeiro. O caso ilustra como cultura organizacional forte pode sustentar crescimento acelerado sem diluir identidade.",
-          "fonte": "Exame",
-          "data": "15 ago 2026",
-          "link": "https://exame.com/carreira/cultura-da-farm-como-a-marca-brasileira-esta-levando-seu-jeito-de-trabalhar-para-o-mundo/"
-        },
-        {
-          "tema": "CEO",
-          "titulo": "How to Develop a Game-Changing Worldview",
-          "resumo": "Em artigo assinado por Adi Ignatius, o ex-CEO da Best Buy Hubert Joly defende que líderes precisam construir uma visão de mundo robusta para formular estratégias de longo prazo, combinando filosofia pessoal de liderança, entendimento profundo do negócio e leitura do contexto macro. Segundo ele, essa abordagem integrada é o que permite a executivos antecipar tendências e navegar incertezas com mais segurança.",
-          "fonte": "Harvard Business Review",
-          "data": "14 ago 2026",
-          "link": "https://hbr.org/2026/08/how-to-develop-a-game-changing-worldview"
-        },
-        {
-          "tema": "Automação de Processos",
-          "titulo": "Automação de processos não é só sobre tecnologia",
-          "resumo": "Em coluna, o CEO da Yank Solutions argumenta que o sucesso da automação depende antes de tudo do redesenho organizacional, e não da escolha de ferramentas. Ele defende que automatizar processos mal desenhados apenas acelera ineficiências existentes, em vez de gerar ganhos reais. A lição para operações é simplificar e mapear fluxos antes de investir em tecnologia.",
-          "fonte": "Olhar Digital",
-          "data": "15 ago 2026",
-          "link": "https://olhardigital.com.br/2026/08/15/colunistas/automacao-de-processos-nao-e-so-sobre-tecnologia"
-        }
-      ]
+      "materias": []
     },
     {
       "nome": "Trabalho",
       "cor": "var(--pilar-trabalho)",
-      "materias": [
-        {
-          "tema": "Publicidade",
-          "titulo": "By the numbers: Wall Street's tough assessment of ad tech",
-          "resumo": "O mercado publicitário digital segue crescendo, mas empresas independentes de ad tech sofrem forte queda nas ações apesar do aumento de receita, evidenciando uma reavaliação de Wall Street sobre esses modelos de negócio. Google, Amazon e Meta já controlam cerca de 58% do investimento publicitário nos EUA, ampliando vantagens de escala que players independentes não conseguem acompanhar. O setor vive um êxodo para capital privado, com múltiplas aquisições em curso.",
-          "fonte": "Digiday",
-          "data": "13 ago 2026",
-          "link": "https://digiday.com/marketing/by-the-numbers-wall-streets-tough-assessment-of-ad-tech/"
-        },
-        {
-          "tema": "Novas Publicidades",
-          "titulo": "Anúncios no ChatGPT alteram a lógica da mídia digital",
-          "resumo": "A OpenAI lançou oficialmente o ChatGPT Ads no Brasil, permitindo que marcas exibam anúncios patrocinados durante interações que sinalizam intenção de compra. Diferentemente da publicidade em buscadores tradicionais, o formato posiciona o anunciante no momento em que a IA já influencia ativamente a decisão do consumidor. Para times de Ad Ops, o desafio passa a ser interpretar métricas de intenção declarada em vez de intenção inferida.",
-          "fonte": "Meio & Mensagem",
-          "data": "7 ago 2026",
-          "link": "https://www.meioemensagem.com.br/midia/anuncios-no-chatgpt-alteram-a-logica-da-midia-digital"
-        },
-        {
-          "tema": "Receita com Publicidade",
-          "titulo": "The Trade Desk's Revenue Growth Stalls As Big Brands Tighten Their Belts",
-          "resumo": "A Trade Desk reportou receita de US$ 715 milhões no segundo trimestre, crescimento de apenas 3% ano a ano, provocando queda de mais de 20% no preço das ações. O CEO Jeff Green atribuiu o desempenho fraco à cautela de grandes marcas de CPG e automotivo, mas apontou sinais positivos em contas menores e mercados internacionais. A empresa mantém estratégia de precificação premium mesmo sob pressão de plataformas de baixo custo como Amazon DSP e Google Buyer Direct.",
-          "fonte": "AdExchanger",
-          "data": "7 ago 2026",
-          "link": "https://www.adexchanger.com/programmatic/the-trade-desks-revenue-growth-stalls-as-big-brands-tighten-their-belts/"
-        },
-        {
-          "tema": "Upfront",
-          "titulo": "Netflix Wraps Upfront, Volume 'Nearly Doubled'",
-          "resumo": "A Netflix encerrou seu upfront de publicidade para a temporada 2026-27 com o volume de compromissos de anúncios quase dobrando em relação ao ano anterior, segundo Amy Reinhard, presidente de publicidade da plataforma. A empresa projeta atingir US$ 3 bilhões em receita publicitária em 2026, o dobro do ano passado. Séries como Bridgerton e Emily in Paris, além de eventos esportivos como NFL e a Copa do Mundo Feminina de 2027, foram os ativos mais disputados pelos anunciantes.",
-          "fonte": "MediaPost",
-          "data": "10 ago 2026",
-          "link": "https://www.mediapost.com/publications/article/417133/netflix-wraps-upfront-volume-nearly-doubled.html"
-        },
-        {
-          "tema": "Canais de TV",
-          "titulo": "Consumo de streaming supera canais lineares em smartTVs",
-          "resumo": "Levantamento da Samsung Ads Brasil, com base em mais de 26 milhões de Smart TVs ativas, mostra que o streaming já ocupa 73% do tempo de uso das telas conectadas, contra 27% da TV linear. Do total de usuários, 89% consumiram conteúdo de streaming no mês analisado, somando em média 203 horas por pessoa. Ainda assim, os canais lineares mantêm relevância comercial, com 58% da base ativa assistindo TV aberta ou paga no período.",
-          "fonte": "Meio & Mensagem",
-          "data": "14 ago 2026",
-          "link": "https://www.meioemensagem.com.br/midia/consumo-de-streaming-supera-canais-lineares-em-smarttvs"
-        },
-        {
-          "tema": "Revoluções na Publicidade",
-          "titulo": "Nielsen Is Acquiring DoubleVerify For $2.15 Billion",
-          "resumo": "A Nielsen anunciou a aquisição da DoubleVerify por cerca de US$ 2,15 bilhões, negócio que deve fechar no primeiro trimestre de 2027 e que consolida duas das principais plataformas independentes de verificação e medição de anúncios. Ambas as empresas deixarão de ser negociadas publicamente, aprofundando a onda de consolidação entre intermediários de ad tech. Para operações de mídia, o movimento reduz o número de fornecedores neutros de medição disponíveis no mercado.",
-          "fonte": "AdExchanger",
-          "data": "6 ago 2026",
-          "link": "https://www.adexchanger.com/measurement/nielsen-is-acquiring-doubleverify-for-2-15-billion/"
-        },
-        {
-          "tema": "Novas Entregas Publicitárias",
-          "titulo": "For Advertisers, Hydration Breaks Were the Star of the World Cup",
-          "resumo": "Os intervalos de hidratação de cerca de três minutos durante os jogos da Copa do Mundo 2026 se tornaram um dos inventários mais valiosos e eficazes para anunciantes, segundo especialistas de mídia. Apesar das críticas de torcedores nas redes sociais, os dados mostram audiência elevada nesses breaks, o que já leva emissoras e plataformas a considerar monetizá-los formalmente em contratos futuros. É um novo formato de entrega de inventário premium ligado a eventos esportivos ao vivo.",
-          "fonte": "Adweek",
-          "data": "12 ago 2026",
-          "link": "https://www.adweek.com/convergent-tv/for-advertisers-hydration-breaks-were-the-star-of-the-world-cup/"
-        }
-      ]
+      "materias": []
     },
     {
       "nome": "Lazer",
       "cor": "var(--pilar-lazer)",
-      "materias": [
-        {
-          "tema": "Vela Esportiva",
-          "titulo": "Copa Brasil de Vela de Praia 2026 conhece os seus campeões em Fortaleza",
-          "resumo": "A sexta edição consecutiva da Copa Brasil de Vela de Praia terminou no domingo em Fortaleza-CE, coroando campeões nas classes Dingue, Hobie Cat 16, ILCA 6, Optimist, Kite TTR, Kitefoil e Wingfoil. O evento serviu como etapa de preparação para o Mundial da World Sailing em 2027, que distribuirá 68 vagas para os Jogos Olímpicos de Los Angeles 2028.",
-          "fonte": "CBVela",
-          "data": "16 ago 2026",
-          "link": "https://cbvela.com.br/copa-brasil-de-vela-de-praia-2026-conhece-os-seus-campeoes-em-fortaleza/"
-        },
-        {
-          "tema": "Vinhos",
-          "titulo": "5 eventos de vinho em São Paulo para aproveitar em agosto",
-          "resumo": "São Paulo tem uma programação especial de vinhos em agosto, com festivais, feiras e degustações que vão de experiências gratuitas a grandes eventos com centenas de rótulos. A seleção destaca produtores brasileiros, gastronomia e masterclasses voltadas a quem quer conhecer melhor a produção nacional.",
-          "fonte": "CNN Brasil",
-          "data": "12 ago 2026",
-          "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/4-eventos-de-vinho-em-sao-paulo-para-aproveitar-em-agosto/"
-        },
-        {
-          "tema": "Cafés",
-          "titulo": "A criação do termo \"café especial\" e o nascimento de uma nova cultura",
-          "resumo": "A expressão café especial foi cunhada em 1974 pela comerciante americana Erna Knutsen para descrever cafés de regiões excepcionais. O termo transformou a bebida de commodity em produto valorizado por origem e terroir, criando parâmetros de qualidade hoje adotados em mais de 70 países.",
-          "fonte": "CNN Brasil",
-          "data": "11 ago 2026",
-          "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/a-criacao-do-termo-cafe-especial-e-o-nascimento-de-uma-nova-cultura/"
-        },
-        {
-          "tema": "Turismo no Rio de Janeiro",
-          "titulo": "Prefeitura do Rio anuncia programação especial para Semana do Patrimônio Cultural 2026",
-          "resumo": "O Rio de Janeiro recebe a Semana do Patrimônio Cultural entre 17 e 19 de agosto, promovida pela Prefeitura via Instituto Rio Patrimônio da Humanidade. A programação inclui conferências, exposições e visitas técnicas a marcos históricos da cidade, com foco em preservação da memória e revitalização urbana.",
-          "fonte": "Informa Rio",
-          "data": "13 ago 2026",
-          "link": "https://informa-rio.com/2026/08/13/prefeitura-do-rio-promove-semana-do-patrimonio-cultural-2026"
-        }
-      ]
+      "materias": []
     },
     {
       "nome": "Finanças",
       "cor": "var(--pilar-financas)",
-      "materias": [
-        {
-          "tema": "SELIC e Juros",
-          "titulo": "Ata do Copom: Risco fiscal e inflação dividem mercado sobre novos cortes na Selic",
-          "resumo": "A ata da reunião de agosto do Copom mostrou um comitê dividido entre reconhecer a desinflação em curso e manter cautela diante da incerteza fiscal e da inflação ainda desancorada. Após o quarto corte consecutivo de 0,25 p.p., que levou a Selic a 14% ao ano, o mercado diverge: parte dos analistas projeta novos cortes até 13,25%, enquanto outros apostam em pausa para avaliar os próximos dados de inflação e atividade.",
-          "fonte": "InfoMoney",
-          "data": "11 ago 2026",
-          "link": "https://www.infomoney.com.br/economia/ata-do-copom-agosto-2026-mercado-futuro-selic/"
-        },
-        {
-          "tema": "FIIs Kinea",
-          "titulo": "Dividendos: 133 FIIs pagam até R$ 32 por cota nesta semana; IFIX acumula queda em agosto",
-          "resumo": "O FII Kinea High Yield (KNHY11) anunciou dividendo de R$ 1,20 por cota, com pagamento em 13 de agosto de 2026 e data-ex em 31 de julho. O destaque ocorre em meio à queda acumulada do IFIX no mês, cenário que reforça o interesse dos investidores por fundos de recebíveis como os da família Kinea.",
-          "fonte": "Money Times",
-          "data": "10 ago 2026",
-          "link": "https://www.moneytimes.com.br/dividendos-133-fiis-pagam-ate-r-32-por-cota-nesta-semana-ifix-acumula-queda-em-agosto-igdl/"
-        },
-        {
-          "tema": "FIIs Sparta",
-          "titulo": "Dividendos: 133 FIIs pagam até R$ 32 por cota nesta semana; IFIX acumula queda em agosto",
-          "resumo": "O FI-Infra DIVS11 (Sparta Infra Inflação Longa) anunciou dividendo de R$ 1,20 por cota, com pagamento em 14 de agosto de 2026 e data-ex em 31 de julho, mantendo o patamar de distribuição mensal do fundo. O anúncio faz parte do levantamento semanal de proventos de FIIs, em meio à queda acumulada do IFIX em agosto.",
-          "fonte": "Money Times",
-          "data": "10 ago 2026",
-          "link": "https://www.moneytimes.com.br/dividendos-133-fiis-pagam-ate-r-32-por-cota-nesta-semana-ifix-acumula-queda-em-agosto-igdl/"
-        }
-      ]
+      "materias": []
     }
   ]
 }
