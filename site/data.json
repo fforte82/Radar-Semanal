@@ -4,17 +4,172 @@
     {
       "nome": "Profissional",
       "cor": "var(--pilar-profissional)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Inteligência Artificial",
+          "titulo": "Parceira da Anthropic, empresa brasileira corta mais de 50% do esforço com agentes de IA",
+          "resumo": "A brasileira Triggo.ai, parceira estratégica da Anthropic, implementou um agente de IA que reduziu em mais de 50% o esforço operacional num projeto para a CS Frotas, automatizando manutenção e ordens de serviço. A empresa defende que o futuro corporativo está em agentes autônomos integrados aos sistemas, não em chatbots isolados.",
+          "fonte": "Exame",
+          "data": "12 ago 2026",
+          "link": "https://exame.com/inteligencia-artificial/parceira-da-anthropic-empresa-brasileira-corta-mais-de-50-do-esforco-com-agentes-de-ia/"
+        },
+        {
+          "tema": "AI para Gestão de Pessoas",
+          "titulo": "Líder executiva da Anthropic revela como usa inteligência artificial para gerir sua equipe",
+          "resumo": "Dianne Penn, executiva da Anthropic, mostra como usa IA para apoiar tarefas de gestão de pessoas, como organizar informações de reuniões e preparar conversas com colaboradores. Ela reforça que a IA funciona como assistente na estruturação do trabalho, mas não substitui o julgamento humano em decisões críticas sobre pessoas.",
+          "fonte": "Exame",
+          "data": "29 jul 2026",
+          "link": "https://exame.com/inteligencia-artificial/lider-executiva-da-anthropic-revela-como-usa-inteligencia-artificial-para-gerir-sua-equipe/"
+        },
+        {
+          "tema": "Gestão de Pessoas",
+          "titulo": "9 tendências que moldarão o trabalho em 2026 e além",
+          "resumo": "Apesar do otimismo dos líderes com o crescimento impulsionado por IA, pesquisas mostram que a maioria dos investimentos na tecnologia ainda não gera retorno significativo. O artigo mapeia riscos emergentes — demissões precipitadas, conflitos culturais, perda de competências — que exigem mudanças coordenadas em força de trabalho, processos e governança.",
+          "fonte": "Harvard Business Review",
+          "data": "2 fev 2026",
+          "link": "https://hbr.org/2026/02/9-trends-shaping-work-in-2026-and-beyond?language=pt"
+        },
+        {
+          "tema": "CEO",
+          "titulo": "O novo \"poder\" do CEO: como a IA saiu da TI para a palma da mão",
+          "resumo": "Ferramentas de IA generativa estão mudando como CEOs acessam informação estratégica, permitindo decisões direto do celular. Empresas como Databricks e Cielo investem em plataformas de governança e agentes que sintetizam dados em tempo real, eliminando intermediários entre pergunta e resposta.",
+          "fonte": "Exame",
+          "data": "6 jul 2026",
+          "link": "https://exame.com/tecnologia/o-novo-poder-do-ceo-como-a-ia-saiu-da-ti-para-a-palma-da-mao/"
+        },
+        {
+          "tema": "Automação de Processos",
+          "titulo": "Por que empresas brasileiras têm mais a ganhar com automação do que imaginam",
+          "resumo": "A IA generativa removeu barreiras técnicas que antes impediam PMEs de automatizar processos. Modelagem de processos em linguagem natural, análise inteligente de documentos e agentes autônomos tornaram a automação mais acessível e economicamente viável para empresas que antes não justificavam o investimento.",
+          "fonte": "Exame",
+          "data": "29 jul 2026",
+          "link": "https://exame.com/lideres-extraordinarios/por-que-empresas-brasileiras-tem-mais-a-ganhar-com-automacao-do-que-imaginam/"
+        },
+        {
+          "tema": "Redesenho de Processos",
+          "titulo": "Processos de design para evoluir com a tecnologia emergente",
+          "resumo": "A IA permite que organizações troquem transformações pontuais por evolução contínua, reduzindo custos de coordenação. Três pilares sustentam a mudança: visibilidade em tempo real do trabalho, gêmeos digitais para experimentação rápida, e sistemas autônomos que adaptam fluxos mantendo humanos como guardiões da ética e estratégia.",
+          "fonte": "Harvard Business Review",
+          "data": "30 jan 2026",
+          "link": "https://hbr.org/2026/01/design-processes-to-evolve-with-emerging-technology?language=pt"
+        },
+        {
+          "tema": "Gestão Operacional",
+          "titulo": "Eficiência operacional e valorização das pessoas: como equilibrar esses pilares indispensáveis",
+          "resumo": "O artigo defende que empresas precisam equilibrar eficiência operacional com bem-estar dos colaboradores, já que ganhos de curto prazo podem comprometer a sustentabilidade futura. Cerca de 73% dos funcionários relatam satisfação quando há clima positivo e equilíbrio vida-trabalho.",
+          "fonte": "Exame",
+          "data": "4 abr 2025 (fonte não publicou nada mais recente sobre o tema nesta janela)",
+          "link": "https://exame.com/colunistas/sua-carreira-sua-gestao/eficiencia-operacional-e-valorizacao-das-pessoas-como-equilibrar-esses-pilares-indispensaveis/"
+        }
+      ]
     },
     {
       "nome": "Trabalho",
       "cor": "var(--pilar-trabalho)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Publicidade",
+          "titulo": "Observatório Abap apresenta tese sobre o futuro da publicidade até 2029",
+          "resumo": "White paper do Observatório Abap diagnostica transformação estrutural no mercado até 2029, puxada por IA agentic, fragmentação geopolítica e pressão sobre margens. Aponta dados próprios, resiliência adaptativa e confiança do consumidor como capacidades estratégicas essenciais.",
+          "fonte": "propmark",
+          "data": "12 ago 2026",
+          "link": "https://propmark.com.br/mercado/observatorio-abap-apresenta-tese-sobre-o-futuro-da-publicidade-ate-2029/"
+        },
+        {
+          "tema": "Novas Publicidades",
+          "titulo": "A nova busca da publicidade",
+          "resumo": "A competição no setor migrou da disputa por clientes para a busca por profissionais qualificados em mídia programática. Com IA e automação avançando nas plataformas, cresceu o descompasso entre a velocidade da tecnologia e a capacitação do mercado.",
+          "fonte": "Meio & Mensagem",
+          "data": "30 jul 2026",
+          "link": "https://www.meioemensagem.com.br/proxxima/a-nova-busca-da-publicidade"
+        },
+        {
+          "tema": "Receita com Publicidade",
+          "titulo": "Ad Revenue Stands To Grow By 8.9% This Year – And AI Might Be Why",
+          "resumo": "Previsão de meio de ano da WPP Media aponta crescimento de 8,9% na receita publicitária global em 2026, puxado principalmente pelo avanço da IA. Alphabet, Meta e Amazon já respondem por 57,6% da receita e investem pesado em tecnologia para otimizar suas plataformas.",
+          "fonte": "AdExchanger",
+          "data": "15 jun 2026",
+          "link": "https://www.adexchanger.com/advertiser/ad-revenue-stands-to-grow-by-8-9-this-year-and-ai-might-be-the-reason-why/"
+        },
+        {
+          "tema": "Upfront",
+          "titulo": "Future of TV Briefing: How AI agents will figure into this year's upfront negotiations",
+          "resumo": "Disney, Paramount e Warner Bros. Discovery estão incorporando agentes de IA nas negociações de upfront com anunciantes. As ferramentas prometem automatizar compras complexas e formatos personalizados que hoje não passam por sistemas convencionais de programação.",
+          "fonte": "Digiday",
+          "data": "27 mai 2026",
+          "link": "https://digiday.com/future-of-tv/future-of-tv-briefing-how-ai-agents-will-figure-into-this-years-upfront-negotiations/"
+        },
+        {
+          "tema": "Publisher",
+          "titulo": "Digiday's comprehensive guide to what's in and out for publishers in 2026",
+          "resumo": "Guia sobre as transformações esperadas no setor editorial em 2026: dos desafios de 2025 (scraping de IA, erosão de tráfego de referência) a uma transição da economia de \"blue-link\" para um modelo centrado em busca por IA, exigindo reinvenção de monetização e parcerias comerciais.",
+          "fonte": "Digiday",
+          "data": "29 dez 2025",
+          "link": "https://digiday.com/media/digidays-comprehensive-guide-to-whats-in-and-out-for-publishers-in-2026/"
+        },
+        {
+          "tema": "Canais de TV",
+          "titulo": "The Year CTV Goes Full Funnel",
+          "resumo": "Em 2026, a CTV converge métricas de branding com objetivos de performance via APIs de conversão, como o digital já faz. O texto cobre a migração de direitos esportivos ao vivo para streaming (Thursday Night Football na Amazon) e a consolidação do mercado após a fusão Warner Bros. Discovery-Paramount.",
+          "fonte": "AdExchanger",
+          "data": "12 mar 2026",
+          "link": "https://www.adexchanger.com/the-big-story/the-year-ctv-goes-full-funnel/"
+        },
+        {
+          "tema": "Revoluções na Publicidade",
+          "titulo": "'Brazil Media Landscape 2026', da Omnicom Media, aponta seis transformações que devem redefinir o mercado de publicidade",
+          "resumo": "Estudo anual da Omnicom identifica seis tendências: IA como ferramenta de descoberta de produtos, redes sociais como plataformas comerciais, coexistência de TV aberta com streaming, expansão do DOOH, crescimento do retail media, e o Brasil como 9º maior mercado publicitário global (R$ 104,8 bi em 2025).",
+          "fonte": "propmark",
+          "data": "6 jul 2026",
+          "link": "https://propmark.com.br/mercado/brazil-media-landscape-2026-da-omnicom-media-aponta-seis-transformacoes-que-devem-redefinir-o-mercado-de-publicidade/"
+        },
+        {
+          "tema": "Novas Entregas Publicitárias",
+          "titulo": "You're Not Imagining It – There Are More Shoppable CTV Ads On YouTube Now",
+          "resumo": "YouTube oficializou anúncios comercializáveis em Connected TV, convertendo dados de produto em carrosséis clicáveis com QR code. A expansão para campanhas Performance Max e Demand Gen deve elevar as impressões de TV disponíveis de menos de 0,5% para cerca de 1,5% do volume total.",
+          "fonte": "AdExchanger",
+          "data": "22 jan 2026",
+          "link": "https://www.adexchanger.com/tv/youre-not-imagining-it-there-are-more-shoppable-ctv-ads-on-youtube-now/"
+        }
+      ]
     },
     {
       "nome": "Lazer",
       "cor": "var(--pilar-lazer)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Navegação Costeira",
+          "titulo": "Dicas essenciais para quem quer velejar pelo litoral brasileiro",
+          "resumo": "Um velejador experiente traz orientações práticas para navegar com segurança pela costa brasileira: manter um barco confiável e bem abastecido, checar condições climáticas, usar equipamentos de navegação modernos e nunca dispensar equipamento de salva-vidas.",
+          "fonte": "Bombarco",
+          "data": "data não informada pela fonte",
+          "link": "https://www.bombarco.com.br/editorial/noticias/dicas-essenciais-para-quem-quer-velejar-pelo-litoral-brasileiro/"
+        },
+        {
+          "tema": "Vinhos",
+          "titulo": "Restaurantes cariocas inovam nos vinhos e investem em novas harmonizações",
+          "resumo": "Casas do Rio como Nimbus, Elena, Eleninha e Casa 201 estão transformando suas cartas de vinho com rótulos raros e menus degustação que colocam o vinho no centro da experiência, refletindo a sofisticação crescente do público carioca.",
+          "fonte": "Informa Rio",
+          "data": "25 mai 2026",
+          "link": "https://informa-rio.com/2026/05/25/restaurantes-do-rio-renovam-cartas-de-vinhos-e-apostam-em-harmonizacoes"
+        },
+        {
+          "tema": "Cafés",
+          "titulo": "O Despertar dos Sentidos no São Paulo Coffee Festival 2026: Terroir, Inovação e Coquetelaria",
+          "resumo": "O São Paulo Coffee Festival 2026, na Fundação Bienal do Ibirapuera, reuniu pequenos produtores brasileiros e marcas internacionais. Destaque para a consolidação do Carajillo (Licor 43 + espresso) como tendência e a presença forte de marcas internacionais no evento.",
+          "fonte": "Revista Degusta",
+          "data": "23 jul 2026",
+          "link": "https://revistadegusta.com/o-despertar-dos-sentidos-no-sao-paulo-coffee-festival-2026-terroir-inovacao-e-coquetelaria/"
+        },
+        {
+          "tema": "Turismo no Rio de Janeiro",
+          "titulo": "Rio de Janeiro em alta: prefeitura prevê turismo aquecido no verão de 2026",
+          "resumo": "A Prefeitura do Rio projeta 5,7 milhões de turistas na temporada de verão 2026, após receber 5 milhões de visitantes em 2025 — recorde de turistas estrangeiros. Praias, gastronomia estrelada pelo Guia Michelin e eventos como o \"Todo Mundo no Rio\" puxam a demanda.",
+          "fonte": "CNN Brasil",
+          "data": "15 nov 2025",
+          "link": "https://www.cnnbrasil.com.br/viagemegastronomia/viagem/rio-de-janeiro-em-alta-prefeitura-preve-turismo-aquecido-no-verao-de-2026/"
+        }
+      ]
     }
   ]
 }
