@@ -7,59 +7,43 @@
       "materias": [
         {
           "tema": "Inteligência Artificial",
-          "titulo": "IA no escritório: quais tarefas devem deixar de existir nos próximos cinco anos",
-          "resumo": "A matéria projeta como a IA generativa vai automatizar tarefas administrativas repetitivas — gestão de e-mails, atas de reunião, consolidação de dados — sem necessariamente extinguir profissões inteiras. O argumento central é que o tempo liberado deve ser redirecionado para análise, criatividade e tomada de decisão, um ponto de atenção direto para quem planeja redistribuição de carga de trabalho em equipes operacionais.",
+          "titulo": "45 novos bilionários em um ano: como a inteligência artificial criou uma nova elite bilionária",
+          "resumo": "A lista Forbes de bilionários 2026 ganhou 45 novos nomes ligados à inteligência artificial, com fortunas somadas superiores a US$ 2,9 trilhões. O grupo vai de donos de infraestrutura de chips, como Jensen Huang (Nvidia), a fundadores de laboratórios de IA, como Dario Amodei (Anthropic), além de startups de nicho aplicadas a setores específicos. O dado ilustra a velocidade com que a corrida da IA está concentrando valor na economia global.",
           "fonte": "Exame",
-          "data": "4 ago 2026",
-          "link": "https://exame.com/inteligencia-artificial/ia-no-escritorio-quais-tarefas-devem-deixar-de-existir-nos-proximos-cinco-anos/"
+          "data": "12 ago 2026",
+          "link": "https://exame.com/inteligencia-artificial/45-novos-bilionarios-em-um-ano-como-a-inteligencia-artificial-criou-uma-nova-elite-bilionaria/"
         },
         {
           "tema": "AI para Gestão de Pessoas",
-          "titulo": "Amazon lança IA que entrevista candidatos e acelera contratações em massa",
-          "resumo": "A Amazon lançou o Amazon Connect Talent, ferramenta que conduz entrevistas de voz automatizadas, adapta perguntas em tempo real e entrega transcrições e pontuação para recrutadores, mantendo a decisão final com humanos. É voltada para contratação em massa em varejo, operações e atendimento — um case direto para quem lida com volume alto de seleção em times operacionais.",
+          "titulo": "Workslop: o novo problema da IA no trabalho que pode consumir horas a mais e desperdiçar dinheiro",
+          "resumo": "Estudo da BetterUp Labs e do Stanford Social Media Lab batizou de 'workslop' o conteúdo gerado por IA entregue sem revisão adequada, que obriga colegas a retrabalhar o material. Segundo a pesquisa, 41% dos profissionais já foram afetados pelo problema, com cerca de duas horas gastas para corrigir cada ocorrência. Para gestores, o achado reforça a necessidade de estabelecer padrões de qualidade e responsabilização no uso de IA pelas equipes.",
           "fonte": "Exame",
-          "data": "6 ago 2026",
-          "link": "https://exame.com/carreira/amazon-lanca-ia-que-entrevista-candidatos-e-acelera-contratacoes-em-massa/"
+          "data": "14 ago 2026",
+          "link": "https://exame.com/inteligencia-artificial/workslop-o-novo-problema-da-ia-no-trabalho-que-pode-consumir-horas-a-mais-e-desperdicar-dinheiro/"
         },
         {
           "tema": "Gestão de Pessoas",
-          "titulo": "Não deixe que a IA enfraqueça seu estilo de liderança",
-          "resumo": "O artigo alerta para o risco de líderes delegarem em excesso à IA e perderem discernimento e presença autêntica nas decisões. Propõe um framework de quatro modos de colaboração com IA — do trabalho que permanece inteiramente nas mãos do líder até tarefas totalmente automatizadas — para preservar autonomia e autenticidade na gestão de equipes.",
-          "fonte": "Harvard Business Review",
-          "data": "3 ago 2026",
-          "link": "https://hbr.org/2026/08/dont-let-ai-flatten-your-leadership-style?language=pt"
+          "titulo": "Cultura da FARM: como a marca brasileira está levando seu jeito de trabalhar para o mundo",
+          "resumo": "A FARM Rio, com mais de 3 mil funcionários e receita de R$ 3,4 bilhões em 2025, expande internacionalmente sem perder sua cultura criativa. O CEO Fabio Barreto explica que a estratégia passa por formar líderes dentro da cultura da marca para conduzir a operação global, mantendo a criação centralizada no Rio de Janeiro. O caso ilustra como cultura organizacional forte pode sustentar crescimento acelerado sem diluir identidade.",
+          "fonte": "Exame",
+          "data": "15 ago 2026",
+          "link": "https://exame.com/carreira/cultura-da-farm-como-a-marca-brasileira-esta-levando-seu-jeito-de-trabalhar-para-o-mundo/"
         },
         {
           "tema": "CEO",
-          "titulo": "Por que executivos contratados externamente raramente chegam a CEO",
-          "resumo": "A análise mostra que candidatos internos são avaliados principalmente pela capacidade de liderança, enquanto executivos externos enfrentam um duplo critério: competência gerencial e legitimidade organizacional — esta última, segundo o artigo, frequentemente deixada ao acaso pelos sistemas de sucessão. Reflexão relevante para quem acompanha planos de sucessão em C-level.",
+          "titulo": "How to Develop a Game-Changing Worldview",
+          "resumo": "Em artigo assinado por Adi Ignatius, o ex-CEO da Best Buy Hubert Joly defende que líderes precisam construir uma visão de mundo robusta para formular estratégias de longo prazo, combinando filosofia pessoal de liderança, entendimento profundo do negócio e leitura do contexto macro. Segundo ele, essa abordagem integrada é o que permite a executivos antecipar tendências e navegar incertezas com mais segurança.",
           "fonte": "Harvard Business Review",
-          "data": "5 ago 2026",
-          "link": "https://hbr.org/2026/08/why-lateral-hires-rarely-become-ceo?language=es"
+          "data": "14 ago 2026",
+          "link": "https://hbr.org/2026/08/how-to-develop-a-game-changing-worldview"
         },
         {
           "tema": "Automação de Processos",
-          "titulo": "MCP: o protocolo que pode conectar a IA aos sistemas da empresa e mudar a automação corporativa",
-          "resumo": "O artigo explica o Model Context Protocol (MCP), padrão proposto pela Anthropic e já adotado por outras empresas de IA, que permite conectar modelos de IA diretamente a sistemas corporativos (CRM, bancos de dados, repositórios) via interface única, sem integrações customizadas. Tem potencial para simplificar automação em atendimento, RH e finanças, reduzindo a complexidade técnica que hoje trava projetos de automação.",
-          "fonte": "Exame",
-          "data": "6 ago 2026",
-          "link": "https://exame.com/inteligencia-artificial/mcp-o-protocolo-que-pode-conectar-a-ia-aos-sistemas-da-empresa-e-mudar-a-automacao-corporativa/"
-        },
-        {
-          "tema": "Redesenho de Processos",
-          "titulo": "Agentic AI change management: Closing the adoption gap",
-          "resumo": "A McKinsey defende que transformações bem-sucedidas com IA agêntica seguem a proporção 1:3:5 — um dólar em tecnologia, três em redesenho de processos e cinco em capacitação — e que a maioria das organizações inverte essa fórmula, investindo pesado em tecnologia e pouco em redesenhar o trabalho. O ponto central é que gestão de mudança tradicional não basta; é preciso uma abordagem contínua e integrada ao dia a dia operacional.",
-          "fonte": "McKinsey & Company",
-          "data": "7 ago 2026",
-          "link": "https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/how-to-close-the-agentic-adoption-gap"
-        },
-        {
-          "tema": "Gestão Operacional",
-          "titulo": "Inteligência artificial já ajuda companhias aéreas a reduzir atrasos e melhorar voos — entenda como",
-          "resumo": "Grandes companhias aéreas já usam modelos de IA para prever atrasos, otimizar operações em solo, personalizar compensações a passageiros e antecipar manutenção de aeronaves. O case ilustra como IA aplicada a operações de alta complexidade reduz atrasos em cascata e melhora eficiência ponta a ponta — um paralelo direto para gestão operacional em qualquer setor de alto volume.",
-          "fonte": "Exame",
-          "data": "7 ago 2026",
-          "link": "https://exame.com/inteligencia-artificial/inteligencia-artificial-ja-ajuda-companhias-aereas-a-reduzir-atrasos-e-melhorar-voos-entenda-como/"
+          "titulo": "Automação de processos não é só sobre tecnologia",
+          "resumo": "Em coluna, o CEO da Yank Solutions argumenta que o sucesso da automação depende antes de tudo do redesenho organizacional, e não da escolha de ferramentas. Ele defende que automatizar processos mal desenhados apenas acelera ineficiências existentes, em vez de gerar ganhos reais. A lição para operações é simplificar e mapear fluxos antes de investir em tecnologia.",
+          "fonte": "Olhar Digital",
+          "data": "15 ago 2026",
+          "link": "https://olhardigital.com.br/2026/08/15/colunistas/automacao-de-processos-nao-e-so-sobre-tecnologia"
         }
       ]
     },
@@ -69,67 +53,59 @@
       "materias": [
         {
           "tema": "Publicidade",
-          "titulo": "Nielsen vai comprar a DoubleVerify por US$ 2,15 bilhões",
-          "resumo": "A Nielsen anunciou a aquisição da DoubleVerify por US$ 2,15 bilhões em dinheiro, unindo duas gigantes de mensuração e verificação publicitária em negócio que deve fechar até o primeiro trimestre de 2027. A combinação reflete a dificuldade de empresas de infraestrutura de verificação em sustentar crescimento como negócios independentes na bolsa. A Nielsen promete manter a nova entidade \"independente\", mas o movimento acende debate sobre concentração no setor de mensuração.",
+          "titulo": "By the numbers: Wall Street's tough assessment of ad tech",
+          "resumo": "O mercado publicitário digital segue crescendo, mas empresas independentes de ad tech sofrem forte queda nas ações apesar do aumento de receita, evidenciando uma reavaliação de Wall Street sobre esses modelos de negócio. Google, Amazon e Meta já controlam cerca de 58% do investimento publicitário nos EUA, ampliando vantagens de escala que players independentes não conseguem acompanhar. O setor vive um êxodo para capital privado, com múltiplas aquisições em curso.",
+          "fonte": "Digiday",
+          "data": "13 ago 2026",
+          "link": "https://digiday.com/marketing/by-the-numbers-wall-streets-tough-assessment-of-ad-tech/"
+        },
+        {
+          "tema": "Novas Publicidades",
+          "titulo": "Anúncios no ChatGPT alteram a lógica da mídia digital",
+          "resumo": "A OpenAI lançou oficialmente o ChatGPT Ads no Brasil, permitindo que marcas exibam anúncios patrocinados durante interações que sinalizam intenção de compra. Diferentemente da publicidade em buscadores tradicionais, o formato posiciona o anunciante no momento em que a IA já influencia ativamente a decisão do consumidor. Para times de Ad Ops, o desafio passa a ser interpretar métricas de intenção declarada em vez de intenção inferida.",
+          "fonte": "Meio & Mensagem",
+          "data": "7 ago 2026",
+          "link": "https://www.meioemensagem.com.br/midia/anuncios-no-chatgpt-alteram-a-logica-da-midia-digital"
+        },
+        {
+          "tema": "Receita com Publicidade",
+          "titulo": "The Trade Desk's Revenue Growth Stalls As Big Brands Tighten Their Belts",
+          "resumo": "A Trade Desk reportou receita de US$ 715 milhões no segundo trimestre, crescimento de apenas 3% ano a ano, provocando queda de mais de 20% no preço das ações. O CEO Jeff Green atribuiu o desempenho fraco à cautela de grandes marcas de CPG e automotivo, mas apontou sinais positivos em contas menores e mercados internacionais. A empresa mantém estratégia de precificação premium mesmo sob pressão de plataformas de baixo custo como Amazon DSP e Google Buyer Direct.",
+          "fonte": "AdExchanger",
+          "data": "7 ago 2026",
+          "link": "https://www.adexchanger.com/programmatic/the-trade-desks-revenue-growth-stalls-as-big-brands-tighten-their-belts/"
+        },
+        {
+          "tema": "Upfront",
+          "titulo": "Netflix Wraps Upfront, Volume 'Nearly Doubled'",
+          "resumo": "A Netflix encerrou seu upfront de publicidade para a temporada 2026-27 com o volume de compromissos de anúncios quase dobrando em relação ao ano anterior, segundo Amy Reinhard, presidente de publicidade da plataforma. A empresa projeta atingir US$ 3 bilhões em receita publicitária em 2026, o dobro do ano passado. Séries como Bridgerton e Emily in Paris, além de eventos esportivos como NFL e a Copa do Mundo Feminina de 2027, foram os ativos mais disputados pelos anunciantes.",
+          "fonte": "MediaPost",
+          "data": "10 ago 2026",
+          "link": "https://www.mediapost.com/publications/article/417133/netflix-wraps-upfront-volume-nearly-doubled.html"
+        },
+        {
+          "tema": "Canais de TV",
+          "titulo": "Consumo de streaming supera canais lineares em smartTVs",
+          "resumo": "Levantamento da Samsung Ads Brasil, com base em mais de 26 milhões de Smart TVs ativas, mostra que o streaming já ocupa 73% do tempo de uso das telas conectadas, contra 27% da TV linear. Do total de usuários, 89% consumiram conteúdo de streaming no mês analisado, somando em média 203 horas por pessoa. Ainda assim, os canais lineares mantêm relevância comercial, com 58% da base ativa assistindo TV aberta ou paga no período.",
+          "fonte": "Meio & Mensagem",
+          "data": "14 ago 2026",
+          "link": "https://www.meioemensagem.com.br/midia/consumo-de-streaming-supera-canais-lineares-em-smarttvs"
+        },
+        {
+          "tema": "Revoluções na Publicidade",
+          "titulo": "Nielsen Is Acquiring DoubleVerify For $2.15 Billion",
+          "resumo": "A Nielsen anunciou a aquisição da DoubleVerify por cerca de US$ 2,15 bilhões, negócio que deve fechar no primeiro trimestre de 2027 e que consolida duas das principais plataformas independentes de verificação e medição de anúncios. Ambas as empresas deixarão de ser negociadas publicamente, aprofundando a onda de consolidação entre intermediários de ad tech. Para operações de mídia, o movimento reduz o número de fornecedores neutros de medição disponíveis no mercado.",
           "fonte": "AdExchanger",
           "data": "6 ago 2026",
           "link": "https://www.adexchanger.com/measurement/nielsen-is-acquiring-doubleverify-for-2-15-billion/"
         },
         {
-          "tema": "Novas Publicidades",
-          "titulo": "Time começa a veicular anúncios voltados para agentes de IA",
-          "resumo": "A revista Time passou a exibir anúncios formatados especificamente para agentes de IA em suas páginas em markdown, em parceria com a ad tech Mobian, com marcas como Ally Bank já testando o formato. Os anúncios aparecem como conteúdo tipo FAQ, sinalizado como patrocinado. Iniciativa busca monetizar o volume crescente de tráfego de bots enquanto o publisher aposta que páginas otimizadas para IA também ajudam na visibilidade em buscas generativas.",
-          "fonte": "Digiday",
-          "data": "30 jul 2026",
-          "link": "https://digiday.com/media/time-has-started-serving-ads-to-ai-agents/"
-        },
-        {
-          "tema": "Receita com Publicidade",
-          "titulo": "Investimento em vídeo streaming chega a US$ 582,6 milhões desde janeiro",
-          "resumo": "Levantamento da MediaPost mostra que plataformas de streaming somaram US$ 582,6 milhões em investimento publicitário direto e valor de mídia entre janeiro e agosto de 2026, alta discreta ante o ano anterior. Paramount+ e Disney+ lideram em share de impressões, enquanto a Amazon Prime Video teve o maior investimento direto isolado (US$ 38,3 milhões). O dado confirma migração gradual de verba de TV linear para CTV, ainda em ritmo mais lento que o projetado pelo mercado.",
-          "fonte": "MediaPost",
-          "data": "14 ago 2026",
-          "link": "https://www.mediapost.com/publications/article/417249/streaming-video-ad-spend-hits-586m-since-january.html"
-        },
-        {
-          "tema": "Upfront",
-          "titulo": "Upfront de TV 2026-27 fecha em US$ 33,7 bi, alta de 9%, mas CPMs caem",
-          "resumo": "As vendas de upfront de TV para a temporada 2026-27 somaram US$ 33,7 bilhões, alta de 9% ano a ano, puxadas por um salto de 30% no streaming (US$ 17,2 bilhões), enquanto cabo e broadcast recuaram 7% e 5%, respectivamente. Apesar do volume maior, os CPMs caíram em todos os segmentos, com compradores usando a força do streaming com anúncios como alavanca de negociação. O resultado confirma a virada estrutural de verba para o ambiente streaming dentro do próprio ciclo de upfront.",
-          "fonte": "MediaPost",
-          "data": "11 ago 2026",
-          "link": "https://www.mediapost.com/publications/article/417166/prime-time-upfront-ad-sales-rise-9-to-337b-cpm.html"
-        },
-        {
-          "tema": "Publisher",
-          "titulo": "Publishers substituem o Google por um pouco de tudo",
-          "resumo": "Editoras como New York Times, News Corp, USA Today e People Inc. estão diversificando fontes de tráfego para reduzir a dependência da busca do Google, apostando em vídeo, assinaturas, newsletters e redes sociais. Em vez de buscar um substituto único, o movimento do setor é construir múltiplos canais de audiência e receita em paralelo. Reflete a pressão contínua da IA generativa e das AI Overviews sobre o tráfego orgânico dos publishers.",
-          "fonte": "Digiday",
-          "data": "13 ago 2026",
-          "link": "https://digiday.com/media/media-briefing-publishers-are-replacing-google-with-a-little-bit-of-everything/"
-        },
-        {
-          "tema": "Canais de TV",
-          "titulo": "Gray Television supera expectativas no Q2 com alta de 8,7% na receita",
-          "resumo": "A emissora americana Gray Television reportou crescimento de receita de 8,7% no segundo trimestre, superando as expectativas do mercado, impulsionado por publicidade política, integração de emissoras recém-adquiridas e avanço da publicidade digital. A margem operacional saltou para 16,2%, ante 10,6% no mesmo período do ano anterior. O resultado mostra que o broadcast local ainda sustenta receita relevante mesmo com a migração de audiência para o streaming.",
-          "fonte": "MediaPost",
-          "data": "12 ago 2026",
-          "link": "https://www.mediapost.com/publications/article/417190/gray-television-exceeds-q2-expectations-with-87.html"
-        },
-        {
-          "tema": "Revoluções na Publicidade",
-          "titulo": "O último ator neutro do ad tech escolheu um lado",
-          "resumo": "A compra da LiveRamp pela Publicis por US$ 2,167 bilhões encerrou a neutralidade da principal infraestrutura de identidade do setor, levando Omnicom e WPP a acelerar a saída da plataforma e construir stacks proprietários próprios. A consolidação cria um mercado dominado por sistemas de identidade controlados por poucos grandes grupos, em vez dos antigos \"canos\" neutros compartilhados. Agências independentes e anunciantes de médio porte ficam mais expostos à dependência de infraestrutura controlada por concorrentes diretos.",
-          "fonte": "AdExchanger",
-          "data": "10 ago 2026",
-          "link": "https://www.adexchanger.com/data-driven-thinking/ad-techs-last-neutral-party-just-picked-a-side/"
-        },
-        {
           "tema": "Novas Entregas Publicitárias",
-          "titulo": "Agentes de IA dão a publishers uma nova forma de monetizar dados",
-          "resumo": "PubMatic e Optable integraram suas tecnologias para permitir que agentes de IA empacotem automaticamente dados primários de publishers em pacotes de audiência customizados, negociáveis em tempo real por agentes de compra do lado do anunciante. Um processo antes manual e trabalhoso passa a ser automatizado de ponta a ponta dentro do fluxo programático. O movimento ajuda SSPs a se diferenciarem num mercado comoditizado e destrava novos ativos de dados para publishers.",
-          "fonte": "AdExchanger",
-          "data": "3 ago 2026",
-          "link": "https://www.adexchanger.com/ai/ai-agents-are-giving-publishers-a-new-way-to-monetize-their-data/"
+          "titulo": "For Advertisers, Hydration Breaks Were the Star of the World Cup",
+          "resumo": "Os intervalos de hidratação de cerca de três minutos durante os jogos da Copa do Mundo 2026 se tornaram um dos inventários mais valiosos e eficazes para anunciantes, segundo especialistas de mídia. Apesar das críticas de torcedores nas redes sociais, os dados mostram audiência elevada nesses breaks, o que já leva emissoras e plataformas a considerar monetizá-los formalmente em contratos futuros. É um novo formato de entrega de inventário premium ligado a eventos esportivos ao vivo.",
+          "fonte": "Adweek",
+          "data": "12 ago 2026",
+          "link": "https://www.adweek.com/convergent-tv/for-advertisers-hydration-breaks-were-the-star-of-the-world-cup/"
         }
       ]
     },
@@ -139,32 +115,32 @@
       "materias": [
         {
           "tema": "Vela Esportiva",
-          "titulo": "Veleiros Schaefer conquistam pódios na Semana de Vela de Ilhabela pela BRA RGS",
-          "resumo": "Dois veleiros Schaefer 31, o Plâncton e o Homo Erectus, subiram ao pódio na 53ª Semana Internacional de Vela de Ilhabela (SIVI), vencendo as classes RGS C e RGS B, respectivamente. A matéria destaca como o projeto do Schaefer 31, criado há cerca de 40 anos por Márcio Schaefer, continua competitivo mesmo diante de embarcações mais modernas.",
-          "fonte": "Revista Náutica",
-          "data": "10 ago 2026",
-          "link": "https://nautica.com.br/podios-veleiros-schaefer-semana-vela-ilhabela-bra-rgs-2026/"
+          "titulo": "Copa Brasil de Vela de Praia 2026 conhece os seus campeões em Fortaleza",
+          "resumo": "A sexta edição consecutiva da Copa Brasil de Vela de Praia terminou no domingo em Fortaleza-CE, coroando campeões nas classes Dingue, Hobie Cat 16, ILCA 6, Optimist, Kite TTR, Kitefoil e Wingfoil. O evento serviu como etapa de preparação para o Mundial da World Sailing em 2027, que distribuirá 68 vagas para os Jogos Olímpicos de Los Angeles 2028.",
+          "fonte": "CBVela",
+          "data": "16 ago 2026",
+          "link": "https://cbvela.com.br/copa-brasil-de-vela-de-praia-2026-conhece-os-seus-campeoes-em-fortaleza/"
         },
         {
           "tema": "Vinhos",
-          "titulo": "Festival de Vinhos Princesa oferece degustação gratuita em sua quarta edição",
-          "resumo": "A quarta edição do Festival de Vinhos Princesa aconteceu no dia 8 de agosto no Clube Monte Líbano, na Lagoa (Zona Sul do Rio), em dois turnos. O evento reuniu vinícolas como Concha y Toro, Terraustral, Doña Paula e Trivento, com degustação livre harmonizada com queijos e embutidos, além de palestras opcionais com especialistas.",
-          "fonte": "Informa Rio",
-          "data": "04 ago 2026",
-          "link": "https://informa-rio.com/2026/08/04/quarta-edicao-do-festival-de-vinhos-princesa-tem-degustacao-livre"
+          "titulo": "5 eventos de vinho em São Paulo para aproveitar em agosto",
+          "resumo": "São Paulo tem uma programação especial de vinhos em agosto, com festivais, feiras e degustações que vão de experiências gratuitas a grandes eventos com centenas de rótulos. A seleção destaca produtores brasileiros, gastronomia e masterclasses voltadas a quem quer conhecer melhor a produção nacional.",
+          "fonte": "CNN Brasil",
+          "data": "12 ago 2026",
+          "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/4-eventos-de-vinho-em-sao-paulo-para-aproveitar-em-agosto/"
         },
         {
           "tema": "Cafés",
-          "titulo": "Lojas de cafés especiais apresentam lançamentos e tendências",
-          "resumo": "A matéria destaca a expansão de cafeterias especializadas no Rio: a Street Me Coffee (de Florianópolis) abriu sua primeira unidade na Zona Sul, em Botafogo, com grãos da Fazenda São Benedito (MG), e a torrefadora Madura Coffee inaugurou um espaço fixo em Tijuca após anos operando em ponto de rua. Ambas apostam em ambientes modernos e cardápios como o trufaccino, com trufa artesanal.",
-          "fonte": "Informa Rio",
-          "data": "15 ago 2026",
-          "link": "https://informa-rio.com/2026/08/15/lojas-cafes-especiais-novidades"
+          "titulo": "A criação do termo \"café especial\" e o nascimento de uma nova cultura",
+          "resumo": "A expressão café especial foi cunhada em 1974 pela comerciante americana Erna Knutsen para descrever cafés de regiões excepcionais. O termo transformou a bebida de commodity em produto valorizado por origem e terroir, criando parâmetros de qualidade hoje adotados em mais de 70 países.",
+          "fonte": "CNN Brasil",
+          "data": "11 ago 2026",
+          "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/a-criacao-do-termo-cafe-especial-e-o-nascimento-de-uma-nova-cultura/"
         },
         {
           "tema": "Turismo no Rio de Janeiro",
           "titulo": "Prefeitura do Rio anuncia programação especial para Semana do Patrimônio Cultural 2026",
-          "resumo": "O Rio sedia entre 17 e 19 de agosto a Semana do Patrimônio Cultural 2026, organizada pelo Instituto Rio Patrimônio da Humanidade, com participação gratuita mediante inscrição. A programação inclui conferência do arquiteto Washington Fajardo, painéis técnicos sobre conservação e arqueologia urbana, e roteiros guiados pelo Corredor Cultural e por bairros de arquitetura modernista e art déco.",
+          "resumo": "O Rio de Janeiro recebe a Semana do Patrimônio Cultural entre 17 e 19 de agosto, promovida pela Prefeitura via Instituto Rio Patrimônio da Humanidade. A programação inclui conferências, exposições e visitas técnicas a marcos históricos da cidade, com foco em preservação da memória e revitalização urbana.",
           "fonte": "Informa Rio",
           "data": "13 ago 2026",
           "link": "https://informa-rio.com/2026/08/13/prefeitura-do-rio-promove-semana-do-patrimonio-cultural-2026"
@@ -177,19 +153,27 @@
       "materias": [
         {
           "tema": "SELIC e Juros",
-          "titulo": "Inflação deve ajudar Copom a cortar Selic a 14%; será o último corte do ano?",
-          "resumo": "O Copom decidiu pelo corte de 0,25 p.p. na Selic, levando a taxa a 14%, com mercado dividido sobre se esse é o último movimento do ciclo de afrouxamento em 2026. Economistas apontam espaço cada vez mais estreito para novos cortes diante de riscos fiscais, cambiais e de desancoragem das expectativas de inflação.",
+          "titulo": "Ata do Copom: Risco fiscal e inflação dividem mercado sobre novos cortes na Selic",
+          "resumo": "A ata da reunião de agosto do Copom mostrou um comitê dividido entre reconhecer a desinflação em curso e manter cautela diante da incerteza fiscal e da inflação ainda desancorada. Após o quarto corte consecutivo de 0,25 p.p., que levou a Selic a 14% ao ano, o mercado diverge: parte dos analistas projeta novos cortes até 13,25%, enquanto outros apostam em pausa para avaliar os próximos dados de inflação e atividade.",
           "fonte": "InfoMoney",
-          "data": "4 ago 2026",
-          "link": "https://www.infomoney.com.br/economia/corte-da-selic-decisao-copom-expectativas-082026/"
+          "data": "11 ago 2026",
+          "link": "https://www.infomoney.com.br/economia/ata-do-copom-agosto-2026-mercado-futuro-selic/"
         },
         {
           "tema": "FIIs Kinea",
-          "titulo": "FII KNCR11 anuncia dividendo com yield de 1,16%; veja valor e data de pagamento",
-          "resumo": "O KNCR11 (Kinea Rendimentos Imobiliários) vai distribuir R$ 1,25 por cota em 13 de agosto, o maior provento em sete meses, equivalente a um dividend yield mensal de cerca de 1,15% sobre a cotação de fechamento de julho — patamar alinhado à performance recente do fundo de recebíveis.",
-          "fonte": "InfoMoney",
-          "data": "31 jul 2026",
-          "link": "https://www.infomoney.com.br/onde-investir/fii-kncr11-anuncia-dividendo-com-yield-de-116-veja-valor-e-data-de-pagamento/"
+          "titulo": "Dividendos: 133 FIIs pagam até R$ 32 por cota nesta semana; IFIX acumula queda em agosto",
+          "resumo": "O FII Kinea High Yield (KNHY11) anunciou dividendo de R$ 1,20 por cota, com pagamento em 13 de agosto de 2026 e data-ex em 31 de julho. O destaque ocorre em meio à queda acumulada do IFIX no mês, cenário que reforça o interesse dos investidores por fundos de recebíveis como os da família Kinea.",
+          "fonte": "Money Times",
+          "data": "10 ago 2026",
+          "link": "https://www.moneytimes.com.br/dividendos-133-fiis-pagam-ate-r-32-por-cota-nesta-semana-ifix-acumula-queda-em-agosto-igdl/"
+        },
+        {
+          "tema": "FIIs Sparta",
+          "titulo": "Dividendos: 133 FIIs pagam até R$ 32 por cota nesta semana; IFIX acumula queda em agosto",
+          "resumo": "O FI-Infra DIVS11 (Sparta Infra Inflação Longa) anunciou dividendo de R$ 1,20 por cota, com pagamento em 14 de agosto de 2026 e data-ex em 31 de julho, mantendo o patamar de distribuição mensal do fundo. O anúncio faz parte do levantamento semanal de proventos de FIIs, em meio à queda acumulada do IFIX em agosto.",
+          "fonte": "Money Times",
+          "data": "10 ago 2026",
+          "link": "https://www.moneytimes.com.br/dividendos-133-fiis-pagam-ate-r-32-por-cota-nesta-semana-ifix-acumula-queda-em-agosto-igdl/"
         }
       ]
     }
