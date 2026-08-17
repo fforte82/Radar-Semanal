@@ -33,6 +33,7 @@ CORES_PILAR = {
     "Profissional": "var(--pilar-profissional)",
     "Trabalho": "var(--pilar-trabalho)",
     "Lazer": "var(--pilar-lazer)",
+    "Finanças": "var(--pilar-financas)",
 }
 
 MESES_PT = [

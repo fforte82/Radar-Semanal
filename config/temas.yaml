@@ -105,3 +105,28 @@ pilares:
       - cnnbrasil.com.br
       - g1.globo.com
       - veja.abril.com.br
+
+  - nome: Finanças
+    temas:
+      - id: selic_juros
+        titulo: "SELIC e Juros"
+        keywords: ["SELIC", "Copom", "decisão de juros", "taxa de juros Brasil", "trajetória da SELIC"]
+      - id: fiis_kinea
+        titulo: "FIIs Kinea"
+        keywords: ["KNHY11", "KNUQ11", "KNHF11", "KNSC11", "KNCR11", "KDIF11", "KDLG11", "KNPL17", "KNCE11", "FII Kinea"]
+      - id: fiis_sparta
+        titulo: "FIIs Sparta"
+        keywords: ["DIVS11", "CDII11", "Sparta Infra Inflação Longa", "Sparta CDII", "FII Sparta"]
+    fontes_confiaveis:
+      - infomoney.com.br
+      - valorinveste.globo.com
+      - valor.globo.com
+      - suno.com.br
+      - fiis.com.br
+      - statusinvest.com.br
+      - clubefii.com.br
+      - moneytimes.com.br
+      - exame.com
+      - kinea.com.br
+      - spartafi.com.br
+      - b3.com.br
