@@ -1,105 +1,15 @@
 {
-  "atualizado_em": "31 de agosto de 2026",
+  "atualizado_em": "7 de setembro de 2026",
   "pilares": [
     {
       "nome": "Profissional",
       "cor": "var(--pilar-profissional)",
-      "materias": [
-        {
-          "tema": "Inteligência Artificial",
-          "titulo": "A nova aliança entre reguladores e algoritmos no mercado de capitais",
-          "resumo": "A CVM firmou parceria com o Impa Tech para desenvolver soluções de IA na supervisão do mercado de capitais, cruzando volume, preço, horário e perfil de investidores para identificar negociações atípicas. A iniciativa segue tendência já adotada por reguladores como SEC (EUA) e FCA (Reino Unido) e amplia a automação da leitura de documentos regulatórios.",
-          "fonte": "Exame",
-          "data": "30 ago 2026",
-          "link": "https://exame.com/future-of-money/a-nova-alianca-entre-reguladores-e-algoritmos-no-mercado-de-capitais/"
-        },
-        {
-          "tema": "AI para Gestão de Pessoas",
-          "titulo": "De registrar para executar: na 'LG lugar de gente', agentes de IA já fecham folha e recrutam no RH",
-          "resumo": "A LG lugar de gente amplia seus agentes de inteligência artificial para automatizar folha de pagamento, recrutamento e atendimento ao colaborador, prometendo reduzir em até 75% o esforço no fechamento da folha e acelerar seleções em até 70%. A solução, testada com a consultoria Exímia, já processa mais de R$ 200 bilhões em folha por ano, liberando o RH para decisões estratégicas.",
-          "fonte": "Exame",
-          "data": "25 ago 2026",
-          "link": "https://exame.com/carreira/de-registrar-para-executar-na-lg-lugar-de-gente-agentes-de-ia-ja-fecham-folha-e-recrutam-no-rh/"
-        },
-        {
-          "tema": "Gestão de Pessoas",
-          "titulo": "RH brasileiro marca 37 pontos de 100 em maturidade no padrão global",
-          "resumo": "Levantamento da Caju mostra que o RH brasileiro atingiu apenas 37 pontos em uma escala de maturidade de 0 a 100, com 74,8% das empresas ainda nas duas primeiras ondas do modelo e só 4,4% na quarta. O estudo aponta dificuldade das áreas de RH em mensurar resultados e conectar tecnologia à geração de valor para o negócio.",
-          "fonte": "Exame",
-          "data": "27 ago 2026",
-          "link": "https://exame.com/bussola/rh-brasileiro-marca-37-pontos-de-100-em-maturidade-no-padrao-global/"
-        },
-        {
-          "tema": "CEO",
-          "titulo": "Quem são os CEOs do Brasil? Pesquisa revela perfil e o que tira o sono desses líderes",
-          "resumo": "Pesquisa do Great Place To Work com mais de 220 CEOs brasileiros mostra uma liderança que passa a priorizar qualidade de vida e férias, mas ainda enfrenta desafios na formação de sucessores. O perfil típico segue predominantemente masculino (78,8%), entre 40 e 59 anos, com formação em Engenharia ou Administração.",
-          "fonte": "Exame",
-          "data": "25 ago 2026",
-          "link": "https://exame.com/carreira/quem-sao-os-ceos-do-brasil-pesquisa-revela-perfil-e-o-que-tira-o-sono-desses-lideres/"
-        },
-        {
-          "tema": "Gestão Operacional",
-          "titulo": "Eficiência operacional: o caminho para uma agenda climática consistente",
-          "resumo": "A Iguatemi S.A., operadora de 23 shoppings, integra infraestrutura inteligente e descarbonização para elevar a eficiência operacional, mantendo 100% de energia renovável e reduzindo emissões absolutas em 67% desde 2021. A companhia já opera mais de 4.000 medidores conectados de água e energia para otimizar a gestão de recursos.",
-          "fonte": "Exame",
-          "data": "14 ago 2026",
-          "link": "https://exame.com/bussola/eficiencia-operacional-o-caminho-para-uma-agenda-climatica-consistente/"
-        }
-      ]
+      "materias": []
     },
     {
       "nome": "Trabalho",
       "cor": "var(--pilar-trabalho)",
-      "materias": [
-        {
-          "tema": "Publicidade",
-          "titulo": "Retorno de contas e reforços movimentam a semana no mercado",
-          "resumo": "O mercado publicitário brasileiro viveu uma semana de movimentações, com Lola\\TBWA, Publicis Brasil e Dentsu anunciando mudanças em lideranças criativas e novas contratações estratégicas. Anunciantes e empresas de influenciadores também reorganizaram estruturas para responder à demanda por impacto concreto nos negócios e novas metodologias de mensuração de ROI.",
-          "fonte": "propmark",
-          "data": "28 ago 2026",
-          "link": "https://propmark.com.br/mercado/retorno-de-contas-e-reforcos-movimentam-a-semana-no-mercado/"
-        },
-        {
-          "tema": "Novas Publicidades",
-          "titulo": "The IAB is developing a framework to tackle AI advertising measurement",
-          "resumo": "O IAB está desenvolvendo um framework, previsto para novembro de 2026, para medir e atribuir crédito quando anúncios influenciam agentes de IA, já que os sinais tradicionais de rastreamento perdem eficácia nessas plataformas. A iniciativa busca também uma relação mais recíproca entre editoras e as empresas de tecnologia que se beneficiam do conteúdo editorial.",
-          "fonte": "Digiday",
-          "data": "24 ago 2026",
-          "link": "https://digiday.com/media/the-iab-is-developing-a-framework-to-tackle-ai-advertising-measurement/"
-        },
-        {
-          "tema": "Receita com Publicidade",
-          "titulo": "Mercado global de retail media supera US$ 200 bilhões, mas crescimento desacelera",
-          "resumo": "Relatório da WARC Media projeta que o retail media movimentará US$ 200,4 bilhões em 2026, subindo para US$ 223,4 bilhões em 2027, mas o ritmo de crescimento desacelera quando se exclui a Amazon, líder absoluta do segmento. O estudo destaca o desafio de equilibrar receita publicitária com experiência do consumidor e a importância da criatividade nas campanhas.",
-          "fonte": "Acontecendo Aqui",
-          "data": "19 ago 2026",
-          "link": "https://acontecendoaqui.com.br/propaganda/mercado-global-de-retail-media-supera-us-200-bilhoes-mas-crescimento-desacelera/"
-        },
-        {
-          "tema": "Canais de TV",
-          "titulo": "Nielsen passa a medir anúncios em streaming no Brasil",
-          "resumo": "A Nielsen ampliou seu Ad Intel Digital para medir publicidade em plataformas de streaming no Brasil, monitorando mais de 23 mil anúncios em nove aplicativos nos primeiros três meses de operação. A solução usa captura passiva de dados em Smart TVs e oferece análises de share of voice e movimentação da concorrência.",
-          "fonte": "propmark",
-          "data": "12 ago 2026",
-          "link": "https://propmark.com.br/mercado/nielsen-passa-a-medir-anuncios-em-streaming-no-brasil/"
-        },
-        {
-          "tema": "Revoluções na Publicidade",
-          "titulo": "How ChatGPT Justifies Its CPMs; Is \"Chatbot Ads\" Its Own Specialty?",
-          "resumo": "Os anúncios do ChatGPT começaram com CPMs elevados de US$ 60, aproveitando o fator novidade entre anunciantes, mas já sofrem pressão por controles contextuais mais refinados. O mercado debate se a publicidade em chatbots de IA representa uma categoria própria, distinta de busca ou mídia social.",
-          "fonte": "AdExchanger",
-          "data": "28 ago 2026",
-          "link": "https://www.adexchanger.com/daily-news-roundup/friday-28082026/"
-        },
-        {
-          "tema": "Novas Entregas Publicitárias",
-          "titulo": "How Programmatic Home Screen Ads Are Becoming More Standardized (And More Accessible)",
-          "resumo": "Anúncios na tela inicial de TVs conectadas ganham padronização por meio de ferramentas da plataforma Nexxen, permitindo upload criativo único para múltiplos fabricantes e reduzindo o tempo de integração em até 50%. A mudança amplia o formato para além de entretenimento, atraindo varejistas e anunciantes de performance com uma alternativa não intrusiva à publicidade tradicional.",
-          "fonte": "AdExchanger",
-          "data": "20 ago 2026",
-          "link": "https://www.adexchanger.com/ctv-roundup/how-programmatic-home-screen-ads-are-becoming-more-standardized-and-more-accessible/"
-        }
-      ]
+      "materias": []
     },
     {
       "nome": "Lazer",
@@ -109,32 +19,7 @@
     {
       "nome": "Finanças",
       "cor": "var(--pilar-financas)",
-      "materias": [
-        {
-          "tema": "SELIC e Juros",
-          "titulo": "Ata do Copom: Risco fiscal e inflação dividem mercado sobre novos cortes na Selic",
-          "resumo": "A ata do Banco Central de agosto de 2026 mostra um Copom dividido entre reconhecer a desinflação em curso e manter cautela com as incertezas fiscais. Parte do mercado projeta continuidade dos cortes da Selic até 13,25%, enquanto outra parte defende manutenção em 14% para conter inflação desancorada e riscos fiscais.",
-          "fonte": "InfoMoney",
-          "data": "11 ago 2026",
-          "link": "https://www.infomoney.com.br/economia/ata-do-copom-agosto-2026-mercado-futuro-selic/"
-        },
-        {
-          "tema": "FIIs Kinea",
-          "titulo": "FII da Kinea vende centro de distribuição em SP por R$ 26 milhões e reduz vacância",
-          "resumo": "O fundo KNRI11 vendeu seu Centro de Distribuição em Sumaré (SP) por R$ 26 milhões, com 24% pago à vista e o restante em parcelas semestrais, em operação com prêmio de 36,3% sobre o valor de avaliação. A venda reduziu a vacância do fundo de 3,95% para 1,77%.",
-          "fonte": "InfoMoney",
-          "data": "21 ago 2026",
-          "link": "https://www.infomoney.com.br/onde-investir/fii-da-kinea-vende-centro-de-distribuicao-em-sp-por-r-26-milhoes-e-reduz-vacancia/"
-        },
-        {
-          "tema": "Ações Inter & Nubank",
-          "titulo": "Nubank (ROXO34): Lucro dispara 49% e chega a US$ 1 bi pela primeira vez na história; ação salta 10%",
-          "resumo": "O Nubank registrou lucro líquido de US$ 1 bilhão no segundo trimestre de 2026, alta de 49% na comparação anual e acima da expectativa dos analistas (US$ 991 milhões), com a ação disparando 10% no after-market de Nova York. O ROE do banco chegou a 33%, superando os maiores bancos brasileiros, como o Itaú.",
-          "fonte": "Money Times",
-          "data": "13 ago 2026",
-          "link": "https://www.moneytimes.com.br/nubank-roxo34-lucro-dispara-49-e-chega-a-us-1-bi-pela-primeira-vez-da-historia/"
-        }
-      ]
+      "materias": []
     }
   ]
 }
