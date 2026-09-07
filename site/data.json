@@ -4,22 +4,194 @@
     {
       "nome": "Profissional",
       "cor": "var(--pilar-profissional)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Inteligência Artificial",
+          "titulo": "Adoção de IA nas empresas brasileiras sobe para 50%, mas só 15% chegaram ao estágio avançado",
+          "resumo": "Pesquisa da AWS com 2 mil empresas brasileiras mostra que 50% já usam IA, ante 40% no ano anterior. Apenas 15% atingiram estágio avançado de implementação, e só 21% se dizem preparadas para a próxima onda de agentes autônomos.",
+          "fonte": "Exame",
+          "data": "3 set 2026",
+          "link": "https://exame.com/tecnologia/adocao-de-ia-nas-empresas-brasileiras-sobe-para-50-mas-mas-so-15-chegaram-ao-estagio-avancado/"
+        },
+        {
+          "tema": "AI para Gestão de Pessoas",
+          "titulo": "Gente e Gestão: é ilusão acreditar que liderança pode ser automatizada",
+          "resumo": "Artigo argumenta que eliminar camadas de média gerência com IA é uma ilusão perigosa: a tecnologia automatiza tarefas administrativas, mas não substitui liderança — inspirar equipes, decidir sob incerteza e lidar com ambiguidade. Empresas que investirem em habilidades comportamentais de líderes tendem a superar as que apenas cortam estrutura.",
+          "fonte": "Exame",
+          "data": "31 ago 2026",
+          "link": "https://exame.com/bussola/gente-e-gestao-e-ilusao-acreditar-que-lideranca-pode-ser-automatizada/"
+        },
+        {
+          "tema": "Gestão de Pessoas",
+          "titulo": "O RH que não entende o negócio vai perder espaço",
+          "resumo": "Artigo defende que o RH precisa integrar gestão de pessoas à produtividade do negócio: People Analytics conecta indicadores humanos a resultado financeiro, enquanto lideranças precisam se adaptar às expectativas geracionais. Saúde emocional ganhou peso estratégico com a NR-1, tornando o RH alavanca de sustentabilidade do negócio.",
+          "fonte": "Exame",
+          "data": "1 set 2026",
+          "link": "https://exame.com/carreira/rh-negocio-espaco/"
+        },
+        {
+          "tema": "CEO",
+          "titulo": "O CEO da Microsoft tem uma visão surpreendente sobre a habilidade mais necessária para os líderes",
+          "resumo": "Satya Nadella defende que empatia deixou de ser soft skill e virou competência crítica de liderança: entender genuinamente as pessoas melhora decisões, resolução de conflitos e identificação de necessidades não verbalizadas dos clientes. Ele trata inteligência emocional como diferencial competitivo, não como discurso institucional.",
+          "fonte": "Exame",
+          "data": "7 set 2026",
+          "link": "https://exame.com/carreira/o-ceo-da-microsoft-tem-uma-visao-surpreendente-sobre-a-habilidade-mais-necessaria-para-os-lideres/"
+        },
+        {
+          "tema": "Automação de Processos",
+          "titulo": "Cielo usa agente de inteligência artificial e derruba pela metade os chamados de TI internos",
+          "resumo": "A Cielo reduziu em 52% os chamados ao Service Desk (de 3.710 para 1.776 por mês) com um agente de IA construído sobre o Copilot Studio da Microsoft, operando 24/7 em tarefas como recuperação de senha e autenticação multifator. O ganho libera técnicos humanos para demandas mais complexas — case direto de ROI em automação de suporte.",
+          "fonte": "Exame",
+          "data": "31 ago 2026",
+          "link": "https://exame.com/inteligencia-artificial/cielo-usa-agente-de-inteligencia-artificial-e-derruba-pela-metade-os-chamados-de-ti-internos/"
+        }
+      ]
     },
     {
       "nome": "Trabalho",
       "cor": "var(--pilar-trabalho)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Publicidade",
+          "titulo": "Globo se reorganiza em 11 diretorias após saída de executivos",
+          "resumo": "A Globo reorganizou sua estrutura em 11 diretorias após a saída de três executivos, criando um novo pilar de Consumidor e Marketing e unificando Estúdios Globo e TV Globo sob a mesma gestão. Movimento sinaliza foco em colocar o consumidor no centro da operação comercial.",
+          "fonte": "Meio & Mensagem",
+          "data": "4 set 2026",
+          "link": "https://www.meioemensagem.com.br/midia/globo-se-reorganiza-em-11-diretorias-apos-saida-de-executivos"
+        },
+        {
+          "tema": "Novas Publicidades",
+          "titulo": "5 campanhas que souberam fazer um bom uso da IA",
+          "resumo": "Profissionais de criação apontam cinco campanhas que usaram IA generativa a serviço da ideia, não como substituto do trabalho criativo — casos como 'The Watch' (Knight Watches) e 'Lucky Fan Index' (Wisła Kraków). Referência prática para calibrar o uso de IA em criação sem perder direção estratégica.",
+          "fonte": "Meio & Mensagem",
+          "data": "3 set 2026",
+          "link": "https://www.meioemensagem.com.br/comunicacao/5-campanhas-que-souberam-fazer-um-bom-uso-da-ia"
+        },
+        {
+          "tema": "Receita com Publicidade",
+          "titulo": "Netflix detalha avanços em ads e projeta crescimento em receita",
+          "resumo": "A Netflix detalhou avanços em publicidade no evento 'Behind The Streams', anunciando anúncios interativos no Brasil e integração com plataformas de mídia programática. A meta é dobrar a receita publicitária em 2026, apoiada em 35 milhões de espectadores ativos mensais no país.",
+          "fonte": "Meio & Mensagem",
+          "data": "2 set 2026",
+          "link": "https://www.meioemensagem.com.br/midia/netflix-detalha-avancos-em-ads-e-projeta-crescimento-em-receita"
+        },
+        {
+          "tema": "Upfront",
+          "titulo": "Netflix Wraps Upfront, Volume 'Nearly Doubled'",
+          "resumo": "A Netflix encerrou seu upfront de 2026 informando que quase dobrou os compromissos publicitários do ano, mirando US$ 3 bilhões em receita de anúncios — o dobro do US$ 1,5 bilhão do ano anterior. Séries como 'Bridgerton' e 'Emily in Paris' lideraram a demanda dos anunciantes.",
+          "fonte": "MediaPost",
+          "data": "10 ago 2026",
+          "link": "https://www.mediapost.com/publications/article/417133/netflix-wraps-upfront-volume-nearly-doubled.html?edition=143505"
+        },
+        {
+          "tema": "Publisher",
+          "titulo": "Media Briefing: What to expect at the Digiday Publishing Summit, September 2026 edition",
+          "resumo": "O Digiday Publishing Summit (14 a 16 de setembro, na Flórida) reunirá executivos de NYT, WSJ e Reuters para discutir a reinvenção do modelo de negócio editorial diante da queda de tráfego de busca, avanço da IA e encolhimento da web aberta. Pauta central para quem acompanha monetização de conteúdo.",
+          "fonte": "Digiday",
+          "data": "3 set 2026",
+          "link": "https://digiday.com/media/media-briefing-what-to-expect-at-the-digiday-publishing-summit-september-2026-edition/"
+        },
+        {
+          "tema": "Canais de TV",
+          "titulo": "GeTV completa um ano e quer expandir alcance e negócios",
+          "resumo": "A GeTV, canal esportivo digital da Globo, completou um ano de operação com 40 parceiros comerciais e mais da metade do público em faixas etárias abaixo de 34 anos. Para 2027, a emissora planeja expansão com a Copa do Mundo Feminina e produções customizadas em parceria com marcas.",
+          "fonte": "Meio & Mensagem",
+          "data": "4 set 2026",
+          "link": "https://www.meioemensagem.com.br/midia/getv-completa-um-ano-e-quer-expandir-alcance-e-negocios"
+        },
+        {
+          "tema": "Revoluções na Publicidade",
+          "titulo": "Observatório Abap apresenta tese sobre o futuro da publicidade até 2029",
+          "resumo": "White paper do Observatório Abap projeta mudança estrutural no mercado publicitário até 2029, puxada por IA, retail media, comércio agentic e valorização de dados próprios. O documento aponta necessidade de novas formas de operar, medir resultado e construir marca.",
+          "fonte": "propmark",
+          "data": "12 ago 2026",
+          "link": "https://propmark.com.br/mercado/observatorio-abap-apresenta-tese-sobre-o-futuro-da-publicidade-ate-2029/"
+        },
+        {
+          "tema": "Novas Entregas Publicitárias",
+          "titulo": "Ace Hardware adds weather-triggered programmatic ads to retail media strategy",
+          "resumo": "A rede de retail media da Ace Hardware (RedVest Media) lançou publicidade programática acionada por clima, parcerias com influenciadores e integração com DoorDash. Movimento mostra a sofisticação crescente de retail media networks fora do varejo tradicional de e-commerce.",
+          "fonte": "Digiday",
+          "data": "3 set 2026",
+          "link": "https://digiday.com/marketing/ace-hardware-adds-weather-triggered-programmatic-ads-to-retail-media-strategy/"
+        }
+      ]
     },
     {
       "nome": "Lazer",
       "cor": "var(--pilar-lazer)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Vela Esportiva",
+          "titulo": "De olho no mundial e nas Olimpíadas: veja os resultados da Copa Brasil de Vela de Praia 2026",
+          "resumo": "A 6ª Copa Brasil de Vela de Praia, disputada em Fortaleza, serviu como preparação para o Mundial de Vela da World Sailing de 2027 (nas mesmas águas) e como etapa classificatória para os Jogos Olímpicos de Los Angeles 2028. Sete classes disputaram a competição.",
+          "fonte": "Náutica",
+          "data": "21 ago 2026",
+          "link": "https://nautica.com.br/veja-resultados-copa-brasil-vela-praia-2026/"
+        },
+        {
+          "tema": "Navegação Costeira",
+          "titulo": "Uma travessia com 5 barcos: de Itajaí a Florianópolis em poucas horas",
+          "resumo": "Cinco lanchas Ross fizeram uma travessia de 33 milhas de mar aberto entre Itajaí e Florianópolis após o Boat Show, navegando em comboio e ilustrando boas práticas de navegação segura na costa catarinense. A reportagem traz dicas para quem planeja travessias semelhantes.",
+          "fonte": "Bombarco",
+          "data": "31 ago 2026",
+          "link": "https://www.bombarco.com.br/editorial/noticias/travessia-itajai-florianopolis-5-barcos/"
+        },
+        {
+          "tema": "Cafés",
+          "titulo": "SP: Mercadão sediará campeonatos brasileiros de barismo em setembro",
+          "resumo": "O Mercadão de São Paulo sedia, entre 3 e 5 de setembro, os Campeonatos Brasileiros de Latte Art e Coffee in Good Spirits 2026, organizados pela BSCA. Os vencedores representarão o Brasil no mundial em Lisboa, em junho de 2027.",
+          "fonte": "Revista Cafeicultura",
+          "data": "23 ago 2026",
+          "link": "https://revistacafeicultura.com.br/sp-mercadao-sediara-campeonatos-brasileiros-de-barismo-em-setembro/"
+        },
+        {
+          "tema": "Turismo no Rio de Janeiro",
+          "titulo": "Roteiro de bares e restaurantes para curtir boa comida, drinques e rock",
+          "resumo": "Roteiro reúne seis bares e restaurantes do Rio que combinam música ao vivo, gastronomia e coquetelaria autoral, em bairros como Flamengo, Ipanema e Botafogo — Rio Tap Beer House, Empório 37 e Bar Bukowski entre os destaques.",
+          "fonte": "Informa Rio",
+          "data": "6 set 2026",
+          "link": "https://informa-rio.com/2026/09/06/comer-beber-ouvir-rock/"
+        }
+      ]
     },
     {
       "nome": "Finanças",
       "cor": "var(--pilar-financas)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "SELIC e Juros",
+          "titulo": "Selic mais baixa: Citi revisa projeção para 2026 e aposta em novas quedas de juros no próximo ano",
+          "resumo": "O Citi revisou sua projeção para a Selic, passando a esperar corte de 0,25 p.p. na reunião de setembro do Copom, levando a taxa a 13,75% a.a. A revisão reflete inflação corrente baixa e desaceleração econômica, que abrem espaço para novo afrouxamento monetário.",
+          "fonte": "Money Times",
+          "data": "14 ago 2026",
+          "link": "https://www.moneytimes.com.br/citi-corta-estimativa-para-selic-em-2026-e-ve-mais-cortes-no-proximo-ano-veja-as-projecoes-jcav/"
+        },
+        {
+          "tema": "FIIs Kinea",
+          "titulo": "Com yield de 1,16%, KNCR11 anuncia dividendos aos cotistas",
+          "resumo": "O KNCR11 anunciou pagamento de R$ 1,15 por cota em setembro (crédito em 14/09), equivalente a um yield mensal de cerca de 1,06% sobre a cotação de R$ 108,09. O fundo mantém a política de distribuições mensais atrelada ao desempenho da carteira de CRI.",
+          "fonte": "Suno",
+          "data": "1 set 2026",
+          "link": "https://www.suno.com.br/noticias/dividendos-do-kncr11-setembro-2026/"
+        },
+        {
+          "tema": "FIIs Sparta",
+          "titulo": "Relatório Mensal CDII11 — Agosto/2026",
+          "resumo": "O relatório mensal do CDII11 (agosto/2026) mostra distribuição de R$ 1,00 por cota, dividend yield de 12 meses em 16,0% e patrimônio líquido de R$ 2,8 bilhões, com 77.478 cotistas. A gestora contratou a XP Investimentos como segundo formador de mercado a partir de setembro para ampliar a liquidez das cotas.",
+          "fonte": "Sparta",
+          "data": "31 ago 2026",
+          "link": "https://sparta.com.br/uploads/CDII11_RelatorioMensal_2026_08.pdf"
+        },
+        {
+          "tema": "Ações Inter & Nubank",
+          "titulo": "Nubank (ROXO34): Lucro dispara 49% e chega a US$ 1 bi pela primeira vez na história; ação salta 10%",
+          "resumo": "O Nubank reportou lucro líquido recorde de US$ 1 bilhão no 2T26, alta de 49% na comparação anual, com ROE de 33% — acima dos principais bancos brasileiros. A ação (ROXO34) saltou 10% no after-market após o resultado.",
+          "fonte": "Money Times",
+          "data": "13 ago 2026",
+          "link": "https://www.moneytimes.com.br/nubank-roxo34-lucro-dispara-49-e-chega-a-us-1-bi-pela-primeira-vez-da-historia/"
+        }
+      ]
     }
   ]
 }
