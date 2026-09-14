@@ -4,22 +4,226 @@
     {
       "nome": "Profissional",
       "cor": "var(--pilar-profissional)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Inteligência Artificial",
+          "titulo": "Gigante da publicidade, WPP assume seu lado tech focado em um mercado de R$ 110 milhões no Brasil",
+          "resumo": "A WPP, segundo maior grupo de publicidade do mundo, aprofundou sua transição para provedora de soluções tecnológicas, com mais de 60% da receita já vindo de serviços corporativos em vez de criação publicitária tradicional. A empresa investiu mais de R$ 110 milhões em iniciativas de IA generativa no Brasil em 2026 e segue adquirindo empresas de software e e-commerce para se posicionar como parceira tecnológica ponta a ponta.",
+          "fonte": "Exame INSIGHT",
+          "data": "12 set 2026",
+          "link": "https://exame.com/insight/gigante-da-publicidade-wpp-assume-seu-lado-tech-focado-em-um-mercado-de-r-110-milhoes-no-brasil/"
+        },
+        {
+          "tema": "AI para Gestão de Pessoas",
+          "titulo": "92% das empresas já escolhem uma elite de IA, e a maioria fica de fora dela",
+          "resumo": "Pesquisa da Writer com a Workplace Intelligence mostra que 92% dos executivos estão formando deliberadamente grupos de elite com domínio de IA dentro de suas equipes, e 60% planejam desligar quem não acompanhar o ritmo. O estudo argumenta que dominar IA se tornou o fator decisivo para chegar a posições de liderança estratégica.",
+          "fonte": "Exame",
+          "data": "8 set 2026",
+          "link": "https://exame.com/carreira/92-das-empresas-ja-escolhem-uma-elite-de-ia-e-a-maioria-fica-de-fora-dela/"
+        },
+        {
+          "tema": "Gestão de Pessoas",
+          "titulo": "Quase 60% dos desafios de liderança estão relacionados ao engajamento",
+          "resumo": "Pesquisa da consultoria teya com 836 líderes revela que 56,9% dos desafios de liderança envolvem engajamento e desenvolvimento de pessoas. A metodologia da empresa busca conectar aprendizagem a resultados práticos, e 73,4% dos participantes relataram se sentir mais preparados após as jornadas de desenvolvimento.",
+          "fonte": "Exame",
+          "data": "9 set 2026",
+          "link": "https://exame.com/bussola/quase-60-dos-desafios-das-liderancas-estao-relacionados-ao-engajamento/"
+        },
+        {
+          "tema": "CEO",
+          "titulo": "Quando não existe resposta certa, é assim que CEOs estão tomando decisões difíceis",
+          "resumo": "O artigo examina como CEOs vêm estruturando a tomada de decisão diante de cenários sem resposta clara, recorrendo a planejamento de cenários e debate interno mais robusto. Pesquisa citada mostra que 57% dos executivos afirmam perder oportunidades por não conseguirem decidir com velocidade suficiente diante de informação incompleta.",
+          "fonte": "Exame",
+          "data": "11 set 2026",
+          "link": "https://exame.com/carreira/quando-nao-existe-resposta-certa-e-assim-que-ceos-estao-tomando-decisoes-dificeis/"
+        },
+        {
+          "tema": "Automação de Processos",
+          "titulo": "Como empresas brasileiras levaram a IA do teste à operação",
+          "resumo": "Levantamento mostra que 70% das empresas brasileiras reorganizaram equipes em resposta à IA nos últimos 12 meses, mas apenas 40% percebem impacto na satisfação dos clientes. A integração de dados e processos aparece como o principal obstáculo para transformar adoção tecnológica em resultado mensurável.",
+          "fonte": "Exame",
+          "data": "10 set 2026",
+          "link": "https://exame.com/bussola/como-empresas-brasileiras-levaram-a-ia-do-teste-a-operacao/"
+        },
+        {
+          "tema": "Redesenho de Processos",
+          "titulo": "How AI Agents Orchestrate Work Across Silos",
+          "resumo": "O artigo mostra como sistemas de orquestração de IA passam a conectar diferentes áreas e departamentos, redesenhando o fluxo de decisão dentro das empresas. A IA analisa dados, roteia informação e evidencia trade-offs, enquanto humanos contribuem com contexto, definem limites e tomam a decisão final.",
+          "fonte": "Harvard Business Review",
+          "data": "1 set 2026",
+          "link": "https://hbr.org/2026/09/how-ai-agents-orchestrate-work-across-silos"
+        },
+        {
+          "tema": "Gestão Operacional",
+          "titulo": "\"Fazer mais pode travar seu negócio\": o erro que custa caro na hora de crescer no digital",
+          "resumo": "Com base na Teoria das Restrições, o artigo argumenta que empresas costumam crescer tentando fazer mais coisas ao mesmo tempo, em vez de identificar o verdadeiro gargalo operacional que trava o negócio. A recomendação é concentrar recursos nesse ponto de restrição antes de expandir marketing, contratações ou adoção de novas tecnologias.",
+          "fonte": "Exame",
+          "data": "13 set 2026",
+          "link": "https://exame.com/negocios/fazer-mais-pode-travar-seu-negocio-o-erro-que-custa-caro-na-hora-de-crescer-no-digital/"
+        }
+      ]
     },
     {
       "nome": "Trabalho",
       "cor": "var(--pilar-trabalho)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Publicidade",
+          "titulo": "Adtech & Branding 2026 reúne líderes de Uber, Google, Globo e Nubank",
+          "resumo": "O IAB Brasil promove nos dias 15 e 16 de setembro o evento Adtech & Branding 2026, com 14 horas de conteúdo e mais de 100 painelistas discutindo IA, retail media e mensuração de resultados. A edição deste ano integra a IAB Global Creator Week, com espaço dedicado à economia de criadores, e espera reunir cerca de 2 mil profissionais do mercado.",
+          "fonte": "Propmark",
+          "data": "11 set 2026",
+          "link": "https://propmark.com.br/mercado/adtech-branding-2026-reune-lideres-de-uber-google-globo-e-nubank/"
+        },
+        {
+          "tema": "Novas Publicidades",
+          "titulo": "Netflix Ads amplia fronteiras da publicidade além da tela",
+          "resumo": "No evento Behind the Streams 2026, a Netflix revelou que seu plano com anúncios já ultrapassa 35 milhões de espectadores mensais no Brasil e apresentou métricas de atenção (84% dos anúncios geram algum nível de atenção do público), além de ferramentas criativas com IA. A empresa também anunciou expansão da compra programática e planos de levar anúncios para Clips e Tudum a partir de 2027.",
+          "fonte": "Propmark",
+          "data": "2 set 2026",
+          "link": "https://propmark.com.br/digital/netflix-ads-amplia-fronteiras-da-publicidade-alem-da-tela/"
+        },
+        {
+          "tema": "Receita com Publicidade",
+          "titulo": "Ad spend forecasts revised upward as more ad dollars are handled by AI tools",
+          "resumo": "O IAB revisou para cima a projeção de crescimento do investimento publicitário nos EUA, para 12,3% em 2026, puxado por grandes eventos ao vivo e ferramentas de compra baseadas em IA. Formatos como Advantage+ (Meta) e Performance Max (Google) devem responder por 27% do spend americano até 2030, enquanto a receita publicitária global deve superar US$ 1,3 trilhão neste ano.",
+          "fonte": "Digiday",
+          "data": "10 set 2026",
+          "link": "https://digiday.com/media-buying/ad-spend-forecasts-revised-upward-as-more-ad-dollars-are-handled-by-ai-tools/"
+        },
+        {
+          "tema": "Upfront",
+          "titulo": "Após polêmica com concorrentes, Globo prepara evento para apresentar novidades de 2027",
+          "resumo": "A Globo marcou para 14 de outubro o Upfront 2027, seu principal evento para o mercado publicitário, a ser realizado no Auditório do Ibirapuera em São Paulo, com apresentações de artistas e jornalistas da emissora. A nova edição ocorre após a versão anterior ter gerado polêmica, quando apresentadores fizeram comparações debochadas com concorrentes como HBO Max, Band e MasterChef.",
+          "fonte": "O Antagonista",
+          "data": "3 set 2026",
+          "link": "https://oantagonista.com.br/ladooa/entretenimento/apos-polemica-com-concorrentes-globo-prepara-evento-para-apresentar-novidades-de-2027/"
+        },
+        {
+          "tema": "Publisher",
+          "titulo": "Media Briefing: What to expect at the Digiday Publishing Summit, September 2026 edition",
+          "resumo": "A matéria antecipa o Digiday Publishing Summit (14 a 16 de setembro, na Flórida), reunindo executivos de veículos como New York Times, Wall Street Journal e Reuters para discutir a adaptação do setor a um cenário dominado por IA. Os temas centrais incluem diversificação de receita, redistribuição de audiência para além da busca do Google, e os desafios de conteúdo gerado por IA num contexto de web aberta encolhendo.",
+          "fonte": "Digiday",
+          "data": "3 set 2026",
+          "link": "https://digiday.com/media/media-briefing-what-to-expect-at-the-digiday-publishing-summit-september-2026-edition/"
+        },
+        {
+          "tema": "Canais de TV",
+          "titulo": "GeTV completa um ano e quer expandir alcance e negócios",
+          "resumo": "A GeTV, canal esportivo digital da Globo, completou um ano de operação com 40 parceiros comerciais e mais da metade do público em faixas etárias abaixo de 34 anos. Para 2027, a emissora planeja expansão com a Copa do Mundo Feminina e produções customizadas em parceria com marcas.",
+          "fonte": "Meio & Mensagem",
+          "data": "4 set 2026",
+          "link": "https://www.meioemensagem.com.br/midia/getv-completa-um-ano-e-quer-expandir-alcance-e-negocios"
+        },
+        {
+          "tema": "Revoluções na Publicidade",
+          "titulo": "Whatever Happened To Good Old-Fashioned Retail?; AI-Bolstered Ad Revenue (Daily News Roundup)",
+          "resumo": "O boletim diário da AdExchanger traz a previsão de que a receita publicitária global chegará a US$ 1,3 trilhão até o fim de 2026, crescimento puxado pela IA — plataformas de compra automatizada como Performance Max e Advantage+ devem saltar de US$ 60 bi para US$ 158 bi até 2030. A edição também mostra o McDonald's revertendo investimento em quiosques de autoatendimento após clientes migrarem para concorrentes mais humanizados, evidenciando reação ao excesso de automação.",
+          "fonte": "AdExchanger",
+          "data": "14 set 2026",
+          "link": "https://www.adexchanger.com/daily-news-roundup/monday-14092026/"
+        },
+        {
+          "tema": "Novas Entregas Publicitárias",
+          "titulo": "How Programmatic Home Screen Ads Are Becoming More Standardized (And More Accessible)",
+          "resumo": "A Nexxen lançou ferramentas de padronização que permitem aos anunciantes ativar anúncios na home screen de smart TVs programaticamente e simultaneamente em múltiplos fabricantes, reduzindo o tempo de onboarding em até 50%. A especificação universal, com redimensionamento assistido por IA, expande esse formato de publicidade além de marcas de entretenimento para varejistas focados em performance.",
+          "fonte": "AdExchanger",
+          "data": "20 ago 2026",
+          "link": "https://www.adexchanger.com/ctv-roundup/how-programmatic-home-screen-ads-are-becoming-more-standardized-and-more-accessible/"
+        }
+      ]
     },
     {
       "nome": "Lazer",
       "cor": "var(--pilar-lazer)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Vela Esportiva",
+          "titulo": "Atletas do Iate Clube do Espírito Santo brilham na 39ª Semana Internacional de Vela do Rio de Janeiro",
+          "resumo": "Três atletas capixabas se destacaram na 39ª Semana Internacional de Vela do Rio de Janeiro, disputada de 4 a 7 de setembro na Baía de Guanabara. Lívia Tavares venceu a categoria feminino da classe ILCA 6 (10º lugar geral) e Torben Diniz ficou em 3º lugar na classe ILCA 4.",
+          "fonte": "A Gazeta (ES)",
+          "data": "10 set 2026",
+          "link": "https://www.agazeta.com.br/mais-esportes/atletas-do-iate-clube-do-espirito-santo-brilham-na-39-semana-internacional-de-vela-do-rio-de-janeiro-0926"
+        },
+        {
+          "tema": "Navegação Costeira",
+          "titulo": "Uma travessia com 5 barcos: de Itajaí a Florianópolis em poucas horas",
+          "resumo": "Cinco lanchas Ross fizeram uma travessia de 33 milhas de mar aberto entre Itajaí e Florianópolis após o Boat Show, navegando em comboio e ilustrando boas práticas de navegação segura na costa catarinense. A reportagem traz dicas para quem planeja travessias semelhantes.",
+          "fonte": "Bombarco",
+          "data": "31 ago 2026",
+          "link": "https://www.bombarco.com.br/editorial/noticias/travessia-itajai-florianopolis-5-barcos/"
+        },
+        {
+          "tema": "Curso de Vela Oceânica",
+          "titulo": "Brasileiro de Oceano muda pontuação para levar disputa até a última regata",
+          "resumo": "O Campeonato Brasileiro de Oceano 2026 adotou um novo sistema de pontuação com pesos crescentes por prova para manter a disputa em aberto até a etapa final. A 76ª Regata Santos–Rio e o 57º Circuito Rio são as principais provas da temporada de vela oceânica no país.",
+          "fonte": "CartaCapital",
+          "data": "11 set 2026",
+          "link": "https://www.cartacapital.com.br/esporte/brasileiro-de-oceano-muda-pontuacao-para-levar-disputa-ate-a-ultima-regata/"
+        },
+        {
+          "tema": "Vinhos",
+          "titulo": "Marcelo Copello lança novo livro com sessão de autógrafos na ABS Rio",
+          "resumo": "O especialista em vinhos Marcelo Copello, com 35 anos de carreira, lançou o livro \"Em Nome do Vinho: 500 frases autorais para brindar à vida\" em evento na ABS Rio. A obra reúne reflexões do autor inspiradas em degustações, palestras e encontros ao longo de sua trajetória.",
+          "fonte": "Informa Rio",
+          "data": "3 set 2026",
+          "link": "https://informa-rio.com/2026/09/03/marcelo-copello-faz-noite-de-autografos-de-seu-novo-livro-na-abs-rio"
+        },
+        {
+          "tema": "Cafés",
+          "titulo": "Café lidera preferência do público no Rock in Rio",
+          "resumo": "No primeiro dia do Rock in Rio 2026, o café surpreendeu e liderou a preferência do público entre as bebidas do festival, superando até cerveja e água em procura. A promoção de copo reutilizável por R$16 com refil ilimitado de café gerou filas longas, mostrando a força do consumo de café especial mesmo em um evento de música.",
+          "fonte": "Informa Rio",
+          "data": "5 set 2026",
+          "link": "https://informa-rio.com/2026/09/04/bebida-mais-sucesso-rock-in-rio-cafe"
+        },
+        {
+          "tema": "Turismo no Rio de Janeiro",
+          "titulo": "ArtRio 2026 divulga opções gastronômicas para visitantes",
+          "resumo": "A ArtRio 2026, que ocorre de 16 a 20 de setembro na Marina da Glória, anunciou sua oferta gastronômica para os visitantes, com restaurantes e bares servindo pratos das cozinhas japonesa, coreana, portuguesa e italiana. O evento reúne cerca de 80 galerias e instituições de arte, combinando cultura visual e gastronomia.",
+          "fonte": "Brasil em Folhas",
+          "data": "8 set 2026",
+          "link": "https://www.brasilemfolhas.com.br/2026/09/artrio-2026-divulga-opcoes-gastronomicas-para-visitantes/"
+        }
+      ]
     },
     {
       "nome": "Finanças",
       "cor": "var(--pilar-financas)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "SELIC e Juros",
+          "titulo": "Opções indicam 95% de chance de corte de 0,25 ponto na Selic no próximo Copom",
+          "resumo": "Com a reunião do Copom marcada para os dias 15 e 16 de setembro, o mercado de opções precifica 95% de probabilidade de um novo corte de 0,25 p.p., levando a Selic de 14% para 13,75% ao ano. A leitura é sustentada por sinais de desaceleração gradual da atividade econômica, reforçando a continuidade do ciclo de afrouxamento monetário iniciado pelo BC.",
+          "fonte": "InfoMoney",
+          "data": "10 set 2026",
+          "link": "https://www.infomoney.com.br/mercados/opcoes-indicam-95-de-chance-de-corte-de-025-ponto-na-selic-no-proximo-copom/"
+        },
+        {
+          "tema": "FIIs Kinea",
+          "titulo": "KNCR11, BTLG11 e as principais recomendações de FIIs para setembro, segundo 13 analistas",
+          "resumo": "Levantamento com 13 casas de análise aponta o KNCR11 como o FII mais recomendado para setembro, com nove menções, favorecido pela exposição a CRIs indexados ao CDI em um cenário de juros ainda elevados. O KNHF11, também da gestora Kinea, aparece na quarta posição do ranking geral, com seis recomendações.",
+          "fonte": "Money Times",
+          "data": "5 set 2026",
+          "link": "https://www.moneytimes.com.br/kncr11-btlg11-e-as-principais-recomendacoes-de-fiis-para-setembro-segundo-13-analistas-jcav/"
+        },
+        {
+          "tema": "FIIs Sparta",
+          "titulo": "O fundo perfeito? Conheça o CDII11, que tem renda isenta atrelada ao CDI",
+          "resumo": "A matéria destaca o CDII11 (Sparta Infra CDI) por combinar distribuição recorrente de rendimentos, isenção de Imposto de Renda para pessoa física e carteira de crédito atrelada ao CDI. O fundo negocia atualmente com deságio superior a 5% em relação ao valor patrimonial, apontado como janela de oportunidade para renda isenta ligada à taxa básica de juros.",
+          "fonte": "Money Times",
+          "data": "3 set 2026",
+          "link": "https://www.moneytimes.com.br/o-fundo-perfeito-conheca-o-cdii11-que-tem-renda-isenta-atrelada-ao-cdi-mlem/"
+        },
+        {
+          "tema": "Ações Inter & Nubank",
+          "titulo": "BDRs de Nubank, XP, Inter e JBS podem ganhar espaço no Ibovespa; entenda por que isso importa",
+          "resumo": "A B3 vai passar a permitir a entrada de BDRs de empresas brasileiras listadas no exterior no Ibovespa a partir de 2027, medida que deve beneficiar diretamente Nubank e Inter&Co, hoje fora do índice apesar do alto volume negociado. A mudança regulatória limita a participação de BDRs a 10% da composição do índice.",
+          "fonte": "Seu Dinheiro",
+          "data": "10 set 2026",
+          "link": "https://www.seudinheiro.com/2026/bolsa-dolar/bdrs-de-nubank-xp-inter-e-jbs-podem-ganhar-espaco-no-ibovespa-entenda-por-que-isso-importa/"
+        }
+      ]
     }
   ]
 }
