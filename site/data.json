@@ -1,5 +1,5 @@
 {
-  "atualizado_em": "14 de setembro de 2026",
+  "atualizado_em": "21 de setembro de 2026",
   "pilares": [
     {
       "nome": "Profissional",
@@ -7,59 +7,59 @@
       "materias": [
         {
           "tema": "Inteligência Artificial",
-          "titulo": "Gigante da publicidade, WPP assume seu lado tech focado em um mercado de R$ 110 milhões no Brasil",
-          "resumo": "A WPP, segundo maior grupo de publicidade do mundo, aprofundou sua transição para provedora de soluções tecnológicas, com mais de 60% da receita já vindo de serviços corporativos em vez de criação publicitária tradicional. A empresa investiu mais de R$ 110 milhões em iniciativas de IA generativa no Brasil em 2026 e segue adquirindo empresas de software e e-commerce para se posicionar como parceira tecnológica ponta a ponta.",
-          "fonte": "Exame INSIGHT",
-          "data": "12 set 2026",
-          "link": "https://exame.com/insight/gigante-da-publicidade-wpp-assume-seu-lado-tech-focado-em-um-mercado-de-r-110-milhoes-no-brasil/"
+          "titulo": "1 em cada 3 profissionais usa IA escondido no trabalho; como isso afeta a gestão?",
+          "resumo": "Pesquisa da Deloitte com 25 mil profissionais no Reino Unido mostra que 31% dos usuários de IA generativa no trabalho utilizam as ferramentas sem conhecimento formal do empregador — o chamado \"shadow AI\". Embora 63% dos entrevistados já usem IA generativa no trabalho, quase metade não recebeu treinamento formal sobre uso seguro, o que exige diretrizes claras e letramento tecnológico da liderança para mitigar riscos a dados sensíveis.",
+          "fonte": "Exame",
+          "data": "17 set 2026",
+          "link": "https://exame.com/inteligencia-artificial/1-em-cada-3-profissionais-usa-ia-escondido-no-trabalho-como-isso-afeta-a-gestao/"
         },
         {
           "tema": "AI para Gestão de Pessoas",
-          "titulo": "92% das empresas já escolhem uma elite de IA, e a maioria fica de fora dela",
-          "resumo": "Pesquisa da Writer com a Workplace Intelligence mostra que 92% dos executivos estão formando deliberadamente grupos de elite com domínio de IA dentro de suas equipes, e 60% planejam desligar quem não acompanhar o ritmo. O estudo argumenta que dominar IA se tornou o fator decisivo para chegar a posições de liderança estratégica.",
+          "titulo": "IA já devolve 5,4 horas por semana ao RH: potencial chega a 31% da jornada; revela estudo",
+          "resumo": "Estudo da LG lugar de gente com a FIA Business School, com 1.130 profissionais de RH, mostra que a IA já devolve 5,4 horas semanais a cada profissional — 12% de uma jornada de 44 horas — com potencial de chegar a 31% do tempo de trabalho conforme as soluções avançam. A adoção ainda concentra-se em tarefas operacionais, como triagem de currículos (39%) e atendimento via chatbot (38%), enquanto aplicações mais analíticas, como previsão de turnover, seguem subutilizadas (20%).",
           "fonte": "Exame",
-          "data": "8 set 2026",
-          "link": "https://exame.com/carreira/92-das-empresas-ja-escolhem-uma-elite-de-ia-e-a-maioria-fica-de-fora-dela/"
+          "data": "15 set 2026",
+          "link": "https://exame.com/carreira/ia-ja-devolve-54-horas-por-semana-ao-rh-potencial-chega-a-31-da-jornada-revela-estudo/"
         },
         {
           "tema": "Gestão de Pessoas",
-          "titulo": "Quase 60% dos desafios de liderança estão relacionados ao engajamento",
-          "resumo": "Pesquisa da consultoria teya com 836 líderes revela que 56,9% dos desafios de liderança envolvem engajamento e desenvolvimento de pessoas. A metodologia da empresa busca conectar aprendizagem a resultados práticos, e 73,4% dos participantes relataram se sentir mais preparados após as jornadas de desenvolvimento.",
-          "fonte": "Exame",
-          "data": "9 set 2026",
-          "link": "https://exame.com/bussola/quase-60-dos-desafios-das-liderancas-estao-relacionados-ao-engajamento/"
+          "titulo": "When There's More Work Than Your Team Can Handle",
+          "resumo": "O artigo da HBR mostra como líderes sobrecarregados, ao tentar absorver pessoalmente toda a demanda que excede a capacidade do time, caminham para o esgotamento sem resolver o problema estrutural. A recomendação central é repensar como o trabalho é distribuído e quem tem autoridade para decidir prioridades, delegando critérios claros e dando à equipe autonomia real em vez de centralizar decisões.",
+          "fonte": "Harvard Business Review",
+          "data": "16 set 2026",
+          "link": "https://hbr.org/2026/09/when-theres-more-work-than-your-team-can-handle"
         },
         {
           "tema": "CEO",
-          "titulo": "Quando não existe resposta certa, é assim que CEOs estão tomando decisões difíceis",
-          "resumo": "O artigo examina como CEOs vêm estruturando a tomada de decisão diante de cenários sem resposta clara, recorrendo a planejamento de cenários e debate interno mais robusto. Pesquisa citada mostra que 57% dos executivos afirmam perder oportunidades por não conseguirem decidir com velocidade suficiente diante de informação incompleta.",
+          "titulo": "IA chega ao C-level e muda as habilidades exigidas de CEOs e altos executivos",
+          "resumo": "Levantamento do Fórum Econômico Mundial aponta que 39% das principais habilidades exigidas no mercado de trabalho vão mudar até 2030, com letramento em IA, pensamento analítico e adaptabilidade entre as mais críticas para o C-level. O artigo elenca cinco competências centrais para CEOs e executivos seniores: literacia em IA, conexão da tecnologia com a estratégia de negócio, governança e gestão de risco, liderança de pessoas durante a adoção tecnológica e decisão orientada por dados.",
           "fonte": "Exame",
-          "data": "11 set 2026",
-          "link": "https://exame.com/carreira/quando-nao-existe-resposta-certa-e-assim-que-ceos-estao-tomando-decisoes-dificeis/"
+          "data": "15 set 2026",
+          "link": "https://exame.com/carreira/ia-chega-ao-c-level-e-muda-as-habilidades-exigidas-de-ceos-e-altos-executivos/"
         },
         {
           "tema": "Automação de Processos",
-          "titulo": "Como empresas brasileiras levaram a IA do teste à operação",
-          "resumo": "Levantamento mostra que 70% das empresas brasileiras reorganizaram equipes em resposta à IA nos últimos 12 meses, mas apenas 40% percebem impacto na satisfação dos clientes. A integração de dados e processos aparece como o principal obstáculo para transformar adoção tecnológica em resultado mensurável.",
+          "titulo": "Empresa no vermelho? Veja como a inteligência artificial pode cortar custos sem reduzir equipes",
+          "resumo": "O artigo mostra como empresas em dificuldade financeira podem usar IA para ganhar eficiência em vez de partir direto para cortes de pessoal, automatizando tarefas administrativas repetitivas e acelerando análise de dados. A recomendação é identificar problemas específicos e mensuráveis antes de implementar qualquer solução, redesenhando processos com governança adequada em vez de simplesmente inserir ferramentas sem mudança de fluxo.",
           "fonte": "Exame",
-          "data": "10 set 2026",
-          "link": "https://exame.com/bussola/como-empresas-brasileiras-levaram-a-ia-do-teste-a-operacao/"
+          "data": "8 set 2026",
+          "link": "https://exame.com/inteligencia-artificial/empresa-no-vermelho-veja-como-a-inteligencia-artificial-pode-cortar-custos-sem-reduzir-equipes/"
         },
         {
           "tema": "Redesenho de Processos",
-          "titulo": "How AI Agents Orchestrate Work Across Silos",
-          "resumo": "O artigo mostra como sistemas de orquestração de IA passam a conectar diferentes áreas e departamentos, redesenhando o fluxo de decisão dentro das empresas. A IA analisa dados, roteia informação e evidencia trade-offs, enquanto humanos contribuem com contexto, definem limites e tomam a decisão final.",
+          "titulo": "Stop Automating Old Processes. Design New Ones Instead.",
+          "resumo": "O artigo argumenta que empresas investem bilhões em IA sem captar retorno porque automatizam tarefas isoladas em vez de redesenhar o fluxo de trabalho completo, incorrendo em falhas como acelerar etapas sem valor e otimizar a métrica errada. Os autores propõem três decisões centrais para gestores: definir o que redesenhar com base no que o cliente valoriza, decidir onde manter autoridade humana (assistir, aprovar, auditar ou automatizar) e desenhar o sistema para lidar com exceções e incerteza.",
           "fonte": "Harvard Business Review",
-          "data": "1 set 2026",
-          "link": "https://hbr.org/2026/09/how-ai-agents-orchestrate-work-across-silos"
+          "data": "14 set 2026",
+          "link": "https://hbr.org/2026/09/stop-automating-old-processes-design-new-ones-instead"
         },
         {
           "tema": "Gestão Operacional",
-          "titulo": "\"Fazer mais pode travar seu negócio\": o erro que custa caro na hora de crescer no digital",
-          "resumo": "Com base na Teoria das Restrições, o artigo argumenta que empresas costumam crescer tentando fazer mais coisas ao mesmo tempo, em vez de identificar o verdadeiro gargalo operacional que trava o negócio. A recomendação é concentrar recursos nesse ponto de restrição antes de expandir marketing, contratações ou adoção de novas tecnologias.",
+          "titulo": "Sua empresa fatura bem, mas perde eficiência? Entenda o que está por trás",
+          "resumo": "O artigo alerta que empresas em crescimento costumam comemorar o aumento de receita sem perceber a deterioração da eficiência operacional, um ponto cego perigoso quando o time dobra de tamanho sem dobrar a eficiência da operação. O risco real aparece no fluxo de caixa e na margem, à medida que custos crescem mais rápido que as vendas — e a causa mais comum de colapso em fases de crescimento acelerado é a operação, não a falta de vendas.",
           "fonte": "Exame",
-          "data": "13 set 2026",
-          "link": "https://exame.com/negocios/fazer-mais-pode-travar-seu-negocio-o-erro-que-custa-caro-na-hora-de-crescer-no-digital/"
+          "data": "7 set 2026",
+          "link": "https://exame.com/bussola/sua-empresa-fatura-bem-mas-perde-eficiencia-entenda-o-risco-oculto/"
         }
       ]
     },
@@ -69,11 +69,11 @@
       "materias": [
         {
           "tema": "Publicidade",
-          "titulo": "Adtech & Branding 2026 reúne líderes de Uber, Google, Globo e Nubank",
-          "resumo": "O IAB Brasil promove nos dias 15 e 16 de setembro o evento Adtech & Branding 2026, com 14 horas de conteúdo e mais de 100 painelistas discutindo IA, retail media e mensuração de resultados. A edição deste ano integra a IAB Global Creator Week, com espaço dedicado à economia de criadores, e espera reunir cerca de 2 mil profissionais do mercado.",
+          "titulo": "A publicidade virou uma indústria de versões",
+          "resumo": "O artigo discute a transição da publicidade de um modelo hierárquico centrado em uma peça principal para um sistema de múltiplas versões adaptadas a cada plataforma, cada uma com seus próprios códigos de comunicação. A criação moderna passa a exigir ideias flexíveis que mantenham identidade em formatos distintos, integrando criação, produção e mídia de forma inédita — tendência amplificada pelas ferramentas de IA generativa.",
           "fonte": "Propmark",
-          "data": "11 set 2026",
-          "link": "https://propmark.com.br/mercado/adtech-branding-2026-reune-lideres-de-uber-google-globo-e-nubank/"
+          "data": "18 set 2026",
+          "link": "https://propmark.com.br/artigos/a-publicidade-virou-uma-industria-de-versoes/"
         },
         {
           "tema": "Novas Publicidades",
@@ -101,11 +101,11 @@
         },
         {
           "tema": "Publisher",
-          "titulo": "Media Briefing: What to expect at the Digiday Publishing Summit, September 2026 edition",
-          "resumo": "A matéria antecipa o Digiday Publishing Summit (14 a 16 de setembro, na Flórida), reunindo executivos de veículos como New York Times, Wall Street Journal e Reuters para discutir a adaptação do setor a um cenário dominado por IA. Os temas centrais incluem diversificação de receita, redistribuição de audiência para além da busca do Google, e os desafios de conteúdo gerado por IA num contexto de web aberta encolhendo.",
+          "titulo": "Media Briefing: Overheard at the Digiday Publishing Summit, Sept. '26 'Google Zero' edition",
+          "resumo": "Editores reunidos no Digiday Publishing Summit reconhecem que o tráfego de busca do Google não deve voltar aos patamares anteriores, com declínio estrutural em curso. Contratos de licenciamento de conteúdo para IA seguem opacos e desiguais entre empresas, e estratégias emergentes — otimização para IA, assinaturas, patrocínios e publicidade premium — ainda não se mostraram suficientes para compensar a perda de receita da web aberta.",
           "fonte": "Digiday",
-          "data": "3 set 2026",
-          "link": "https://digiday.com/media/media-briefing-what-to-expect-at-the-digiday-publishing-summit-september-2026-edition/"
+          "data": "17 set 2026",
+          "link": "https://digiday.com/media/media-briefing-overheard-at-the-digiday-publishing-summit-sept-26-google-zero-edition/"
         },
         {
           "tema": "Canais de TV",
@@ -117,11 +117,11 @@
         },
         {
           "tema": "Revoluções na Publicidade",
-          "titulo": "Whatever Happened To Good Old-Fashioned Retail?; AI-Bolstered Ad Revenue (Daily News Roundup)",
-          "resumo": "O boletim diário da AdExchanger traz a previsão de que a receita publicitária global chegará a US$ 1,3 trilhão até o fim de 2026, crescimento puxado pela IA — plataformas de compra automatizada como Performance Max e Advantage+ devem saltar de US$ 60 bi para US$ 158 bi até 2030. A edição também mostra o McDonald's revertendo investimento em quiosques de autoatendimento após clientes migrarem para concorrentes mais humanizados, evidenciando reação ao excesso de automação.",
+          "titulo": "Ad Tech Bears Beat The Bulls; Back When Traffic Was A Good Thing",
+          "resumo": "O boletim diário da AdExchanger mostra um mercado de ad tech pressionado: Innovid e Integral Ad Science saíram da bolsa via aquisição, e o valor de mercado da Criteo caiu abaixo de US$ 1 bilhão em meio a interesse de private equity. O tráfego do Business Insider despencou de 95 milhões de visitantes únicos mensais em 2021 para 21 milhões em 2026, levando o CEO Christian Baesler a buscar crescimento em redes sociais e vídeo — sinal da pressão estrutural sobre publishers dependentes de tráfego direto.",
           "fonte": "AdExchanger",
-          "data": "14 set 2026",
-          "link": "https://www.adexchanger.com/daily-news-roundup/monday-14092026/"
+          "data": "18 set 2026",
+          "link": "https://www.adexchanger.com/daily-news-roundup/friday-18092026/"
         },
         {
           "tema": "Novas Entregas Publicitárias",
@@ -163,11 +163,11 @@
         },
         {
           "tema": "Vinhos",
-          "titulo": "Marcelo Copello lança novo livro com sessão de autógrafos na ABS Rio",
-          "resumo": "O especialista em vinhos Marcelo Copello, com 35 anos de carreira, lançou o livro \"Em Nome do Vinho: 500 frases autorais para brindar à vida\" em evento na ABS Rio. A obra reúne reflexões do autor inspiradas em degustações, palestras e encontros ao longo de sua trajetória.",
+          "titulo": "Festival de Vinhos no Rio atrai especialistas e produtores globais",
+          "resumo": "O Rio de Janeiro vai sediar a primeira edição do Guanabara Wine Festival, organizado pelos Supermercados Guanabara, reunindo cerca de 30 produtores e enólogos internacionais da França, Portugal, Itália, Chile e Argentina. O evento acontece em três dias, entre o Vogue Square, na Barra da Tijuca (30/9 e 1/10), e a Associação Atlética Banco do Brasil, no Leblon (3/10), com curadoria do sommelier bicampeão brasileiro Dionísio Chaves.",
           "fonte": "Informa Rio",
-          "data": "3 set 2026",
-          "link": "https://informa-rio.com/2026/09/03/marcelo-copello-faz-noite-de-autografos-de-seu-novo-livro-na-abs-rio"
+          "data": "17 set 2026",
+          "link": "https://informa-rio.com/2026/09/17/guanabara-wine-festival-reune-produtores-e-enologos-internacionais-no-rio"
         },
         {
           "tema": "Cafés",
@@ -179,11 +179,11 @@
         },
         {
           "tema": "Turismo no Rio de Janeiro",
-          "titulo": "ArtRio 2026 divulga opções gastronômicas para visitantes",
-          "resumo": "A ArtRio 2026, que ocorre de 16 a 20 de setembro na Marina da Glória, anunciou sua oferta gastronômica para os visitantes, com restaurantes e bares servindo pratos das cozinhas japonesa, coreana, portuguesa e italiana. O evento reúne cerca de 80 galerias e instituições de arte, combinando cultura visual e gastronomia.",
-          "fonte": "Brasil em Folhas",
-          "data": "8 set 2026",
-          "link": "https://www.brasilemfolhas.com.br/2026/09/artrio-2026-divulga-opcoes-gastronomicas-para-visitantes/"
+          "titulo": "Gastronomia Inovadora Impulsiona Turismo na Serra do Rio",
+          "resumo": "A cena gastronômica do Rio segue aquecida com novidades que vão do café da manhã à alta cozinha, como a fusão franco-brasileira do chef Pierre Cozan no Térèze, do Hotel Santa Teresa MGallery. Fora da capital, a Casa Marambaia, em Petrópolis, recebe o brunch Giardino Marambaia com o chef Rafa Costa e Silva nos jardins assinados por Burle Marx, reforçando a força da região serrana como destino gastronômico.",
+          "fonte": "Informa Rio",
+          "data": "19 set 2026",
+          "link": "https://informa-rio.com/2026/09/19/novidades-gastronomicas-movimentam-a-serra-do-rio"
         }
       ]
     },
@@ -193,19 +193,19 @@
       "materias": [
         {
           "tema": "SELIC e Juros",
-          "titulo": "Opções indicam 95% de chance de corte de 0,25 ponto na Selic no próximo Copom",
-          "resumo": "Com a reunião do Copom marcada para os dias 15 e 16 de setembro, o mercado de opções precifica 95% de probabilidade de um novo corte de 0,25 p.p., levando a Selic de 14% para 13,75% ao ano. A leitura é sustentada por sinais de desaceleração gradual da atividade econômica, reforçando a continuidade do ciclo de afrouxamento monetário iniciado pelo BC.",
+          "titulo": "Copom leva Selic a 13,75%: eleições e riscos globais vão travar mais cortes?",
+          "resumo": "O Banco Central cortou a Selic para 13,75% ao ano em decisão unânime, mas adotou tom cauteloso, sem sinalizar claramente os próximos passos do ciclo de afrouxamento monetário. O mercado se divide entre economistas que já preveem uma pausa e outros que apostam em continuidade gradual dos cortes, com fatores como El Niño intenso, petróleo acima de US$ 100 e o calendário eleitoral pesando nas próximas decisões do Copom.",
           "fonte": "InfoMoney",
-          "data": "10 set 2026",
-          "link": "https://www.infomoney.com.br/mercados/opcoes-indicam-95-de-chance-de-corte-de-025-ponto-na-selic-no-proximo-copom/"
+          "data": "16 set 2026",
+          "link": "https://www.infomoney.com.br/economia/taxa-selic-copom-corta-juros-13-75-set-2026/"
         },
         {
           "tema": "FIIs Kinea",
-          "titulo": "KNCR11, BTLG11 e as principais recomendações de FIIs para setembro, segundo 13 analistas",
-          "resumo": "Levantamento com 13 casas de análise aponta o KNCR11 como o FII mais recomendado para setembro, com nove menções, favorecido pela exposição a CRIs indexados ao CDI em um cenário de juros ainda elevados. O KNHF11, também da gestora Kinea, aparece na quarta posição do ranking geral, com seis recomendações.",
-          "fonte": "Money Times",
-          "data": "5 set 2026",
-          "link": "https://www.moneytimes.com.br/kncr11-btlg11-e-as-principais-recomendacoes-de-fiis-para-setembro-segundo-13-analistas-jcav/"
+          "titulo": "FII lança 5ª emissão e pode captar até R$ 439,9 milhões",
+          "resumo": "O KNUQ11, fundo imobiliário da Kinea com cerca de R$ 2,2 bilhões em patrimônio e mais de 59 mil cotistas, lançou sua 5ª emissão de cotas, com volume inicial de R$ 351,9 milhões e possibilidade de atingir R$ 439,9 milhões com o lote adicional. O preço da nova cota foi fixado em R$ 100,55, com taxa de distribuição de 2%; o fundo, focado em CRIs, distribuiu R$ 13,37 por cota nos últimos 12 meses.",
+          "fonte": "Suno",
+          "data": "9 set 2026",
+          "link": "https://www.suno.com.br/noticias/knuq11-5a-emissao-ate-439-mi/"
         },
         {
           "tema": "FIIs Sparta",
