@@ -1,25 +1,173 @@
 {
-  "atualizado_em": "21 de setembro de 2026",
+  "atualizado_em": "28 de setembro de 2026",
   "pilares": [
     {
       "nome": "Profissional",
       "cor": "var(--pilar-profissional)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Inteligência Artificial",
+          "titulo": "Depois do hype, o que sobra? O pragmatismo que está mudando o uso da IA nas empresas",
+          "resumo": "Empresas estão abandonando a corrida pelo modelo de IA mais potente e adotando critérios pragmáticos — custo, tipo de tarefa, velocidade e privacidade de dados — para escolher a ferramenta certa em cada caso. A tendência é combinar diferentes soluções de IA conforme a necessidade, em vez de padronizar em um único fornecedor.",
+          "fonte": "Exame",
+          "data": "28 set 2026",
+          "link": "https://exame.com/inteligencia-artificial/depois-do-hype-o-que-sobra-o-pragmatismo-que-esta-mudando-o-uso-da-ia-nas-empresas/"
+        },
+        {
+          "tema": "AI para Gestão de Pessoas",
+          "titulo": "IA já devolve 5,4 horas por semana ao RH: potencial chega a 31% da jornada, revela estudo",
+          "resumo": "Estudo da LG lugar de gente com a FIA Business School mostra que o RH brasileiro já economiza 5,4 horas semanais com IA (12% da jornada), com potencial de chegar a 31%. O tempo liberado da triagem e do atendimento operacional está sendo redirecionado para liderança e cultura organizacional.",
+          "fonte": "Exame",
+          "data": "15 set 2026",
+          "link": "https://exame.com/carreira/ia-ja-devolve-54-horas-por-semana-ao-rh-potencial-chega-a-31-da-jornada-revela-estudo/"
+        },
+        {
+          "tema": "Gestão de Pessoas",
+          "titulo": "Estudo mostra as competências que serão mais importantes para líderes nos próximos anos",
+          "resumo": "Relatório do Fórum Econômico Mundial com mais de mil empregadores aponta pensamento analítico como a competência de liderança mais crítica até 2030, seguido de resiliência, gestão de talentos e aprendizagem contínua. O estudo reforça a pressão por requalificação de lideranças diante das transformações tecnológicas em curso.",
+          "fonte": "Exame",
+          "data": "14 set 2026",
+          "link": "https://exame.com/carreira/estudo-mostra-as-competencias-que-serao-mais-importantes-para-lideres-nos-proximos-anos/"
+        },
+        {
+          "tema": "CEO",
+          "titulo": "Quem vai substituir o CEO? Só 16% das empresas têm um sucessor preparado",
+          "resumo": "Pesquisa com mais de 220 CEOs brasileiros mostra que apenas 16,1% das empresas têm um executivo pronto para assumir a presidência, e 41% nem sabem quem seria o sucessor. O estudo aponta a formação de lideranças como o principal gargalo de sucessão nas companhias do país.",
+          "fonte": "Exame",
+          "data": "13 set 2026",
+          "link": "https://exame.com/carreira/quem-vai-substituir-o-ceo-so-16-das-empresas-tem-um-sucessor-preparado/"
+        },
+        {
+          "tema": "Automação de Processos",
+          "titulo": "Como empresas brasileiras levaram a IA do teste à operação",
+          "resumo": "Pesquisa da Endeavor mostra que 70% das empresas brasileiras já reorganizaram equipes por conta da IA, mas apenas 40% percebem impacto mensurável na satisfação do cliente. A falta de dados integrados é citada por 30% dos empreendedores como principal barreira para escalar a automação além da fase piloto.",
+          "fonte": "Exame",
+          "data": "10 set 2026",
+          "link": "https://exame.com/bussola/como-empresas-brasileiras-levaram-a-ia-do-teste-a-operacao/"
+        },
+        {
+          "tema": "Redesenho de Processos",
+          "titulo": "Empresas que usam IA para crescimento têm vantagem sobre as que buscam só eficiência, diz McKinsey",
+          "resumo": "Estudo 'The State of AI' da McKinsey mostra que, embora 80% das empresas usem IA apenas para ganhos de eficiência, as organizações de melhor desempenho vão além e aplicam a tecnologia para redesenhar processos inteiros, criar produtos e melhorar a experiência do cliente. O redesenho completo do processo, e não a automação pontual, é o que separa líderes de seguidores.",
+          "fonte": "Exame",
+          "data": "14 set 2026",
+          "link": "https://exame.com/inteligencia-artificial/empresas-que-usam-ia-para-crescimento-tem-vantagem-sobre-as-que-buscam-so-eficiencia-diz-mckinsey/"
+        }
+      ]
     },
     {
       "nome": "Trabalho",
       "cor": "var(--pilar-trabalho)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Publicidade",
+          "titulo": "Por que Internet e OOH são os destaques de 2026?",
+          "resumo": "O mercado publicitário brasileiro cresceu 15,8% no primeiro semestre de 2026, com Internet (40,7% das verbas) e OOH (13,4%) na liderança dos investimentos. Profissionais do setor atribuem o destaque à combinação de escala, segmentação e mensuração em tempo real, além da digitalização acelerada do OOH.",
+          "fonte": "Meio & Mensagem",
+          "data": "23 set 2026",
+          "link": "https://www.meioemensagem.com.br/midia/por-que-internet-e-ooh-sao-os-destaques-de-2026"
+        },
+        {
+          "tema": "Novas Publicidades",
+          "titulo": "99 transforma dados de mobilidade em nova frente de mídia por meio da 99Ads",
+          "resumo": "A 99 lançou oficialmente a 99Ads, plataforma que combina anúncios in-app com OOH na frota de veículos, segmentados por dados demográficos, geográficos e comportamentais dos usuários. O movimento amplia a monetização de dados de mobilidade como nova categoria de mídia no mercado brasileiro.",
+          "fonte": "propmark",
+          "data": "23 set 2026",
+          "link": "https://propmark.com.br/anunciantes/99-transforma-dados-de-mobilidade-em-nova-frente-de-midia-por-meio-da-99ads/"
+        },
+        {
+          "tema": "Receita com Publicidade",
+          "titulo": "IAB Revises Ad Forecast, Shows Growth For Most Media",
+          "resumo": "O IAB revisou para cima a projeção de gastos publicitários nos EUA em 2026, elevando a estimativa em 2,8 pontos percentuais para mais de 12,3% de crescimento. Eventos cíclicos como Olimpíadas de Inverno e Copa do Mundo impulsionaram o primeiro semestre, enquanto o consumo resiliente reduziu as preocupações macroeconômicas.",
+          "fonte": "MediaPost",
+          "data": "10 set 2026",
+          "link": "https://www.mediapost.com/publications/article/417763/iab-revises-ad-forecast-shows-growth-for-most-med.html"
+        },
+        {
+          "tema": "Publisher",
+          "titulo": "Digiday Publishing Summit September 2026 Recap: How publishers are rebuilding for the post-search era",
+          "resumo": "Editoras discutiram na Digiday Publishing Summit de setembro como estão reduzindo a dependência do Google e diversificando receita via assinaturas, publicidade premium e licenciamento de conteúdo para IA. O consenso é que a era pós-busca exige relacionamento direto com a audiência e reorganização das redações em torno de ferramentas de IA.",
+          "fonte": "Digiday",
+          "data": "28 set 2026",
+          "link": "https://digiday.com/media/digiday-publishing-summit-september-2026-recap-how-publishers-are-rebuilding-for-the-post-search-era/"
+        },
+        {
+          "tema": "Canais de TV",
+          "titulo": "Production Outlook: Broadcast 'Resilient' Vs. Streaming, Cable",
+          "resumo": "Análise da Ampere mostra que a produção de TV linear nos EUA vem se mostrando mais resiliente que o streaming: entre 2022 e 2025, os pedidos de programação linear caíram 26%, contra 41% no streaming. As redes broadcast estão adotando abordagem disciplinada, priorizando franquias e gêneros já validados em múltiplas plataformas.",
+          "fonte": "MediaPost",
+          "data": "10 set 2026",
+          "link": "https://www.mediapost.com/publications/article/417782/production-outlook-broadcast-resilient-vs-stre.html?edition=143802"
+        },
+        {
+          "tema": "Revoluções na Publicidade",
+          "titulo": "Marketing's Flash Forward: You Have To Be Recommended By AI Engines",
+          "resumo": "O artigo argumenta que a 'share de recomendação' em motores de IA está substituindo as impressões como principal métrica de marketing. Marcas precisarão realocar orçamento para publicidade de resposta em mecanismos de IA, já que os modelos tradicionais de crescimento não garantem mais resultado.",
+          "fonte": "MediaPost",
+          "data": "18 set 2026",
+          "link": "https://www.mediapost.com/publications/article/418124/marketings-flash-forward-you-have-to-be-recommen.html?edition=143924"
+        },
+        {
+          "tema": "Novas Entregas Publicitárias",
+          "titulo": "AI Buying Platforms Will Manage 27% of U.S. Ad Spend by 2030: Report",
+          "resumo": "Relatório da Madison & Wall projeta receita publicitária global de US$ 1,3 trilhão até o fim de 2026 (+11% ano a ano), impulsionada por empresas de IA que criam ferramentas de compra de mídia mais eficientes. A previsão é que plataformas de compra por IA gerenciem 27% dos gastos publicitários dos EUA até 2030.",
+          "fonte": "Adweek",
+          "data": "11 set 2026",
+          "link": "https://www.adweek.com/agencies/ai-buying-platforms-will-manage-27-of-us-ad-spend-by-2030-report/"
+        }
+      ]
     },
     {
       "nome": "Lazer",
       "cor": "var(--pilar-lazer)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Vela Esportiva",
+          "titulo": "Atletas do Iate Clube do Espírito Santo brilham na 39ª Semana Internacional de Vela do Rio de Janeiro",
+          "resumo": "Na 39ª Semana Internacional de Vela do Rio de Janeiro, realizada entre 4 e 7 de setembro, Lívia Tavares venceu a categoria feminina na classe ILCA 6 (10º geral) e Torben Diniz terminou em terceiro lugar geral na ILCA 4, ambos do Iate Clube do Espírito Santo.",
+          "fonte": "A Gazeta",
+          "data": "10 set 2026",
+          "link": "https://www.agazeta.com.br/mais-esportes/atletas-do-iate-clube-do-espirito-santo-brilham-na-39-semana-internacional-de-vela-do-rio-de-janeiro-0926"
+        },
+        {
+          "tema": "Turismo no Rio de Janeiro",
+          "titulo": "12 eventos turísticos confirmados no RJ em setembro",
+          "resumo": "A ABIH-RJ levantou 12 eventos turísticos confirmados em sete municípios fluminenses para setembro de 2026, com destaque para a Mostra Palco Giratório do Sesc em Paraty, o 11º Festival Aves de Paraty e a 11ª Angra Expo. Todos os registros foram checados em calendários oficiais das prefeituras.",
+          "fonte": "ABIH-RJ",
+          "data": "31 ago 2026",
+          "link": "https://abihrj.com.br/noticias/eventos-turisticos-rj-setembro-2026-verificados"
+        }
+      ]
     },
     {
       "nome": "Finanças",
       "cor": "var(--pilar-financas)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "SELIC e Juros",
+          "titulo": "BC corta Selic em 0,25 ponto, para 13,75% ao ano, e deixa próximos passos em aberto",
+          "resumo": "O Copom reduziu a Selic em 0,25 p.p. para 13,75% ao ano, o quinto corte consecutivo aprovado por unanimidade. O comunicado manteve a cautela sobre os próximos passos, condicionando a magnitude total do ciclo de flexibilização à convergência da inflação à meta.",
+          "fonte": "InfoMoney",
+          "data": "16 set 2026",
+          "link": "https://www.infomoney.com.br/economia/banco-central-copom-decisao-selic-16092026/"
+        },
+        {
+          "tema": "FIIs Kinea",
+          "titulo": "KNSC11 divulga dividendos de quase 1% ao mês; confira o valor",
+          "resumo": "O KNSC11 anunciou dividendo de R$ 0,09 por cota para setembro, queda em relação aos R$ 0,11 do mês anterior, equivalente a um yield mensal de cerca de 0,98%. O pagamento ocorre em 14 de setembro para quem detinha cotas até 31 de agosto.",
+          "fonte": "FIIs.com.br",
+          "data": "1 set 2026",
+          "link": "https://fiis.com.br/noticias/knsc11-fundo-imobiliario-pagamento-dividendos-setembro-2026-queda-data-base-jj/"
+        },
+        {
+          "tema": "Ações Inter & Nubank",
+          "titulo": "Inter: queda de 40% no ano é 'reação extrema sobre prazo muito longo', diz CEO",
+          "resumo": "As ações do Inter (INBR32) acumulam queda de 40% em 2026 mesmo com lucro recorde, e o CEO classifica a reação do mercado como extrema. A pressão vem do aumento da inadimplência no crédito ao consumidor, que atingiu pico no terceiro trimestre, com sinais de recuperação gradual nos indicadores internos.",
+          "fonte": "Exame",
+          "data": "25 set 2026",
+          "link": "https://exame.com/invest/mercados/inter-queda-de-40-no-ano-e-reacao-extrema-sobre-prazo-muito-longo-diz-ceo/"
+        }
+      ]
     }
   ]
 }
