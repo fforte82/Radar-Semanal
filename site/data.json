@@ -4,94 +4,12 @@
     {
       "nome": "Profissional",
       "cor": "var(--pilar-profissional)",
-      "materias": [
-        {
-          "tema": "Inteligência Artificial",
-          "titulo": "A próxima fase da IA acontecerá nos bastidores das empresas",
-          "resumo": "O artigo discute como a IA está evoluindo de ferramentas de produtividade individual para agentes autônomos que redesenham processos operacionais internos. A decisão estratégica deixa de ser \"como usar IA\" e passa a ser \"quais operações podem ser redesenhadas em torno dela\".",
-          "fonte": "Exame",
-          "data": "4 out 2026",
-          "link": "https://exame.com/future-of-money/a-proxima-fase-da-ia-acontecera-nos-bastidores-das-empresas/"
-        },
-        {
-          "tema": "AI para Gestão de Pessoas",
-          "titulo": "IA já devolve 5,4 horas por semana ao RH: potencial chega a 31% da jornada; revela estudo",
-          "resumo": "Estudo da LG lugar de gente com a FIA Business School mostra que a IA já libera 5,4 horas semanais (12% da jornada) para profissionais de RH, com potencial de chegar a 31% do tempo liberado para atividades estratégicas como liderança e cultura organizacional.",
-          "fonte": "Exame",
-          "data": "15 set 2026",
-          "link": "https://exame.com/carreira/ia-ja-devolve-54-horas-por-semana-ao-rh-potencial-chega-a-31-da-jornada-revela-estudo/"
-        },
-        {
-          "tema": "Gestão de Pessoas",
-          "titulo": "Estudo mostra as competências que serão mais importantes para líderes nos próximos anos",
-          "resumo": "Relatório do Fórum Econômico Mundial identifica as principais habilidades que líderes precisarão desenvolver até 2030, entre elas pensamento analítico, resiliência, gestão de talentos e aprendizagem contínua, refletindo as transformações tecnológicas do mercado de trabalho.",
-          "fonte": "Exame",
-          "data": "14 set 2026",
-          "link": "https://exame.com/carreira/estudo-mostra-as-competencias-que-serao-mais-importantes-para-lideres-nos-proximos-anos/"
-        },
-        {
-          "tema": "CEO",
-          "titulo": "Pé no freio ou no acelerador? Os planos dos maiores CEOs do Brasil para 2027",
-          "resumo": "Em entrevistas durante o evento Melhores e Maiores, líderes das maiores empresas brasileiras detalham estratégias de expansão, aquisições e investimentos para 2027, com planos condicionados a fatores como resultado eleitoral e cenário econômico.",
-          "fonte": "Exame",
-          "data": "2 out 2026",
-          "link": "https://exame.com/insight/pe-no-freio-ou-no-acelerador-os-planos-dos-maiores-ceos-do-brasil-para-2027/p"
-        },
-        {
-          "tema": "Automação de Processos",
-          "titulo": "AI Operations: o novo cargo que faz a inteligência artificial funcionar nas empresas",
-          "resumo": "Startups vêm criando a função de AI Operations, profissionais responsáveis por integrar ferramentas de IA aos processos empresariais do dia a dia. O artigo detalha responsabilidades, habilidades exigidas e as diferenças em relação à engenharia de IA tradicional.",
-          "fonte": "Exame",
-          "data": "29 set 2026",
-          "link": "https://exame.com/inteligencia-artificial/ai-operations-o-novo-cargo-que-faz-a-inteligencia-artificial-funcionar-nas-empresas/"
-        },
-        {
-          "tema": "Redesenho de Processos",
-          "titulo": "Stop Automating Old Processes. Design New Ones Instead.",
-          "resumo": "O artigo argumenta que empresas investem bilhões em IA mas falham em gerar retorno porque automatizam tarefas isoladas em vez de redesenhar fluxos de trabalho inteiros. Os autores propõem decidir o que redesenhar, onde manter autoridade humana e projetar para cenários de falha.",
-          "fonte": "Harvard Business Review",
-          "data": "14 set 2026",
-          "link": "https://hbr.org/2026/09/stop-automating-old-processes-design-new-ones-instead"
-        }
-      ]
+      "materias": []
     },
     {
       "nome": "Trabalho",
       "cor": "var(--pilar-trabalho)",
-      "materias": [
-        {
-          "tema": "Publicidade",
-          "titulo": "TV e Internet disputam cada centavo da verba dos anunciantes",
-          "resumo": "Segundo relatório do Cenp-Meios, TV e Internet receberam volumes praticamente idênticos de investimento publicitário no 1º semestre de 2026 (40,6% e 40,7%, respectivamente), em um mercado que cresceu 15,8% no período — evidenciando a disputa cada vez mais acirrada entre os dois meios.",
-          "fonte": "Meio & Mensagem",
-          "data": "18 set 2026",
-          "link": "https://www.meioemensagem.com.br/midia/tv-e-internet-disputam-cada-centavo-da-verba-dos-anunciantes"
-        },
-        {
-          "tema": "Novas Publicidades",
-          "titulo": "A Equativ traz o ChatGPT Ads para as marcas como parceira de publicidade",
-          "resumo": "A Equativ tornou-se parceira tecnológica do ChatGPT Ads, integrando um grupo seleto de empresas que ajudam marcas a anunciar na plataforma, com a ferramenta Equativ Ad Studio recomendando segmentação e criativos personalizados ao longo da jornada do consumidor.",
-          "fonte": "Meio & Mensagem",
-          "data": "28 set 2026",
-          "link": "https://www.meioemensagem.com.br/patrocinado/equativ/a-equativ-traz-o-chatgpt-ads-para-as-marcas-como-parceira-de-publicidade"
-        },
-        {
-          "tema": "Revoluções na Publicidade",
-          "titulo": "Apple's Latest Privacy Move In iOS 27 Hits Different Than ATT",
-          "resumo": "O iOS 27 da Apple passou a bloquear a The Trade Desk e outras ad techs de servir anúncios no Safari, um movimento mais radical que o ATT de 2021: em vez de apenas restringir dados, o bloqueio via WebKit impede certas plataformas de operar, deixando fornecedores afetados sem clareza sobre critérios ou formas de recurso.",
-          "fonte": "AdExchanger",
-          "data": "2 out 2026",
-          "link": "https://www.adexchanger.com/data-driven-thinking/apples-latest-privacy-move-in-ios-27-hits-different-than-att/"
-        },
-        {
-          "tema": "Novas Entregas Publicitárias",
-          "titulo": "Amazon Rebuilds Its Ad Platform Around AI Agents",
-          "resumo": "A Amazon lançou uma reformulação completa de sua plataforma de anúncios, substituindo o Amazon Ad Console pelo Amazon Ads Agent, que integra agentes de IA a fluxos de gestão de campanha, automatizando otimização de segmentação e ajustes de lances — uma evolução rumo a uma experiência publicitária guiada por agentes.",
-          "fonte": "Adweek",
-          "data": "29 set 2026",
-          "link": "https://www.adweek.com/commerce/amazon-rebuilds-its-ad-platform-around-ai-agents"
-        }
-      ]
+      "materias": []
     },
     {
       "nome": "Lazer",
@@ -101,32 +19,7 @@
     {
       "nome": "Finanças",
       "cor": "var(--pilar-financas)",
-      "materias": [
-        {
-          "tema": "SELIC e Juros",
-          "titulo": "Ata do Copom reforça necessidade de cautela e riscos elevados; entenda",
-          "resumo": "O Banco Central reduziu a Selic em 0,25 p.p., para 13,75% ao ano, no quinto corte consecutivo. A ata do Copom aponta \"significativo aumento da incerteza\" e riscos elevados, com projeções de inflação para 2026 ainda acima da meta, exigindo cautela na condução da política monetária.",
-          "fonte": "Suno",
-          "data": "22 set 2026",
-          "link": "https://www.suno.com.br/noticias/ata-do-copom-setembro-2026-go/"
-        },
-        {
-          "tema": "FIIs Kinea",
-          "titulo": "KNSC11 anuncia menores dividendos dos últimos 7 meses; confira o valor",
-          "resumo": "O fundo imobiliário KNSC11 anunciou dividendo de R$ 0,08 por cota, o menor valor dos últimos 7 meses, equivalente a um yield mensal de cerca de 0,89%. O direito ao provento está condicionado à posse das cotas até o fechamento do pregão de 30 de setembro.",
-          "fonte": "FIIs.com.br",
-          "data": "1 out 2026",
-          "link": "https://fiis.com.br/noticias/fundo-imobiliario-knsc11-dividendos-outubro-2026-pagamento-cotistas-jj/"
-        },
-        {
-          "tema": "Ações Inter & Nubank",
-          "titulo": "Ações do Nubank despencam 10% em NY com notícias sobre compra de banco britânico",
-          "resumo": "As ações do Nubank caíram 10% em Nova York após reportagem sobre negociações preliminares para aquisição do banco digital britânico Monzo, avaliado entre £8-10 bilhões. Analistas do JPMorgan preveem reação negativa dos investidores por \"valuation elevado\"; o Nubank não comentou \"rumores nem especulações\".",
-          "fonte": "InfoMoney",
-          "data": "28 set 2026",
-          "link": "https://infomoney.com.br/mercados/acoes-do-nubank-despencam-em-ny-com-noticias-sobre-compra-de-banco-britanico"
-        }
-      ]
+      "materias": []
     }
   ]
 }
