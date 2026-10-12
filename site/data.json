@@ -1,25 +1,165 @@
 {
-  "atualizado_em": "5 de outubro de 2026",
+  "atualizado_em": "12 de outubro de 2026",
   "pilares": [
     {
       "nome": "Profissional",
       "cor": "var(--pilar-profissional)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Inteligência Artificial",
+          "titulo": "5 habilidades de IA que profissionais querem aprender e que podem pesar no salário",
+          "resumo": "Segundo o Guia Salarial 2026 da Robert Half e o Stanford AI Index 2026, profissionais querem aprender IA generativa, cloud e desenvolvimento com IA, enquanto o mercado exige fortemente Python e competências de infraestrutura. O ganho salarial tende a vir da combinação de IA com uma competência técnica ou de negócio já demandada, não de uma habilidade isolada.",
+          "fonte": "Exame",
+          "data": "5 out 2026",
+          "link": "https://exame.com/inteligencia-artificial/5-habilidades-de-ia-que-profissionais-querem-aprender-e-que-podem-pesar-no-salario"
+        },
+        {
+          "tema": "AI para Gestão de Pessoas",
+          "titulo": "IA já devolve 5,4 horas por semana ao RH: potencial chega a 31% da jornada; revela estudo",
+          "resumo": "Levantamento da LG lugar de gente com a FIA Business School, apresentado no CONARH 2026, estima que a IA já economiza 5,4 horas semanais por profissional de RH (12% da jornada), com potencial de chegar a 31%. Hoje o uso mais comum é triagem de candidatos e atendimento interno, enquanto o desenvolvimento de lideranças ainda exige julgamento humano.",
+          "fonte": "Exame",
+          "data": "15 set 2026",
+          "link": "https://exame.com/carreira/ia-ja-devolve-54-horas-por-semana-ao-rh-potencial-chega-a-31-da-jornada-revela-estudo/"
+        },
+        {
+          "tema": "Gestão de Pessoas",
+          "titulo": "O perfil do novo chefe de RH: menos especialista em pessoas, mais líder de negócio",
+          "resumo": "Pesquisa da Myndz com a Fundação Dom Cabral, com 65 executivos de RH de grandes empresas brasileiras, mostra que esses líderes ganharam espaço estratégico, mas só 61,5% consideram a área preparada para sustentar o futuro das companhias. Os principais gargalos são a falta de sucessores internos e o avanço lento em análise de dados e uso crítico de IA.",
+          "fonte": "Exame",
+          "data": "27 set 2026",
+          "link": "https://exame.com/carreira/o-perfil-do-novo-chefe-de-rh-menos-especialista-em-pessoas-mais-lider-de-negocio/"
+        },
+        {
+          "tema": "CEO",
+          "titulo": "As 4 etapas do relacionamento entre o CEO e o Conselho de Administração",
+          "resumo": "Artigo da HBR descreve quatro fases previsíveis na relação entre CEO e conselho: construção de confiança, atuação do conselho como parceiro estratégico, prevenção da acomodação e, por fim, foco em sucessão e governança de longo prazo. O desafio central apontado é equilibrar confiança e supervisão ao longo do mandato.",
+          "fonte": "Harvard Business Review",
+          "data": "22 set 2026",
+          "link": "https://hbr.org/2026/09/the-4-stages-of-the-ceo-board-relationship?language=pt"
+        },
+        {
+          "tema": "Automação de Processos",
+          "titulo": "Agentes de IA chegarão a 40% dos aplicativos corporativos até o fim de 2026, diz Gartner",
+          "resumo": "Segundo previsão do Gartner, até o fim de 2026 cerca de 40% dos softwares corporativos devem ter agentes de IA capazes de executar tarefas específicas, ante menos de 5% em 2025. A consultoria alerta que a adoção exige governança e controle de permissões, estimando que 40% das empresas poderão reduzir ou desativar agentes autônomos até 2027 por falhas nesse controle.",
+          "fonte": "Exame",
+          "data": "29 set 2026",
+          "link": "https://exame.com/inteligencia-artificial/agentes-de-ia-chegarao-a-40-dos-aplicativos-corporativos-ate-o-fim-de-2026-diz-gartner/"
+        },
+        {
+          "tema": "Redesenho de Processos",
+          "titulo": "Só 6% das empresas lucram de verdade com IA — mas o que elas fazem antes de escolher a ferramenta",
+          "resumo": "Segundo a McKinsey, 88% das empresas usam IA regularmente, mas apenas 6% atribuem à tecnologia 5% ou mais do lucro operacional. A diferença está em redesenhar os fluxos de trabalho antes de escolher a ferramenta, priorizando processos pelo tempo gasto, repetição das tarefas e custo de erro.",
+          "fonte": "Exame",
+          "data": "24 set 2026",
+          "link": "https://exame.com/carreira/so-6-das-empresas-lucram-de-verdade-com-ia-mas-o-que-elas-fazem-antes-de-escolher-a-ferramenta/"
+        }
+      ]
     },
     {
       "nome": "Trabalho",
       "cor": "var(--pilar-trabalho)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Publicidade",
+          "titulo": "Quais serão as estratégias de mídia para 2030?",
+          "resumo": "Com base em reportagens do Ad Age, o artigo prevê que a busca migrará para plataformas de IA, abrangendo commerce, afiliados e display, além da convergência entre redes sociais, commerce e criadores. Também aponta o planejamento conjunto de TV linear e streaming e a busca dos consumidores por comunidades menores e experiências presenciais.",
+          "fonte": "Meio & Mensagem",
+          "data": "7 out 2026",
+          "link": "https://www.meioemensagem.com.br/midia/quais-serao-as-estrategias-de-midia-para-2030"
+        },
+        {
+          "tema": "Receita com Publicidade",
+          "titulo": "Netflix detalha avanços em ads e projeta crescimento em receita",
+          "resumo": "Na terceira edição do Behind The Streams, a Netflix anunciou para o Brasil anúncios interativos, expansão do Pause Ads para mídia programática e novas ferramentas de mensuração, como estudo de atenção do público. A meta da empresa é dobrar a receita publicitária em 2026 e chegar a 10% da receita total até 2030.",
+          "fonte": "Meio & Mensagem",
+          "data": "2 set 2026",
+          "link": "https://www.meioemensagem.com.br/midia/netflix-detalha-avancos-em-ads-e-projeta-crescimento-em-receita"
+        },
+        {
+          "tema": "Publisher",
+          "titulo": "Digiday Publishing Summit September 2026 Recap: How publishers are rebuilding for the post-search era",
+          "resumo": "No recap do Digiday Publishing Summit (14-16 de setembro, Miami), executivos de veículos como The New York Times, The Wall Street Journal, Reuters e USA Today Co. descrevem a migração para assinaturas, newsletters, anúncios premium e licenciamento de dados diante da queda do tráfego via Google. Eles seguem cautelosos com acordos de licenciamento para IA e produtos de \"GEO\", já que compensação e atribuição ainda não estão resolvidas.",
+          "fonte": "Digiday",
+          "data": "28 set 2026",
+          "link": "https://digiday.com/media/digiday-publishing-summit-september-2026-recap-how-publishers-are-rebuilding-for-the-post-search-era/"
+        },
+        {
+          "tema": "Canais de TV",
+          "titulo": "Production Outlook: Broadcast 'Resilient' Vs. Streaming, Cable",
+          "resumo": "Levantamento da Ampere Analysis mostra que os pedidos de produção da TV linear americana caíram 26% entre 2022 e 2025, uma queda menor que os 41% do streaming, tornando a produção linear mais \"resiliente\". O cabo teve a queda mais acentuada, enquanto os pedidos de séries roteirizadas lineares cresceram 11% no total, atribuído ao foco das emissoras em gêneros e franquias consolidados.",
+          "fonte": "MediaPost",
+          "data": "10 set 2026",
+          "link": "https://www.mediapost.com/publications/article/417782/production-outlook-broadcast-resilient-vs-stre.html"
+        },
+        {
+          "tema": "Revoluções na Publicidade",
+          "titulo": "Ad Tech Briefing: AI is reinforcing Big Tech's grip on advertising growth",
+          "resumo": "Estudo da Madison & Wall estima que Google, Meta e Amazon capturaram 56% da receita publicitária nos EUA em 2025, acima dos 53% de 2024, enquanto a participação dos demais players encolheu. Ferramentas de campanha automatizadas por IA, que já respondem por cerca de 12% do investimento publicitário americano, são vistas como reforço dessa concentração, pois mais investimento gera mais dados e automação.",
+          "fonte": "Digiday",
+          "data": "15 set 2026",
+          "link": "https://digiday.com/media-buying/ad-tech-briefing-ai-is-reinforcing-big-techs-grip-on-advertising-growth/"
+        },
+        {
+          "tema": "Novas Entregas Publicitárias",
+          "titulo": "Ad Tech Briefing: AI is changing programmatic buying faster than who controls it",
+          "resumo": "Estudo do IAB Europe mostra que a IA já é amplamente usada em marketing, principalmente para otimização programática, enquanto a compra e venda totalmente agênticas ainda estão atrás. O texto também destaca uma nova opção do Google Ad Manager para definir pisos de preço por licitante específico, levantando dúvidas sobre o controle dos publishers sobre decisões automatizadas.",
+          "fonte": "Digiday",
+          "data": "29 set 2026",
+          "link": "https://digiday.com/marketing/ad-tech-briefing-ai-is-changing-programmatic-buying-faster-than-who-controls-it/"
+        }
+      ]
     },
     {
       "nome": "Lazer",
       "cor": "var(--pilar-lazer)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Cafés",
+          "titulo": "Brasil emplaca 12 cafeterias entre as 100 melhores da América do Sul",
+          "resumo": "O Brasil teve 12 cafeterias entre as 100 melhores da América do Sul no ranking de 2026, com endereços em oito estados. A mais bem colocada entre as brasileiras é a Lucca Cafés Especiais, de Curitiba, em 4º lugar, enquanto a melhor da região é a chilena Eco Mapu Coffee. A lista combina votos de especialistas (70%) e votação pública (30%).",
+          "fonte": "CNN Brasil",
+          "data": "24 set 2026",
+          "link": "https://www.cnnbrasil.com.br/viagemegastronomia/gastronomia/brasil-emplaca-12-cafeterias-entre-as-100-melhores-da-america-do-sul/"
+        },
+        {
+          "tema": "Turismo no Rio de Janeiro",
+          "titulo": "Feriado de 12 de outubro: veja os destinos mais buscados pelos brasileiros",
+          "resumo": "Levantamento de plataformas de hospedagem, voos e passeios mostra que o Rio de Janeiro está entre os destinos mais buscados pelos brasileiros no feriado de 12 de outubro: é o 2º destino nacional mais procurado por famílias na Booking.com, o 1º em buscas de hospedagem na Decolar e líder em reservas de passeios no Brasil na Civitatis. As famílias buscam mais viagens de média duração, e as reservas para o exterior, especialmente na Europa, também cresceram.",
+          "fonte": "CNN Brasil",
+          "data": "7 out 2026",
+          "link": "https://www.cnnbrasil.com.br/viagemegastronomia/viagem/feriado-de-12-de-outubro-veja-os-destinos-mais-buscados-pelos-brasileiros/"
+        }
+      ]
     },
     {
       "nome": "Finanças",
       "cor": "var(--pilar-financas)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "SELIC e Juros",
+          "titulo": "Selic a 13,75% é o fim da linha? Decisão do Copom deixa próximo corte em aberto",
+          "resumo": "O Copom reduziu a Selic em 0,25 ponto percentual, de 14% para 13,75% ao ano, em decisão unânime tomada em 16 de setembro de 2026. O corte era esperado, mas a comunicação do Banco Central não deixou claro se o ciclo de cortes continua: Mirae Asset e Lifetime veem espaço para novos cortes, enquanto BV e Santander apostam em pausa.",
+          "fonte": "Money Times",
+          "data": "16 set 2026",
+          "link": "https://www.moneytimes.com.br/selic-a-1375-e-o-fim-da-linha-decisao-do-copom-deixa-proximo-corte-em-aberto-jcav/"
+        },
+        {
+          "tema": "FIIs Kinea",
+          "titulo": "KNCR11, BTLG11 e XPML11 lideram recomendações de FIIs para outubro; veja ranking",
+          "resumo": "Levantamento do Money Times mostra que os FIIs KNCR11 (Kinea), BTLG11 e XPML11 lideram as recomendações de analistas para outubro, aparecendo em sete das dez carteiras acompanhadas. O KNCR11 é um fundo de papel focado em CRIs atrelados ao CDI, e a lista também cita outros FIIs bem avaliados, como o KNHF11, também da Kinea.",
+          "fonte": "Money Times",
+          "data": "7 out 2026",
+          "link": "https://www.moneytimes.com.br/kncr11-btlg11-e-xpml11-lideram-recomendacoes-de-fiis-para-outubro-veja-ranking-igdl/"
+        },
+        {
+          "tema": "Ações Inter & Nubank",
+          "titulo": "Inter (INBR32) chega a tombar, mas recupera fôlego; quem tiver 'estômago' pode ver ação saltar 70%, vê Genial",
+          "resumo": "O Inter (INBR32) reportou no 2º trimestre de 2026 lucro de R$ 421 milhões, alta de 34% na comparação anual e acima das expectativas, com receita líquida de R$ 2,6 bilhões. A inadimplência voltou a preocupar analistas, mas a Genial mantém recomendação de compra com preço-alvo de R$ 50, vendo potencial de alta de até 70% para a ação.",
+          "fonte": "Money Times",
+          "data": "6 ago 2026",
+          "link": "https://www.moneytimes.com.br/inter-inbr32-chega-a-tombar-mas-recupera-folego-quem-tiver-estomago-pode-ver-acao-saltar-70/"
+        }
+      ]
     }
   ]
 }
