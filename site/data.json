@@ -1,25 +1,197 @@
 {
-  "atualizado_em": "12 de outubro de 2026",
+  "atualizado_em": "19 de outubro de 2026",
   "pilares": [
     {
       "nome": "Profissional",
       "cor": "var(--pilar-profissional)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Inteligência Artificial",
+          "titulo": "Uso de IA generativa sem autorização preocupa 66% dos executivos, diz estudo",
+          "resumo": "Pesquisa da Peers Consulting com o TEC.Institute mostra que 66% dos executivos suspeitam que funcionários usam IA generativa sem aprovação corporativa. Políticas rígidas reduzem a prática, mas não a eliminam, e o problema central está na falta de canais oficiais ágeis e de monitoramento.",
+          "fonte": "Exame",
+          "data": "16 set 2026",
+          "link": "https://exame.com/inteligencia-artificial/uso-de-ia-generativa-sem-autorizacao-preocupa-66-dos-executivos-diz-estudo/"
+        },
+        {
+          "tema": "AI para Gestão de Pessoas",
+          "titulo": "IA já devolve 5,4 horas por semana ao RH: potencial chega a 31% da jornada; revela estudo",
+          "resumo": "Estudo da LG lugar de gente com a FIA Business School, apresentado no CONARH 2026, mostra que a IA já poupa 5,4 horas semanais do RH (12% da jornada), com potencial de chegar a 31%. O tempo liberado deve migrar para desenvolvimento de liderança e cultura organizacional.",
+          "fonte": "Exame",
+          "data": "15 set 2026",
+          "link": "https://exame.com/carreira/ia-ja-devolve-54-horas-por-semana-ao-rh-potencial-chega-a-31-da-jornada-revela-estudo/"
+        },
+        {
+          "tema": "Gestão de Pessoas",
+          "titulo": "Como liderar quando todos estão observando",
+          "resumo": "A HBR reúne relatos de três ex-líderes que enfrentaram forte exposição pública — Gareth Southgate, Tim Davie (BBC) e Minouche Shafik (Columbia) — sobre o que é conduzir uma organização sob escrutínio constante. O artigo discute lições práticas de liderança em contextos de alta visibilidade e pressão externa.",
+          "fonte": "Harvard Business Review",
+          "data": "8 out 2026",
+          "link": "https://hbr.org/2026/10/how-to-lead-when-everyone-is-watching?language=pt"
+        },
+        {
+          "tema": "CEO",
+          "titulo": "The CEO Shortlist: AI, organization, and geopolitics",
+          "resumo": "Newsletter da McKinsey mostra que, embora 80% dos executivos digam que a IA melhorou sua produtividade individual, apenas 37% veem impacto positivo no EBIT. A edição propõe quatro mudanças para redesenhar papéis e fluxos de trabalho com IA agêntica e analisa a divisão do comércio global entre lógica geopolítica e lógica de mercado.",
+          "fonte": "McKinsey & Company",
+          "data": "16 out 2026",
+          "link": "https://www.mckinsey.com/~/media/mckinsey/email/shortlist/296/2026-10-16b.html"
+        },
+        {
+          "tema": "Automação de Processos",
+          "titulo": "Antes de investir em IA, sua empresa já automatizou o básico? A maioria ainda não",
+          "resumo": "Coluna argumenta que muitas empresas pulam a automação básica de processos para investir diretamente em IA, o que compromete os resultados. RPA e automação de fluxos continuam pré-requisitos para extrair valor real de projetos de inteligência artificial.",
+          "fonte": "Olhar Digital",
+          "data": "18 out 2026",
+          "link": "https://olhardigital.com.br/2026/10/18/colunistas/antes-de-investir-em-ia-sua-empresa-ja-automatizou-o-basico-a-maioria-ainda-nao"
+        },
+        {
+          "tema": "Redesenho de Processos",
+          "titulo": "Muito barulho, pouca receita: o gargalo da IA na indústria de consumo",
+          "resumo": "Pesquisa da Deloitte com 963 executivos da indústria de consumo mostra que 82% ainda não redesenharam papéis ou a natureza do trabalho em torno da IA. Apenas 28% redesenham processos-chave sem mudar o modelo de negócio, evidenciando que a maturidade de redesenho ainda é baixa.",
+          "fonte": "Exame",
+          "data": "3 out 2026",
+          "link": "https://exame.com/inteligencia-artificial/muito-barulho-pouca-receita-o-gargalo-da-ia-na-industria-de-consumo/"
+        },
+        {
+          "tema": "Gestão Operacional",
+          "titulo": "Milky Moo tem 600 lojas fora da escala 6x1. 'É possível buscar ganhos de produtividade', diz CEO",
+          "resumo": "A rede de franquias Milky Moo adota jornada 12x36 em cerca de 80% de suas unidades, buscando mais previsibilidade operacional e menos trocas de turno. O CEO reconhece que o maior desafio de gestão operacional é dimensionar a equipe de cada loja conforme a demanda, já que os resultados variam muito entre unidades da rede.",
+          "fonte": "Exame",
+          "data": "17 out 2026",
+          "link": "https://exame.com/negocios/milky-moo-tem-600-lojas-na-escala-12x36-e-possivel-buscar-ganhos-de-produtividade-diz-ceo/"
+        }
+      ]
     },
     {
       "nome": "Trabalho",
       "cor": "var(--pilar-trabalho)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Publicidade",
+          "titulo": "Warc projeta investimento publicitário global de US$ 1,34 tri em 2026",
+          "resumo": "A Warc Media projeta crescimento de 11,9% no investimento publicitário global em 2026, puxado por inteligência artificial e grandes eventos. Redes sociais devem liderar o crescimento entre os canais, e Alphabet, Amazon e Meta devem concentrar quase 60% do investimento global, excluindo a China.",
+          "fonte": "Propmark",
+          "data": "8 out 2026",
+          "link": "https://propmark.com.br/mercado/warc-projeta-investimento-publicitario-global-de-us-134-tri-em-2026/"
+        },
+        {
+          "tema": "Novas Publicidades",
+          "titulo": "Meta Is Selling Ad Slots, TV-Style",
+          "resumo": "A Meta lançou o Ads Super Burst, que permite reservar uma janela de três a 24 horas em um único dia no Facebook e Instagram, com preço e alcance estimado definidos antecipadamente. O formato é posicionado como complemento de pico a campanhas em andamento, ampliando o leque de formatos programáticos estilo TV.",
+          "fonte": "AdExchanger",
+          "data": "15 out 2026",
+          "link": "https://adexchanger.com/platforms/meta-is-selling-ad-slots-tv-style"
+        },
+        {
+          "tema": "Receita com Publicidade",
+          "titulo": "Proibição das bets impacta faturamento das agências de publicidade e veículos",
+          "resumo": "A MP 1.393 encerrou as operações de casas de apostas online no Brasil a partir de 6 de outubro, bloqueando sites e apps. Segundo a Tunad, o setor publicitário captou cerca de R$ 2,1 bilhões em 18 meses com bets e deve sentir o impacto de imediato, com possíveis disputas sobre contratos já firmados ou pagos antecipadamente.",
+          "fonte": "Propmark",
+          "data": "6 out 2026",
+          "link": "https://propmark.com.br/mercado/proibicao-das-bets-impacta-faturamento-das-agencias-de-publicidade-e-veiculos/"
+        },
+        {
+          "tema": "Publisher",
+          "titulo": "Media Briefing: Publishers are turning GEO from an experiment into a business",
+          "resumo": "Editoras como Future, Time e Ziff Davis passaram a tratar a otimização de visibilidade em respostas geradas por IA (GEO) como nova linha de receita, à medida que anunciantes passam a exigir esse serviço. O desafio ainda é medir os resultados do GEO e estimar por quanto tempo a visibilidade comprada se sustenta.",
+          "fonte": "Digiday",
+          "data": "1 out 2026",
+          "link": "https://digiday.com/media/media-briefing-publishers-are-turning-geo-from-an-experiment-into-a-business/"
+        },
+        {
+          "tema": "Canais de TV",
+          "titulo": "Real CTV Aspirations? First Look At The Device In Your Hand",
+          "resumo": "Comentário do MediaPost argumenta que a TV conectada pode nunca igualar busca e redes sociais em resultados imediatos e mensuráveis, em parte por sinais de dados inconsistentes entre plataformas. O valor da CTV estaria mais no topo do funil, com retorno via busca ou redes sociais dias depois, à medida que orçamentos de TV nacional migram para streaming.",
+          "fonte": "MediaPost",
+          "data": "15 out 2026",
+          "link": "https://www.mediapost.com/publications/article/418737/real-ctv-aspirations-first-look-at-the-device-in.html"
+        },
+        {
+          "tema": "Revoluções na Publicidade",
+          "titulo": "Apple's secret blocklist is the talk of Advertising Week New York",
+          "resumo": "A Apple estaria bloqueando o acesso via Safari de diversas empresas de ad tech, incluindo a The Trade Desk, com potencial de expansão da lista. O tema dominou conversas, em boa parte off-the-record, na Advertising Week de Nova York, enquanto TikTok, Meta e X avançam com ferramentas de IA para controlar criação e compra de mídia.",
+          "fonte": "Digiday",
+          "data": "7 out 2026",
+          "link": "https://digiday.com/media-buying/apples-secret-blocklist-is-the-talk-of-advertising-week-new-york-mostly-off-the-record/"
+        },
+        {
+          "tema": "Novas Entregas Publicitárias",
+          "titulo": "Ad Tech Briefing: Zeta goes big as Apple casts a shadow over Advertising Week",
+          "resumo": "Plataformas de orquestração que coordenam compra de mídia entre múltiplos sistemas estão desafiando o modelo tradicional de DSP, tema central na Advertising Week de Nova York. A Zeta Global anunciou duas aquisições e sua plataforma AthenaOS, enquanto as restrições de rastreamento do iOS 27 da Apple dominaram as conversas de bastidores do evento.",
+          "fonte": "Digiday",
+          "data": "13 out 2026",
+          "link": "https://digiday.com/media-buying/ad-tech-briefing-zeta-goes-big-as-apple-casts-a-shadow-over-advertising-week/"
+        }
+      ]
     },
     {
       "nome": "Lazer",
       "cor": "var(--pilar-lazer)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Vela Esportiva",
+          "titulo": "Regata de 200 milhas une dirigente e comandante no mar",
+          "resumo": "Bayard Neto, presidente da ABVO, vai competir como comandante do Inaê Soto40 na 76ª Regata Santos–Rio, que larga em 22 de outubro e abre o Campeonato Brasileiro de Oceano. A chegada foi deslocada para a Ilha Rasa para reduzir a influência das correntes, e o sistema de pontuação também foi alterado para esta edição.",
+          "fonte": "Tribuna do Sertão",
+          "data": "16 out 2026",
+          "link": "https://www.tribunadosertao.com.br/esportes/2026/10/16/999105-regata-de-200-milhas-une-dirigente-e-comandante-no-mar"
+        },
+        {
+          "tema": "Curso de Vela Oceânica",
+          "titulo": "Campeões da vela oceânica se unem após aquisição de barco de alto desempenho",
+          "resumo": "A equipe Phytoervas comprou o veleiro Onda, campeão do Super 40 em Ilhabela, rebatizado Onda Phytoervas, que passa a competir ao lado do Phytoervas 4Z, vice-campeão da mesma disputa. A embarcação estreia na 76ª Regata Santos–Rio, reunindo nomes de peso da vela oceânica brasileira.",
+          "fonte": "Tribuna do Sertão",
+          "data": "17 out 2026",
+          "link": "https://www.tribunadosertao.com.br/esportes/2026/10/17/999358-campeoes-da-vela-oceanica-se-unem-apos-aquisicao-de-barco-de-alto-desempenho"
+        },
+        {
+          "tema": "Cafés",
+          "titulo": "Rio Coffee Nation reúne cafés especiais e lança ranking nacional de cafeterias",
+          "resumo": "A sétima edição do Rio Coffee Nation ocorre de 17 a 18 de outubro no espaço EXC, na região do Jockey, reunindo produtores, cafeterias, chefs e bartenders para degustações e demonstrações de preparo. A edição estreia o The Best Coffee Shops Brasil, ranking nacional das 50 melhores cafeterias do país, revelado no primeiro dia do evento.",
+          "fonte": "Gastronominho",
+          "data": "14 out 2026",
+          "link": "https://gastronominho.com.br/bebidas/2026/10/rio-coffee-nation-2026-ranking-cafeterias/"
+        }
+      ]
     },
     {
       "nome": "Finanças",
       "cor": "var(--pilar-financas)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "SELIC e Juros",
+          "titulo": "Ata do Copom não descarta novos cortes da Selic mas cita 'aumento de incerteza'",
+          "resumo": "O Banco Central cortou a Selic de 14% para 13,75% ao ano e não descartou novos movimentos, condicionando os próximos passos à inflação, atividade econômica e expectativas. A ata mantém a política em território restritivo, citando aumento de incerteza e expectativas de inflação acima da meta.",
+          "fonte": "Exame",
+          "data": "22 set 2026",
+          "link": "https://exame.com/economia/ata-do-copom-nao-descarta-novos-cortes-da-selic-mas-cita-aumento-de-incerteza/"
+        },
+        {
+          "tema": "FIIs Kinea",
+          "titulo": "KNCR11 confirma dividendos para outubro; veja valor e data",
+          "resumo": "O KNCR11 declarou R$ 1,13 por cota referente a setembro de 2026, valor menor que o do mês anterior, com pagamento em 14 de outubro para quem detinha cotas até 30 de setembro. O yield mensal estimado é de 1,06%, com base no preço de referência de R$ 106,40.",
+          "fonte": "Suno",
+          "data": "1 out 2026",
+          "link": "https://www.suno.com.br/noticias/kncr11-dividendos-outubro-2026-pagamento/"
+        },
+        {
+          "tema": "FIIs Sparta",
+          "titulo": "Fundos de infra vivem 'um dos piores meses da história'; queda é oportunidade?",
+          "resumo": "Os FI-Infra tiveram um dos piores meses da história em setembro, com retornos negativos na maioria dos fundos hedgeados e saídas líquidas de capital — DIVS11 fechou o mês em +5,85% e CDII11 em -1,35%. Os prêmios das debêntures atingiram o maior nível desde 2024, o que a Vinland vê como janela de entrada, enquanto a ASA ainda considera os fundos pouco atrativos, rendendo cerca de 93% do CDI.",
+          "fonte": "InfoMoney",
+          "data": "15 out 2026",
+          "link": "https://www.infomoney.com.br/onde-investir/fundos-de-infra-vivem-um-dos-piores-meses-da-historia-queda-e-oportunidade/"
+        },
+        {
+          "tema": "Ações Inter & Nubank",
+          "titulo": "INBR32: prazo para escolher destino dos BDRs do Inter termina nesta sexta; veja o que fazer",
+          "resumo": "O Inter encerrou o programa de BDRs patrocinados (INBR32); investidores tinham até 16 de outubro para escolher o destino dos papéis, data em que o ativo deixou de ser negociado na B3. Quem não se manifestou foi direcionado à venda automática nos EUA com repasse em reais; as alternativas eram converter para ações INTR na Nasdaq ou migrar para o novo BDR não patrocinado INBR34.",
+          "fonte": "Money Times",
+          "data": "15 out 2026",
+          "link": "https://www.moneytimes.com.br/inbr32-prazo-para-escolher-destino-dos-bdrs-do-inter-termina-nesta-sexta-veja-o-que-fazer-rnda/"
+        }
+      ]
     }
   ]
 }
