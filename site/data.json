@@ -4,146 +4,22 @@
     {
       "nome": "Profissional",
       "cor": "var(--pilar-profissional)",
-      "materias": [
-        {
-          "tema": "Inteligência Artificial",
-          "titulo": "Google libera 'Gemini 4 Argon', modelo de IA mais avançado da empresa até o momento",
-          "resumo": "O Google iniciou a liberação global do Gemini 4 Argon, seu modelo de IA mais avançado, para empresas, desenvolvedores e assinantes pagantes. O modelo suporta saídas de até 1 milhão de tokens e lidera o Vals Index, embora concorrentes ainda liderem em benchmarks específicos. Preços promocionais de API valem até 30 de novembro de 2026.",
-          "fonte": "Exame",
-          "data": "13 out 2026",
-          "link": "https://exame.com/inteligencia-artificial/google-libera-globalmente-o-gemini-4-argon-para-empresas-e-assinantes/"
-        },
-        {
-          "tema": "AI para Gestão de Pessoas",
-          "titulo": "IA já devolve 5,4 horas por semana ao RH: potencial chega a 31% da jornada; revela estudo",
-          "resumo": "Pesquisa da LG lugar de gente e da FIA Business School, com 1.130 profissionais ouvidos no CONARH 2026, mostra que a IA já libera cerca de 5,4 horas semanais do RH, hoje 12% da jornada de 44 horas. O potencial pode chegar a 31% da semana, com o tempo redirecionado para desenvolvimento de liderança e gestão de cultura. A adoção começou por tarefas operacionais, como triagem de candidatos, enquanto decisões que exigem julgamento humano continuam nas mãos das pessoas.",
-          "fonte": "Exame",
-          "data": "15 set 2026",
-          "link": "https://exame.com/carreira/ia-ja-devolve-54-horas-por-semana-ao-rh-potencial-chega-a-31-da-jornada-revela-estudo/"
-        },
-        {
-          "tema": "Gestão de Pessoas",
-          "titulo": "Carreira dos Sonhos 2026: essas são as 10 empresas mais desejadas por profissionais brasileiros",
-          "resumo": "A 25ª edição da pesquisa Carreira dos Sonhos, da Cia de Talentos, ouviu 71.545 profissionais no Brasil e aponta Google, Itaú e Vale como as empresas mais desejadas. O levantamento mostra que jovens profissionais priorizam reputação, inovação, desenvolvimento e estabilidade acima de salário elevado. Tempo para aprendizado e bem-estar pessoal ganham peso crescente nas decisões de carreira.",
-          "fonte": "Exame",
-          "data": "6 out 2026 (atualizado em 19 out 2026)",
-          "link": "https://exame.com/carreira/carreira-dos-sonhos-2026-essas-sao-as-10-empresas-mais-desejadas-pelos-jovens-brasileiros/"
-        },
-        {
-          "tema": "CEO",
-          "titulo": "IA cria uma nova elite executiva, com cargos inéditos e salários elevados; entenda como chegar lá",
-          "resumo": "Empresas vêm contratando cada vez mais executivos capazes de conectar IA a resultados de negócio, criando cargos como Chief AI Officer e líderes de transformação em IA. A remuneração pode ser elevada — entre R$ 42 mil e R$ 75 mil por mês para CTOs e CIOs brasileiros, segundo a Forbes Brasil. O caminho até essas posições passa por experimentação com ferramentas de IA, domínio de dados e governança, e resultados mensuráveis.",
-          "fonte": "Exame",
-          "data": "22 out 2026",
-          "link": "https://exame.com/inteligencia-artificial/ia-cria-uma-nova-elite-executiva-com-cargos-ineditos-e-salarios-elevados-entenda-como-chegar-la/"
-        },
-        {
-          "tema": "Automação de Processos",
-          "titulo": "Empresas precisam automatizar tarefas; veja como transformar essa demanda em um negócio",
-          "resumo": "O artigo mostra que pequenas e médias empresas ainda lidam com tarefas manuais repetitivas, abrindo espaço para profissionais especializados em automação. A recomendação é priorizar processos cujos atrasos e erros geram custo visível, com soluções de escopo definido e medidas pelo retorno gerado. Processos sensíveis, como os que envolvem pagamentos ou dados pessoais, exigem controles extras e aprovação humana.",
-          "fonte": "Exame",
-          "data": "16 out 2026",
-          "link": "https://exame.com/inteligencia-artificial/empresas-precisam-automatizar-tarefas-veja-como-transformar-essa-demanda-em-um-negocio/"
-        },
-        {
-          "tema": "Redesenho de Processos",
-          "titulo": "Quatro movimentos de inteligência artificial que vão redefinir o trabalho nas empresas até 2027",
-          "resumo": "O artigo identifica quatro tendências que devem redefinir o trabalho corporativo até 2027: agentes autônomos de IA entrando na operação diária, IA incorporada ao software de uso cotidiano, novas regras de governança sobre acesso a dados e responsabilidade por decisões, e habilidades em IA como critério de contratação. Com base em pesquisas da PwC e da Cloudera, o texto alerta que a adoção de IA está avançando mais rápido que o redesenho de processos e o treinamento das equipes.",
-          "fonte": "Exame",
-          "data": "13 out 2026",
-          "link": "https://exame.com/inteligencia-artificial/quatro-movimentos-de-inteligencia-artificial-que-vao-redefinir-o-trabalho-nas-empresas-ate-2027/"
-        }
-      ]
+      "materias": []
     },
     {
       "nome": "Trabalho",
       "cor": "var(--pilar-trabalho)",
-      "materias": [
-        {
-          "tema": "Publicidade",
-          "titulo": "Mercado Ads passa a usar IA para automatizar campanhas publicitárias",
-          "resumo": "O Mercado Ads, unidade de publicidade do Mercado Livre, lançou o Engage+, ferramenta de IA que automatiza campanhas de topo de funil com base em dados de mais de 131 milhões de compradores. A solução define formatos, frequência e locais de veiculação de anúncios de vídeo e display dentro e fora do ecossistema da empresa. O Engage+ já está disponível para anunciantes no Brasil e em outros mercados da América Latina.",
-          "fonte": "propmark",
-          "data": "22 out 2026",
-          "link": "https://propmark.com.br/midia/mercado-ads-passa-a-usar-ia-para-automatizar-campanhas-publicitarias/"
-        },
-        {
-          "tema": "Novas Publicidades",
-          "titulo": "Globoplay estreia Welcome Ads com Magalu na tela de login",
-          "resumo": "O Globoplay lançou o Welcome Ads, formato que exibe anúncios na tela de login da plataforma, com o Magalu como anunciante de estreia em parceria com a Ogilvy. A novidade amplia o portfólio comercial do streaming, que já inclui Pause Ads e Binge Ads, dando às marcas espaço no primeiro contato do usuário. Mais detalhes do portfólio publicitário foram apresentados no Upfront Globo 2027, em 14 de outubro.",
-          "fonte": "propmark",
-          "data": "1 out 2026",
-          "link": "https://propmark.com.br/midia/globoplay-estreia-welcome-ads-com-magalu-na-tela-de-login/"
-        },
-        {
-          "tema": "Receita com Publicidade",
-          "titulo": "Meta tem lucro de US$ 64,6 bilhões no terceiro trimestre",
-          "resumo": "A Meta lucrou US$ 64,6 bilhões no terceiro trimestre de 2026, alta de 26% em relação ao ano anterior, resultado que a empresa atribui a seus investimentos em IA. As despesas subiram para US$ 51,6 bilhões, ante US$ 30,7 bilhões no mesmo período de 2025. A companhia projeta receita de US$ 73 a 76 bilhões para o quarto trimestre.",
-          "fonte": "Meio & Mensagem",
-          "data": "22 out 2026",
-          "link": "https://www.meioemensagem.com.br/midia/meta-tem-lucro-de-us-646-bilhoes-no-terceiro-trimestre"
-        },
-        {
-          "tema": "Upfront",
-          "titulo": "Upfront Globo 2027: empresa aposta em influência e novos formatos publicitários",
-          "resumo": "No Upfront 2027, em São Paulo, a Globo apresentou estratégia que integra TV aberta, streaming, canais pagos e plataformas digitais. A emissora reforçou novos formatos publicitários, como o Welcome Ads do Globoplay e a expansão do DAI, além de dados de atenção e alcance para atrair anunciantes. O anúncio incluiu também novas produções e a cobertura da Copa do Mundo Feminina de 2027.",
-          "fonte": "propmark",
-          "data": "14 out 2026",
-          "link": "https://propmark.com.br/midia/upfront-globo-2027-empresa-aposta-em-influencia-e-novos-formatos-publicitarios/"
-        },
-        {
-          "tema": "Revoluções na Publicidade",
-          "titulo": "Apostra Wants to Be the Agentic Ad Layer. Does the Industry Need One?",
-          "resumo": "A Apostra, antes conhecida como Scope3, migra da medição de emissões para a publicidade agêntica, com uma divisão que já administrou US$ 1,2 milhão em investimento de mídia nos últimos três meses. A reportagem questiona se os padrões abertos que sustentam esse movimento podem tornar dispensáveis empresas como a própria Apostra. O caso ilustra a disputa por um novo papel de camada agêntica entre compradores e vendedores de mídia.",
-          "fonte": "Adweek",
-          "data": "24 set 2026",
-          "link": "https://www.adweek.com/programmatic/apostra-wants-to-be-the-agentic-ad-layer-does-the-industry-need-one/"
-        }
-      ]
+      "materias": []
     },
     {
       "nome": "Lazer",
       "cor": "var(--pilar-lazer)",
-      "materias": [
-        {
-          "tema": "Vela Esportiva",
-          "titulo": "Filho de bicampeão olímpico conquista título mundial Sub-19 na Vela",
-          "resumo": "Erik Scheidt, filho do bicampeão olímpico Robert Scheidt, conquistou o título mundial Sub-19 de vela na classe ILCA 6, em Aarhus, na Dinamarca, com 48 pontos de vantagem sobre o vice-campeão. O espanhol Nikko Palou ficou com a prata e o italiano Lorenzo Ghirotti com o bronze. Erik já havia conquistado o título europeu da categoria em 2026 e por vezes compete pela Lituânia, país da mãe.",
-          "fonte": "CNN Brasil",
-          "data": "19 ago 2026",
-          "link": "https://www.cnnbrasil.com.br/esportes/outros-esportes/filho-de-bicampeao-olimpico-conquista-titulo-mundial-sub-19-na-vela/"
-        }
-      ]
+      "materias": []
     },
     {
       "nome": "Finanças",
       "cor": "var(--pilar-financas)",
-      "materias": [
-        {
-          "tema": "SELIC e Juros",
-          "titulo": "Alívio no IPCA-15 veio de preços voláteis e inflação em 12 meses passou teto da meta",
-          "resumo": "O IPCA-15 de outubro subiu 0,32%, abaixo dos 0,70% de setembro e da expectativa de mercado de 0,44%, mas a inflação em 12 meses avançou a 4,62%, acima do teto da meta de 4,5%. Economistas atribuem a queda mensal a itens voláteis, enquanto alimentação e serviços de núcleo seguem pressionados. Para o Copom, a expectativa predominante é de mais um corte de 0,25 ponto na Selic, hoje em 13,75%, embora alguns economistas já sinalizem risco de pausa.",
-          "fonte": "InfoMoney",
-          "data": "23 out 2026",
-          "link": "https://infomoney.com.br/economia/ipca-15-outubro-previa-inflacao-fura-meta"
-        },
-        {
-          "tema": "FIIs Kinea",
-          "titulo": "KNCR11 paga dividendos de 1,11% e lucra R$ 121 milhões; veja detalhes",
-          "resumo": "O fundo imobiliário KNCR11, da Kinea, distribuiu cerca de R$ 121 milhões aos cotistas referentes a setembro de 2026, com pagamento em 14 de outubro. O resultado do mês foi de R$ 120,1 milhões, e o fundo fez novos investimentos de R$ 664,4 milhões, principalmente em cotas sênior de outro fundo imobiliário. A maior parte da receita veio de CRIs, sem eventos de crédito negativos reportados na carteira.",
-          "fonte": "fiis.com.br",
-          "data": "20 out 2026",
-          "link": "https://fiis.com.br/noticias/fundo-imobiliario-kncr11-resultado-setembro-2026-jj/"
-        },
-        {
-          "tema": "Ações Inter & Nubank",
-          "titulo": "'Vamos continuar crescendo mais que o mercado', diz CEO do Inter (INBR32); por que investidores ainda não compram essa história?",
-          "resumo": "O Inter superou expectativas no segundo trimestre de 2026, com lucro de R$ 421 milhões e carteira de crédito 29% maior em 12 meses, mas as ações acumulavam queda de cerca de 39% no ano. O CEO Alexandre Riccio afirmou que o banco deve seguir crescendo acima do mercado e considerou exagerada a reação dos investidores. A inadimplência no consignado privado e no cartão é o principal ponto de atenção, com pico esperado no terceiro trimestre e recuo gradual depois.",
-          "fonte": "Money Times",
-          "data": "25 set 2026",
-          "link": "https://www.moneytimes.com.br/vamos-continuar-crescendo-mais-que-o-mercado-diz-ceo-do-inter-inbr32-por-que-a-bolsa-ainda-nao-compra-essa-historia/"
-        }
-      ]
+      "materias": []
     }
   ]
 }
