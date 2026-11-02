@@ -1,25 +1,157 @@
 {
-  "atualizado_em": "26 de outubro de 2026",
+  "atualizado_em": "2 de novembro de 2026",
   "pilares": [
     {
       "nome": "Profissional",
       "cor": "var(--pilar-profissional)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Inteligência Artificial",
+          "titulo": "Google Gems vai acabar em novembro: o que muda para quem usa inteligência artificial no trabalho",
+          "resumo": "Os assistentes personalizados Gemini da Google, chamados Gems, serão convertidos automaticamente em \"Skills\" a partir de 17 de novembro de 2026, começando pelas contas pessoais. Recursos como Canvas e Deep Research ainda não funcionam no novo formato, e as contas Workspace seguem cronograma próprio. A recomendação é revisar os Gems mais usados e testá-los com tarefas reais antes da migração.",
+          "fonte": "Exame",
+          "data": "29 out 2026",
+          "link": "https://exame.com/inteligencia-artificial/google-gems-vai-acabar-em-novembro-o-que-muda-para-quem-usa-inteligencia-artificial-no-trabalho/"
+        },
+        {
+          "tema": "AI para Gestão de Pessoas",
+          "titulo": "IA já devolve 5,4 horas por semana ao RH: potencial chega a 31% da jornada, revela estudo",
+          "resumo": "Levantamento da LG lugar de gente e da FIA Business School, com 1.130 profissionais ouvidos no CONARH 2026, mostra que a IA já devolve cerca de 5,4 horas semanais ao RH, o equivalente a 12% de uma jornada de 44 horas. O estudo projeta que esse ganho pode chegar a 31% do tempo de trabalho conforme as ferramentas evoluem, liberando o RH para focar em cultura e desenvolvimento de lideranças. Tarefas rotineiras, como triagem de currículos, concentram o uso hoje, enquanto usos analíticos, como previsão de turnover, ainda são raros.",
+          "fonte": "Exame",
+          "data": "15 set 2026",
+          "link": "https://exame.com/carreira/ia-ja-devolve-54-horas-por-semana-ao-rh-potencial-chega-a-31-da-jornada-revela-estudo/"
+        },
+        {
+          "tema": "Gestão de Pessoas",
+          "titulo": "Nossas dicas favoritas de gestão para delegar tarefas de forma eficaz",
+          "resumo": "A Harvard Business Review reúne dez dicas de sua newsletter \"Management Tip of the Day\" sobre como delegar tarefas com eficácia. O conteúdo aborda como capacitar funcionários ao transferir responsabilidades e como a delegação pode liberar tempo da liderança para prioridades mais estratégicas.",
+          "fonte": "Harvard Business Review",
+          "data": "22 out 2026",
+          "link": "https://hbr.org/2026/10/our-favorite-management-tips-on-delegating?language=pt"
+        },
+        {
+          "tema": "CEO",
+          "titulo": "How CEOs Set the Tempo",
+          "resumo": "Nitin Nohria argumenta que o ritmo de tomada de decisão de um CEO é uma escolha estratégica tão importante quanto a própria estratégia: decidir rápido demais pode esgotar as equipes e gerar erros evitáveis, enquanto decidir devagar demais custa oportunidades e relevância. Com base na observação de centenas de CEOs, o autor identifica cinco \"tempos\" de liderança distintos e defende que o ritmo ideal depende do líder, da organização, do desafio e das condições externas.",
+          "fonte": "Harvard Business Review",
+          "data": "1 nov 2026",
+          "link": "https://hbr.org/2026/11/how-ceos-set-the-tempo"
+        },
+        {
+          "tema": "Redesenho de Processos",
+          "titulo": "Stop Automating Old Processes. Design New Ones Instead.",
+          "resumo": "Os autores Masha Shunko e Serguei Netessine argumentam que empresas investem pesado em IA mas obtêm pouco retorno porque automatizam tarefas isoladas em vez de redesenhar os fluxos de trabalho que geram valor. Eles recomendam escolher quais processos redesenhar, decidir onde humanos mantêm autoridade por meio de quatro modos de supervisão (Assistir, Aprovar, Auditar e Automatizar) e planejar falhas com desenho para \"caminhos infelizes\", incluindo escalonamento e aprendizado a partir de correções.",
+          "fonte": "Harvard Business Review",
+          "data": "14 set 2026",
+          "link": "https://hbr.org/2026/09/stop-automating-old-processes-design-new-ones-instead"
+        },
+        {
+          "tema": "Gestão Operacional",
+          "titulo": "Design Your Supply Chain as a Portfolio of Options",
+          "resumo": "Regras comerciais, controles de exportação, sanções e mudanças geopolíticas em constante alteração tornam insuficientes as táticas tradicionais de resiliência da cadeia de suprimentos, como estoque extra e diversificação de fornecedores. Os autores recomendam tratar as cadeias de suprimentos como portfólios de opções reais, que mantêm a capacidade de atrasar investimentos, sair de posições fracas, expandir em regiões promissoras e realocar operações — flexibilidade que depende de capacidades construídas com antecedência, como relações com fornecedores e conhecimento regulatório.",
+          "fonte": "Harvard Business Review",
+          "data": "1 nov 2026",
+          "link": "https://hbr.org/2026/11/design-your-supply-chain-as-a-portfolio-of-options"
+        }
+      ]
     },
     {
       "nome": "Trabalho",
       "cor": "var(--pilar-trabalho)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Publicidade",
+          "titulo": "Estudo da Warc indica queda no gasto de publicidade das grandes marcas",
+          "resumo": "Relatório \"Global Ad Trends\", da Warc Media, mostra que 25 grandes anunciantes dos EUA reduziram a parcela das vendas destinada à publicidade, com a relação entre investimento publicitário e vendas caindo de 6,1% em 2019 para 5,5% em 2025. Gigantes de tecnologia como Alphabet, Meta, Microsoft e Netflix lideraram a redução, enquanto empresas de bens de consumo aumentaram os investimentos, impulsionadas pelo retail media. Montadoras e varejistas tradicionais, como Ford, GM, McDonald's e Target, também reduziram suas proporções.",
+          "fonte": "Propmark",
+          "data": "15 out 2026",
+          "link": "https://propmark.com.br/mercado/estudo-da-warc-indica-queda-no-gasto-de-publicidade-das-grandes-marcas/"
+        },
+        {
+          "tema": "Novas Publicidades",
+          "titulo": "Kwai Ad Awards 2026 reúne 37 cases de 26 marcas e 21 agências",
+          "resumo": "O Kwai anunciou os indicados ao Kwai Ad Awards 2026, premiação que passa a integrar o Prêmio Kwai e reúne 37 cases, 26 marcas e 21 agências em seis categorias, incluindo anunciante do ano, agência do ano e campanhas sazonais. Cerca de 350 jurados começaram a votar em 14 de outubro, e os vencedores serão anunciados em 10 de novembro, em São Paulo.",
+          "fonte": "Propmark",
+          "data": "13 out 2026",
+          "link": "https://propmark.com.br/digital/kwai-ad-awards-2026-reune-37-cases-de-26-marcas-e-21-agencias/"
+        },
+        {
+          "tema": "Receita com Publicidade",
+          "titulo": "Publicis Groupe cresce 5% no 3º trimestre e avança 23,8% na América Latina",
+          "resumo": "O Publicis Groupe registrou crescimento orgânico de 5% no terceiro trimestre de 2026, com a América Latina como a região de maior alta, de 23,8%. O grupo manteve a projeção de crescimento orgânico de 4,5% a 5% para o ano e espera expansão média anual de 7% a 8% em 2027 e 2028.",
+          "fonte": "Propmark",
+          "data": "13 out 2026",
+          "link": "https://propmark.com.br/agencias/publicis-groupe-cresce-5-no-3o-trimestre-e-avanca-238-na-america-latina/"
+        },
+        {
+          "tema": "Revoluções na Publicidade",
+          "titulo": "Ad spend forecasts revised upward as more ad dollars are handled by AI tools",
+          "resumo": "O IAB elevou sua projeção de crescimento do investimento publicitário nos EUA para 12,3% este ano, ante estimativa anterior de 9,5%, impulsionado pela demanda em torno de grandes eventos esportivos ao vivo. Segundo a Madison & Wall, tipos de campanha automatizados por IA, como o Advantage+ da Meta e o Performance Max do Google, devem responder por cerca de 12% do investimento publicitário dos EUA este ano e por aproximadamente 27% até 2030.",
+          "fonte": "Digiday",
+          "data": "10 set 2026",
+          "link": "https://digiday.com/media-buying/ad-spend-forecasts-revised-upward-as-more-ad-dollars-are-handled-by-ai-tools/"
+        },
+        {
+          "tema": "Novas Entregas Publicitárias",
+          "titulo": "Future of Marketing Briefing: The agentic turn inside programmatic advertising",
+          "resumo": "O briefing analisa como a IA agêntica deve chegar à publicidade programática de forma gradual, por meio de um período híbrido, em vez de uma virada repentina. O texto cobre três novos padrões — AdCP, UCP e o Agentic RTB Framework — que funcionam em conjunto com o OpenRTB para dar mais estrutura e velocidade à negociação de anúncios. O sucesso dessas iniciativas depende de os padrões se manterem unificados, da evolução da governança e da adesão de publishers e compradores.",
+          "fonte": "Digiday",
+          "data": "22 out 2026 (atualizado)",
+          "link": "https://digiday.com/marketing/future-of-marketing-briefing-the-agentic-turn-inside-programmatic-advertising/"
+        }
+      ]
     },
     {
       "nome": "Lazer",
       "cor": "var(--pilar-lazer)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "Vela Esportiva",
+          "titulo": "Torben Grael assume liderança do Brasileiro de Oceano após vitória no Circuito Rio",
+          "resumo": "O veleiro Magia IV, comandado por Torben Grael, assumiu a liderança da classe ORC no Campeonato Brasileiro de Oceano 2026 após vencer uma das regatas do 57º Circuito Rio, disputado no Iate Clube do Rio de Janeiro, somando 90,10 pontos. O Crioula 52, de Eduardo Plass, que liderava a etapa, caiu para a sétima posição após um problema técnico em uma das provas. A definição dos campeões nacionais estava marcada para a segunda-feira, dia 2 de novembro.",
+          "fonte": "Tribuna do Sertão",
+          "data": "31 out 2026",
+          "link": "https://www.tribunadosertao.com.br/esportes/2026/10/31/1010905-torben-grael-assume-lideranca-do-brasileiro-de-oceano-apos-vitoria-no-circuito-rio"
+        },
+        {
+          "tema": "Navegação Costeira",
+          "titulo": "Temporada de cruzeiros traz novidades e prevê impacto bilionário no turismo",
+          "resumo": "A temporada de cruzeiros 2026/2027 começa no Brasil com oito navios em operação regular, 187 roteiros e aumento de 24% no número de leitos em relação ao ano anterior. A temporada marca a chegada da espanhola Corazul Cruceros, com o navio Buenavista, e o retorno de Paranaguá à operação regular de cruzeiros. Santos espera gerar cerca de R$ 1,5 bilhão em impacto econômico para a região na temporada.",
+          "fonte": "CNN Brasil",
+          "data": "22 out 2026",
+          "link": "https://www.cnnbrasil.com.br/viagemegastronomia/viagem/temporada-de-cruzeiros-traz-novidades-e-preve-impacto-bilionario-no-turismo/"
+        }
+      ]
     },
     {
       "nome": "Finanças",
       "cor": "var(--pilar-financas)",
-      "materias": []
+      "materias": [
+        {
+          "tema": "SELIC e Juros",
+          "titulo": "Ata do Copom não descarta novos cortes da Selic mas cita \"aumento de incerteza\"",
+          "resumo": "Após cortar a Selic de 14% para 13,75% ao ano em setembro, o Copom publicou ata reforçando a necessidade de juros restritivos diante do \"significativo aumento da incerteza\" e de expectativas de inflação acima da meta. O documento não descarta novos cortes, mas condiciona o ritmo à evolução da inflação, da atividade econômica e das expectativas, sem indicar uma trajetória definida para as próximas reuniões.",
+          "fonte": "Exame",
+          "data": "22 set 2026",
+          "link": "https://exame.com/economia/ata-do-copom-nao-descarta-novos-cortes-da-selic-mas-cita-aumento-de-incerteza/"
+        },
+        {
+          "tema": "FIIs Kinea",
+          "titulo": "KNSC11 vai realizar novo pagamento de dividendos; veja quanto",
+          "resumo": "O fundo KNSC11, da Kinea, anunciou pagamento de dividendos de R$ 0,08 por cota, com crédito previsto para 13 de novembro de 2026. Têm direito ao provento os cotistas que possuíam cotas até o fechamento do pregão de 30 de outubro, e o rendimento representa um yield mensal aproximado de 0,91%. O fundo também realizou duas novas operações de CRI em setembro, somando R$ 20,1 milhões.",
+          "fonte": "Fiis.com.br",
+          "data": "31 out 2026",
+          "link": "https://fiis.com.br/noticias/fundo-imobiliario-knsc11-dividendos-pagamento-novembro-2026-jj/"
+        },
+        {
+          "tema": "Ações Inter & Nubank",
+          "titulo": "\"Vamos continuar crescendo mais que o mercado\", diz CEO do Inter (INBR32); por que investidores ainda não compram essa história?",
+          "resumo": "O Inter (INBR32) superou as expectativas do mercado no segundo trimestre de 2026, com lucro de R$ 421 milhões — alta de 34% em base anual — e crescimento de 29% na carteira de crédito. Apesar dos resultados, a ação caiu cerca de 39% no ano, e o CEO Alexandre Riccio afirma que a empresa seguirá crescendo mais rápido que o mercado. Investidores continuam preocupados com o aumento da inadimplência, principalmente em crédito consignado privado e cartões, embora o banco espere que a inadimplência atinja o pico em breve.",
+          "fonte": "Money Times",
+          "data": "25 set 2026",
+          "link": "https://www.moneytimes.com.br/vamos-continuar-crescendo-mais-que-o-mercado-diz-ceo-do-inter-inbr32-por-que-a-bolsa-ainda-nao-compra-essa-historia/"
+        }
+      ]
     }
   ]
 }
