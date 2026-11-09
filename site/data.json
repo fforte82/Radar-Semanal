@@ -4,122 +4,22 @@
     {
       "nome": "Profissional",
       "cor": "var(--pilar-profissional)",
-      "materias": [
-        {
-          "tema": "AI para Gestão de Pessoas",
-          "titulo": "O que a IA não faz por você: habilidades de liderança que seguem insubstituíveis",
-          "resumo": "Embora a IA já elabore relatórios, analise indicadores e sugira soluções, competências como pensamento crítico, comunicação e gestão de pessoas continuam sob responsabilidade humana. Decisões complexas e a construção de confiança nas equipes exigem que líderes usem a IA como apoio, sem transferir a ela essas responsabilidades.",
-          "fonte": "Exame",
-          "data": "8 nov 2026",
-          "link": "https://exame.com/inteligencia-artificial/o-que-a-ia-nao-faz-por-voce-habilidades-de-lideranca-que-seguem-insubstituiveis/"
-        },
-        {
-          "tema": "Gestão de Pessoas",
-          "titulo": "Liderança na era da IA: 5 competências que separam simples gestores de estrategistas",
-          "resumo": "Liderar com inteligência artificial exige mais do que dominar ferramentas como ChatGPT, Copilot e Gemini. O artigo elenca cinco competências que diferenciam gestores comuns de estrategistas: pensamento crítico, identificação de processos para automação, domínio de dados e segurança, condução de mudanças nas equipes e visão de negócio para medir resultados.",
-          "fonte": "Exame",
-          "data": "2 nov 2026",
-          "link": "https://exame.com/inteligencia-artificial/lideranca-na-era-da-ia-x-competencias-que-separam-simples-gestores-de-estrategistas/"
-        }
-      ]
+      "materias": []
     },
     {
       "nome": "Trabalho",
       "cor": "var(--pilar-trabalho)",
-      "materias": [
-        {
-          "tema": "Publicidade",
-          "titulo": "Cinema quer conquistar mais espaço no investimento publicitário brasileiro",
-          "resumo": "A Flix Media, que concentra a maior parte da mídia publicitária no cinema brasileiro, registrou seu melhor mês financeiro da história, impulsionado por filmes em cartaz e campanhas de marcas. O setor também é puxado pelo crescimento da audiência em 2026 e por iniciativas como o Festival do Cinema Brasileiro.",
-          "fonte": "Propmark",
-          "data": "3 nov 2026",
-          "link": "https://propmark.com.br/midia/cinema-quer-conquistar-mais-espaco-no-investimento-publicitario-brasileiro/"
-        },
-        {
-          "tema": "Novas Publicidades",
-          "titulo": "Inteligência artificial ganha peso na decisão de compra",
-          "resumo": "Pesquisa da Conversion com a Opinion Box mostra que 55% dos consumidores já deixaram de comprar marcas não recomendadas por ferramentas de IA, e 79% dos que pediram indicações consideraram a tecnologia decisiva. Diante disso, empresas começam a investir em GEO (otimização para mecanismos generativos) para serem citadas e recomendadas por essas ferramentas.",
-          "fonte": "Meio & Mensagem",
-          "data": "5 nov 2026",
-          "link": "https://www.meioemensagem.com.br/marketing/inteligencia-artificial-ganha-peso-na-decisao-de-compra"
-        },
-        {
-          "tema": "Receita com Publicidade",
-          "titulo": "Globo Friday apostará em ofertas durante os intervalos comerciais",
-          "resumo": "A Globo lançou o Momento Globo Friday, levando promoções aos intervalos da TV Globo durante todo novembro como parte da estratégia de Black Friday 2026. A iniciativa integra TV aberta, canais pagos, Globoplay e meios digitais, substituindo neste ano o programa tradicional da data.",
-          "fonte": "Propmark",
-          "data": "2 nov 2026",
-          "link": "https://propmark.com.br/midia/globo-friday-apostara-em-ofertas-durante-os-intervalos-comerciais/"
-        },
-        {
-          "tema": "Canais de TV",
-          "titulo": "SportyNet entra para o catálogo da Pluto TV",
-          "resumo": "A SportyNet passou a integrar o catálogo da Pluto TV, serviço de streaming gratuito da Skydance, que busca fortalecer sua presença no segmento esportivo. A grade incluirá partidas ao vivo e programas originais, inclusive de eventos regionais.",
-          "fonte": "Meio & Mensagem",
-          "data": "4 nov 2026",
-          "link": "https://www.meioemensagem.com.br/midia/sportynet-entra-para-o-catalogo-da-pluto-tv"
-        },
-        {
-          "tema": "Revoluções na Publicidade",
-          "titulo": "Publicis Groupe conclui aquisição de US$ 2,2 bi da LiveRamp",
-          "resumo": "A Publicis Groupe concluiu, em 2 de novembro, a compra da LiveRamp por US$ 2,2 bilhões, negócio anunciado em maio. A estratégia é combinar a rede de publishers e parceiros de tecnologia da LiveRamp com a Epsilon, especializada em identificação de consumidores, para que clientes construam seus próprios sistemas de IA.",
-          "fonte": "Meio & Mensagem",
-          "data": "3 nov 2026",
-          "link": "https://www.meioemensagem.com.br/comunicacao/publicis-groupe-conclui-aquisicao-de-us-22-bi-da-liveramp"
-        },
-        {
-          "tema": "Novas Entregas Publicitárias",
-          "titulo": "Agencies Are Not Pitch Perfect; Magnite (And Everyone Else) Bets On Agentic",
-          "resumo": "A Magnite registrou receita de US$ 200,6 milhões no terceiro trimestre, alta de 20% na comparação anual, com a CTV crescendo 39% e já representando 53% do total. A empresa passou a usar fluxos de trabalho agênticos para vender inventário de telas iniciais de TVs LG, formatos ainda não padronizados para compra programática.",
-          "fonte": "AdExchanger",
-          "data": "6 nov 2026",
-          "link": "https://www.adexchanger.com/daily-news-roundup/friday-06112026/"
-        }
-      ]
+      "materias": []
     },
     {
       "nome": "Lazer",
       "cor": "var(--pilar-lazer)",
-      "materias": [
-        {
-          "tema": "Vela Esportiva",
-          "titulo": "Santos-Rio reúne gerações de velejadores na 76ª edição",
-          "resumo": "A 76ª Regata Santos-Rio reuniu velejadores de diferentes gerações, como André Mirsky e Pierre Joullié, que começaram a competir ainda crianças ao lado dos pais. Organizada pela ABVO com o Iate Clube de Santos e o Iate Clube do Rio de Janeiro, a prova abre o Campeonato Brasileiro de Oceano 2026.",
-          "fonte": "Tribuna do Sertão",
-          "data": "20 out 2026",
-          "link": "https://tribunadosertao.com.br/esportes/2026/10/20/1000994-santos-rio-reune-geracoes-de-velejadores-na-76a-edicao"
-        }
-      ]
+      "materias": []
     },
     {
       "nome": "Finanças",
       "cor": "var(--pilar-financas)",
-      "materias": [
-        {
-          "tema": "SELIC e Juros",
-          "titulo": "Copom decide taxa de juros sob pressão inflacionária e desconfiança do mercado",
-          "resumo": "Antes da primeira decisão do Copom após as eleições, o mercado passou a esperar a manutenção da Selic em 13,75%, em vez do corte de 0,25 ponto previsto anteriormente. A alta do dólar, a inflação acima do teto da meta e a desconfiança sobre as contas públicas enfraqueceram o espaço para novo afrouxamento monetário.",
-          "fonte": "InfoMoney",
-          "data": "4 nov 2026",
-          "link": "https://www.infomoney.com.br/economia/decisao-copom-manutencao-taxa-selic-pressao-fiscal/"
-        },
-        {
-          "tema": "FIIs Kinea",
-          "titulo": "KNCR11 anuncia menor pagamento de dividendos em 4 meses; saiba valor",
-          "resumo": "O KNCR11 anunciou distribuição de R$ 1,10 por cota, o menor valor em quatro meses, com pagamento previsto para 13 de novembro. O rendimento se refere aos resultados de outubro e representa yield mensal de aproximadamente 1,05%, enquanto o fundo manteve a carteira concentrada em crédito imobiliário pós-fixado.",
-          "fonte": "FIIs.com.br",
-          "data": "31 out 2026",
-          "link": "https://fiis.com.br/noticias/fundo-imobiliario-kncr11-dividendos-novembro-2026-carteira-jj/"
-        },
-        {
-          "tema": "Ações Inter & Nubank",
-          "titulo": "Nubank e Inter chegam ao 3T26 após lucros recordes; veja o que esperar dos resultados",
-          "resumo": "Inter e Nubank chegam ao terceiro trimestre de 2026 após lucros recordes, com expectativa de mais receita e lucro. O foco dos investidores está na qualidade da carteira de crédito: no Inter, pesam a rentabilidade e a estabilização da inadimplência; no Nubank, a sustentação do ROE elevado e o desempenho internacional.",
-          "fonte": "Suno Notícias",
-          "data": "5 nov 2026",
-          "link": "https://www.suno.com.br/noticias/colunas/danielle-lopes/inter-nubank-3t26-o-que-esperar-resultados-credito/"
-        }
-      ]
+      "materias": []
     }
   ]
 }
